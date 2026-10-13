@@ -887,7 +887,7 @@ items:
     en: construction entity for raw materials extraction or for manufacturing
     sk: stavebná entita na ťažbu surovín alebo na výrobu
 - Level 2: NA
-- term:
+  term:
     en: Mine
     sk: Baňa
   definition:
