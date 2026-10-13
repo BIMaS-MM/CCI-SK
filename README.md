@@ -1,4 +1,5 @@
-# CCI-SK (Construction Classification International - Slovakia)
+# CCI-SK
+# (Construction Classification International - Slovakia)
 
 This repository hosts the machine-readable dataset for the Slovak implementation of the Construction Classification International (CCI). It provides a standardized framework for organizing information about the built environment, structured for seamless integration into BIM (Building Information Modeling) workflows and software applications.
 
