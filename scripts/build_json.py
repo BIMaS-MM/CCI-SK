@@ -26,7 +26,7 @@ def convert_yaml_to_json():
             print(f"Converted: {filename} -> {class_code}.json")
 
     # Write aggregated full database file
-    full_json_path = os.path.join(OUTPUT_DIR, "cci_full.json")
+    full_json_path = os.path.join(OUTPUT_DIR, "CCI_Complete-SK.json")
     with open(full_json_path, "w", encoding="utf-8") as fjf:
         json.dump(full_database, fjf, indent=2, ensure_ascii=False)
     
