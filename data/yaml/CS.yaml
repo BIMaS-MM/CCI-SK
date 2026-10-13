@@ -1,0 +1,1164 @@
+class_code: CS
+class_desc: Built space
+items:
+- Level 1: A__
+  Term (EN): Space for human dwelling
+  Definition (EN): space designed for human dwelling and related activities
+  Term (SK): Priestor na prebývanie ľudí
+  Definition (SK): priestor určený na prebývanie ľudí a súvisiace činnosti
+- Level 2: AA_
+  Term (EN): Occupiable space
+  Definition (EN): space for human dwelling for rest, relaxation, recreation or waiting
+  Term (SK): Pobytový priestor
+  Definition (SK): priestor na prebývanie ľudí určený na odpočinok, relaxáciu, rekreáciu
+    alebo čakanie
+- Level 3: AAA
+  Term (EN): Room
+  Definition (EN): occupiable space for personal use
+  Examples (EN): bedroom, children’s play room, hotel room, lounge, suite
+  Term (SK): Izba
+  Definition (SK): pobytový priestor na osobné použitie
+  Examples (SK): spálňa, detská herňa, hotelová izba, salónik, apartmán, detská izba,
+    izba pre návštevy, odpočiváreň
+- Level 3: AAB
+  Term (EN): Living space
+  Definition (EN): occupiable space for shared use
+  Examples (EN): balcony, break room, clubroom, coffee room, dining room, dormitory,
+    living room, playroom, sitting room, smoking room, terrace, ward
+  Term (SK): Obytný priestor
+  Definition (SK): pobytový priestor na spoločné použitie
+  Examples (SK): balkón, oddychová miestnosť, klubovňa, miestnosť na kávu, jedáleň,
+    spoločná nocľaháreň, obývacia izba, hracia miestnosť, salón, fajčiareň, terasa,
+    nemocničná izba, denná izba, zborovňa, spoločenská miestnosť
+- Level 3: AAC
+  Term (EN): Waiting space
+  Definition (EN): occupiable space for waiting
+  Examples (EN): drawing room, emergency assembly point, gate, lounge, reception room,
+    withdrawing room
+  Term (SK): Priestor na čakanie
+  Definition (SK): pobytový priestor na čakanie
+  Examples (SK): salón, zhromaždisko pri evakuácii, nástupná brána, salónik, prijímacia
+    miestnosť, odpočinkový salón, foyer, čakáreň
+- Level 3: AAD
+  Term (EN): Courtyard
+  Definition (EN): occupiable space outdoors entirely or partly surrounded by buildings
+  Examples (EN): atrium, garden, patio, yard
+  Term (SK): Dvor
+  Definition (SK): pobytový priestor v exteriéri úplne alebo čiastočne obklopený budovami
+  Examples (SK): átrium, záhrada, patio, dvor, domový dvor
+- Level 2: AB_
+  Term (EN): Personal hygiene space
+  Definition (EN): space for human dwelling for personal hygiene use
+  Term (SK): Priestor na osobnú hygienu
+  Definition (SK): priestor na prebývanie ľudí určený na osobnú hygienu
+- Level 3: ABA
+  Term (EN): Bathroom
+  Definition (EN): personal hygiene space enabling persons to wash and possibly relieve
+    themselves
+  Examples (EN): disabled lavatory, ladies room, lavatory, loo, men’s room, restroom,
+    urinal, WC
+  Term (SK): Kúpeľňa
+  Definition (SK): priestor na osobnú hygienu umožňujúci osobám umyť sa a prípadne
+    vykonať telesnú potrebu
+  Examples (SK): bezbariérová toaleta, dámska toaleta, toaleta, záchod, pánska toaleta,
+    verejná toaleta, pisoár, WC, kúpeľňa
+- Level 3: ABB
+  Term (EN): Toilet
+  Definition (EN): personal hygiene space enabling persons to relieve themselves
+  Examples (EN): bath, disabled lavatory, ladies room, men’s room, lavatory, loo,
+    restroom, urinal, washroom, WC
+  Term (SK): Toaleta
+  Definition (SK): priestor na osobnú hygienu umožňujúci osobám vykonať telesnú potrebu
+  Examples (SK): kúpeľ, bezbariérová toaleta, dámska toaleta, pánska toaleta, toaleta,
+    záchod, verejná toaleta, pisoár, umyváreň, WC, suché WC
+- Level 3: ABC
+  Term (EN): Baby changing room
+  Definition (EN): personal hygiene space for young children
+  Examples (EN): baby change area, baby changing area, nappy changing room
+  Term (SK): Prebaľovacia miestnosť
+  Definition (SK): priestor na osobnú hygienu pre malé deti
+  Examples (SK): prebaľovací kútik, prebaľovací priestor, prebaľovacia miestnosť
+- Level 3: ABD
+  Term (EN): Changing room
+  Definition (EN): personal hygiene space for changing clothes
+  Examples (EN): "gents changing area, hospital, ladies changing\n area, locker room,\
+    \ work area"
+  Term (SK): Šatňa
+  Definition (SK): priestor na osobnú hygienu určený na prezliekanie
+  Examples (SK): pánska šatňa, nemocnica, dámska šatňa, šatňa so skrinkami, pracovný
+    priestor, šatňa, skúšobná kabínka, sakristia
+- Level 3: ABE
+  Term (EN): Shower
+  Definition (EN): personal hygiene space enabling persons to wash themselves
+  Examples (EN): "changing room, baths, locker room, shower\n niche"
+  Term (SK): Sprcha
+  Definition (SK): priestor na osobnú hygienu umožňujúci osobám osprchovať sa
+  Examples (SK): šatňa, kúpele, šatňa so skrinkami, sprchovací kút, sprcha
+- Level 3: ABF
+  Term (EN): Sauna
+  Definition (EN): personal hygiene space enabling persons to take a sweat-inducing
+    bath
+  Examples (EN): sauna room, steam room, Turkish bath
+  Term (SK): Sauna
+  Definition (SK): priestor na osobnú hygienu umožňujúci osobám vyvolávať potenie
+  Examples (SK): saunová miestnosť, parný kúpeľ, turecký kúpeľ, sauna
+- Level 2: AC_
+  Term (EN): Isolation space
+  Definition (EN): space for human dwelling for isolating persons
+  Term (SK): Izolačný priestor
+  Definition (SK): priestor na prebývanie ľudí určený na izoláciu osôb
+- Level 3: ACA
+  Term (EN): Shelter
+  Definition (EN): isolation space to protect persons from hazardous of dangerous
+    situations
+  Examples (EN): "air-raid shelter, bothy, bunker, decompression\n chamber, earthquake\
+    \ shelter, isolation ward,\n medical isolation unit, panic room, safe room,\n\
+    \ weather shelter"
+  Term (SK): Úkryt
+  Definition (SK): izolačný priestor na ochranu osôb pred nebezpečnými situáciami
+  Examples (SK): protiletecký kryt, útulňa, bunker, dekompresná komora, úkryt pred
+    zemetrasením, izolačné oddelenie, zdravotnícka izolačná jednotka, bezpečnostná
+    miestnosť, chránená miestnosť, úkryt pred nepriazňou počasia, kryt
+- Level 3: ACB
+  Term (EN): Cell
+  Definition (EN): isolation space to separate persons from other persons
+  Examples (EN): "isolation cell, padded cell, prison cell, special\n handling unit"
+  Term (SK): Cela
+  Definition (SK): izolačný priestor na oddelenie osôb od iných osôb
+  Examples (SK): izolačná cela, čalúnená cela, väzenská cela, oddelenie so zvláštnym
+    režimom, cela
+- Level 1: B__
+  Term (EN): Space for human activity
+  Definition (EN): space designed for humans’ leisure and business activities
+  Term (SK): Priestor na činnosť ľudí
+  Definition (SK): priestor určený na voľnočasové a pracovné aktivity človeka
+- Level 2: BA_
+  Term (EN): Workspace
+  Definition (EN): space for human activity for producing an immaterial result
+  Term (SK): Pracovný priestor
+  Definition (SK): priestor na činnosť ľudí určený na vytváranie nehmotného výsledku
+- Level 3: BAA
+  Term (EN): Office
+  Definition (EN): workspace for the production, processing and interpretation of
+    information
+  Examples (EN): 'box office, call centre, cell office, guard room,
+
+    information stand, managers office, open plan office, sales office, single office,
+    ticket office'
+  Term (SK): Kancelária
+  Definition (SK): pracovný priestor na tvorbu, spracovanie a interpretáciu informácií
+  Examples (SK): divadelná pokladňa, kontaktné centrum, bunková kancelária, strážnica,
+    informačný stánok, kancelária vedúceho, veľkopriestorová kancelária, obchodná
+    kancelária, samostatná kancelária, predaj cestovných lístkov, pracovňa, kancelária,
+    expedícia, zborovňa, sesterna
+- Level 3: BAB
+  Term (EN): Meeting space
+  Definition (EN): workspace for meetings
+  Examples (EN): "boardroom, conference room, constituency \noffice, consultation\
+    \ room, council hall, \ncourtroom, interrogation room, interview room,\n meeting\
+    \ room, town project room, union room,\n witness room"
+  Term (SK): Priestor na rokovania
+  Definition (SK): pracovný priestor na rokovania
+  Examples (SK): zasadacia miestnosť predstavenstva, konferenčná miestnosť, poslanecká
+    kancelária, konzultačná miestnosť, zasadacia sieň zastupiteľstva, súdna sieň,
+    vypočúvacia miestnosť, miestnosť na pohovory, zasadacia miestnosť, miestnosť pre
+    mestské projekty, odborárska miestnosť, miestnosť pre svedkov
+- Level 3: BAC
+  Term (EN): Reception
+  Definition (EN): workspace for receiving guests and goods
+  Examples (EN): "counter, information desk, customer service\n area, hotel reception\
+    \ area"
+  Term (SK): Recepcia
+  Definition (SK): pracovný priestor na príjem hostí a tovaru
+  Examples (SK): prepážka, informačný pult, priestor zákazníckeho servisu, hotelová
+    recepcia, recepcia
+- Level 3: BAD
+  Term (EN): Sales area
+  Definition (EN): workspace for selling goods and services
+  Examples (EN): "auction gallery, bar, beauty salon, box office,\n branch, dogs grooming\
+    \ room, food retail\n counter, hairdressing saloon, kiosk, sales floor,\n saloon,\
+    \ shop, sunbed room, ticket office"
+  Term (SK): Predajný priestor
+  Definition (SK): pracovný priestor na predaj tovaru a služieb
+  Examples (SK): aukčná sieň, bar, kozmetický salón, divadelná pokladňa, pobočka,
+    miestnosť na úpravu psov, predajný pult potravín, kaderníctvo, kiosk, predajná
+    plocha, salón, obchod, solárium, predaj cestovných lístkov, lekáreň, predajňa
+- Level 3: BAE
+  Term (EN): Teaching space
+  Definition (EN): workspace conveying knowledge and competencies
+  Examples (EN): auditorium, classroom, creative workshop, language laboratory, lecture
+    hall, lecture room, music room, multimedia room, science room, simulator, gymnasium,
+    studio, tutorial lab
+  Term (SK): Výučbový priestor
+  Definition (SK): pracovný priestor na sprostredkovanie znalostí a kompetencií
+  Examples (SK): auditórium, trieda, tvorivá dielňa, jazykové laboratórium, prednášková
+    sála, prednášková miestnosť, hudobná učebňa, multimediálna učebňa, učebňa prírodných
+    vied, simulátor, telocvičňa, ateliér, cvičné laboratórium, aula, počítačová miestnosť,
+    štúdio, výučbová kuchyňa, učebňa
+- Level 3: BAF
+  Term (EN): Study
+  Definition (EN): workspace for reading
+  Examples (EN): library, quiet room, reading room, study room, reference room
+  Term (SK): Študovňa
+  Definition (SK): pracovný priestor na čítanie
+  Examples (SK): knižnica, tichá miestnosť, čitáreň, študovňa, príručná knižnica
+- Level 3: BAG
+  Term (EN): Laundry
+  Definition (EN): workspace for laundering clothes and linen
+  Examples (EN): laundrette, laundry, laundry room, utility room, wash house
+  Term (SK): Práčovňa
+  Definition (SK): pracovný priestor na pranie odevov a bielizne
+  Examples (SK): samoobslužná práčovňa, práčovňa, miestnosť na pranie, pomocná miestnosť,
+    domová práčovňa, sušiareň
+- Level 3: BAH
+  Term (EN): Treatment space
+  Definition (EN): workspace for health-related and other treatment and care of individuals
+  Examples (EN): apheresis room, chemotherapy room, dialysis room, electrocardiogram
+    room (ECG-room), electroconvulsive therapy room (ECT-room), first-aid room, incubator
+    room, occupational therapy room, operating theatre, massage room, maternity ward,
+    physiotherapy room, post-treatment room, preadmission room, pressure chamber,
+    pre-treatment room, surgery, test room, therapy room, trauma room
+  Term (SK): Liečebný priestor
+  Definition (SK): pracovný priestor na zdravotné a iné ošetrenie a starostlivosť
+    o jednotlivcov
+  Examples (SK): aferézna miestnosť, miestnosť na chemoterapiu, dialyzačná miestnosť,
+    miestnosť EKG, miestnosť elektrokonvulzívnej terapie, miestnosť prvej pomoci,
+    inkubátorová miestnosť, miestnosť ergoterapie, operačná sála, masážna miestnosť,
+    pôrodnícke oddelenie, fyzioterapeutická miestnosť, miestnosť po zákroku, príjmová
+    miestnosť, pretlaková komora, miestnosť pred zákrokom, ambulancia, testovacia
+    miestnosť, terapeutická miestnosť, traumatologická miestnosť, ordinácia lekára,
+    ordinácia veterinára, pôrodná sála
+- Level 3: BAJ
+  Term (EN): Examining space
+  Definition (EN): workspace for diagnosis
+  Examples (EN): "electrocardiogram room (ECG-room),\n electroconvulsive therapy room\
+    \ (ECT-room),\n first-aid room, maternity ward, operating\n theatre, preadmission\
+    \ room, surgery, test room,\n trauma room, tri-age room"
+  Term (SK): Vyšetrovací priestor
+  Definition (SK): pracovný priestor na diagnostiku
+  Examples (SK): miestnosť EKG, miestnosť elektrokonvulzívnej terapie, miestnosť prvej
+    pomoci, pôrodnícke oddelenie, operačná sála, príjmová miestnosť, ambulancia, testovacia
+    miestnosť, traumatologická miestnosť, triážna miestnosť, vyšetrovacia miestnosť,
+    pitevňa
+- Level 3: BAK
+  Term (EN): Observation space
+  Definition (EN): workspace for monitoring individuals
+  Examples (EN): "intensive care room, incubator room, isolation\n room, pressure\
+    \ chamber, recovery room"
+  Term (SK): Observačný priestor
+  Definition (SK): pracovný priestor na sledovanie jednotlivcov
+  Examples (SK): izba intenzívnej starostlivosti, inkubátorová miestnosť, izolačná
+    miestnosť, pretlaková komora, prebúdzacia miestnosť, observačná miestnosť
+- Level 3: BAL
+  Term (EN): Viewing space
+  Definition (EN): workspace for observing processes and persons in adjacent space
+  Examples (EN): "execution room, experimental research room,\n gallery, interrogation\
+    \ room, lodge, market\n research room, operations desk, security\n observation\
+    \ deck in public areas, technical\n gallery"
+  Term (SK): Pozorovací priestor
+  Definition (SK): pracovný priestor na pozorovanie procesov a osôb v priľahlom priestore
+  Examples (SK): popravná miestnosť, miestnosť experimentálneho výskumu, galéria,
+    vypočúvacia miestnosť, lóža, miestnosť na prieskum trhu, operačné pracovisko,
+    bezpečnostná pozorovacia plošina vo verejných priestoroch, technická galéria,
+    pozorovacia miestnosť, kontrolná miestnosť, kontrolné stanovište
+- Level 3: BAM
+  Term (EN): Media workshop
+  Definition (EN): workspace for recording and editing media
+  Examples (EN): cutting room, dark room, drawing office, editing room, film studio,
+    print room, recording studio, sound studio
+  Term (SK): Mediálne štúdio
+  Definition (SK): pracovný priestor na záznam a úpravu médií
+  Examples (SK): strižňa, temná komora, rysovňa, strihová miestnosť, filmové štúdio,
+    tlačiarenská miestnosť, nahrávacie štúdio, zvukové štúdio
+- Level 2: BB_
+  Term (EN): Production space
+  Definition (EN): space for human activity for producing a material result
+  Term (SK): Výrobný priestor
+  Definition (SK): priestor na činnosť ľudí určený na vytváranie hmotného výsledku
+- Level 3: BBA
+  Term (EN): Kitchen
+  Definition (EN): production space for working with foodstuffs
+  Examples (EN): bakery, canteen, food preparation area, kitchenette, pastry kitchen,
+    professional kitchen, scullery, tea kitchen
+  Term (SK): Kuchyňa
+  Definition (SK): výrobný priestor na prácu s potravinami
+  Examples (SK): pekáreň, závodná kuchyňa, priestor na prípravu jedál, kuchynka, cukrárska
+    kuchyňa, profesionálna kuchyňa, umývareň riadu, čajová kuchynka, kuchyňa, prípravovňa
+    jedál
+- Level 3: BBB
+  Term (EN): Materials workshop
+  Definition (EN): production space for working with materials
+  Examples (EN): cutters workshop, forge, paint shop, metal shop, studio, woodwork
+    room, workshop
+  Term (SK): Dielňa na spracovanie materiálov
+  Definition (SK): výrobný priestor na prácu s materiálmi
+  Examples (SK): rezacia dielňa, kováčska dielňa, lakovňa, zámočnícka dielňa, ateliér,
+    stolárska dielňa, dielňa, kováreň, klampiarska dielňa, obuvnícka dielňa
+- Level 3: BBC
+  Term (EN): Machine shop
+  Definition (EN): production space for working with machinery and equipment
+  Examples (EN): garage, IT workshop, mechanics pit, mechanical workshop, plate shop,
+    workshop
+  Term (SK): Strojná dielňa
+  Definition (SK): výrobný priestor na prácu so strojmi a zariadeniami
+  Examples (SK): autoservis, IT dielňa, montážna jama, mechanická dielňa, klampiarska
+    dielňa, dielňa, autoopravovňa, opravovňa počítačov
+- Level 3: BBD
+  Term (EN): Studio
+  Definition (EN): production space for working on art and crafts
+  Examples (EN): ceramic workshop, dressmaker's workroom, glass workshop, pottery,
+    production hall
+  Term (SK): Ateliér
+  Definition (SK): výrobný priestor na umeleckú a remeselnú prácu
+  Examples (SK): keramická dielňa, krajčírska dielňa, sklárska dielňa, hrnčiareň,
+    výrobná hala, fotoštúdio
+- Level 3: BBE
+  Term (EN): Packing space
+  Definition (EN): production space for sorting and packing objects
+  Examples (EN): mail room, medicine room, packing room, storing office, storehouse,
+    storeroom, warehouse
+  Term (SK): Priestor na balenie
+  Definition (SK): výrobný priestor na triedenie a balenie predmetov
+  Examples (SK): poštová miestnosť, miestnosť na lieky, baliareň, skladová kancelária,
+    skladisko, príručný sklad, sklad, centrum príjmu pošty
+- Level 2: BC_
+  Term (EN): Laboratory
+  Definition (EN): space for human activity for performing analyses and tests
+  Term (SK): Laboratórium
+  Definition (SK): priestor na činnosť ľudí určený na vykonávanie analýz a skúšok
+- Level 3: BCA
+  Term (EN): Technical laboratory
+  Definition (EN): laboratory for technical analyses
+  Examples (EN): acoustic testing lab, chemical laboratory, optics laboratory, radiography
+    laboratory, scientific testing room, sound lab, weigh room
+  Term (SK): Technické laboratórium
+  Definition (SK): laboratórium na technické analýzy
+  Examples (SK): laboratórium akustických skúšok, chemické laboratórium, optické laboratórium,
+    rádiografické laboratórium, miestnosť na vedecké skúšky, zvukové laboratórium,
+    miestnosť na váženie
+- Level 3: BCB
+  Term (EN): Materials laboratory
+  Definition (EN): laboratory for studying materials
+  Examples (EN): building physics laboratory, crash test area, fire test area, polymer
+    laboratory, wave simulation tank room, wind tunnel
+  Term (SK): Laboratórium materiálov
+  Definition (SK): laboratórium na skúmanie materiálov
+  Examples (SK): laboratórium stavebnej fyziky, priestor nárazových skúšok, priestor
+    požiarnych skúšok, laboratórium polymérov, miestnosť s nádržou na simuláciu vĺn,
+    aerodynamický tunel
+- Level 3: BCC
+  Term (EN): Biology laboratory
+  Definition (EN): laboratory for biological analysis
+  Examples (EN): fermentation laboratory, food laboratory, medical laboratory, virus
+    laboratory
+  Term (SK): Biologické laboratórium
+  Definition (SK): laboratórium na biologické analýzy
+  Examples (SK): fermentačné laboratórium, potravinárske laboratórium, zdravotnícke
+    laboratórium, virologické laboratórium, biologické laboratórium
+- Level 2: BD_
+  Term (EN): Practice space
+  Definition (EN): space for human activity of sport or culture
+  Term (SK): Cvičný priestor
+  Definition (SK): priestor na činnosť ľudí v oblasti športu alebo kultúry
+- Level 3: BDA
+  Term (EN): Sports hall
+  Definition (EN): practice space for sports
+  Examples (EN): athletic facility, ball game hall, ice drome, ice hall, ice rink,
+    riding arena, swimming facility, swimming pool (indoor)
+  Term (SK): Športová hala
+  Definition (SK): cvičný priestor na šport
+  Examples (SK): atletické zariadenie, hala na loptové hry, zimný štadión, ľadová
+    hala, klzisko, jazdiareň, plavecké zariadenie, krytý bazén, telocvičňa
+- Level 3: BDB
+  Term (EN): Training room
+  Definition (EN): practice space for training strength, condition and balance
+  Examples (EN): fitness centre, fitness room, gym, weights room
+  Term (SK): Cvičebňa
+  Definition (SK): cvičný priestor na tréning sily, kondície a rovnováhy
+  Examples (SK): fitnes centrum, fitnes miestnosť, posilňovňa, činkáreň
+- Level 3: BDC
+  Term (EN): Rehearsal room
+  Definition (EN): practice space for practicing artistic competencies
+  Examples (EN): ballet rehearsal room, music practice room, rehearsal stage
+  Term (SK): Skúšobňa
+  Definition (SK): cvičný priestor na nácvik umeleckých zručností
+  Examples (SK): baletná skúšobňa, hudobná skúšobňa, skúšobné javisko, skúšobňa
+- Level 3: BDD
+  Term (EN): Stage
+  Definition (EN): practice space for performance artistic works
+  Examples (EN): orchestra pit, rehearsal stage, studio
+  Term (SK): Javisko
+  Definition (SK): cvičný priestor na predvádzanie umeleckých diel
+  Examples (SK): orchestrisko, skúšobné javisko, štúdio, pódium
+- Level 3: BDE
+  Term (EN): Playroom
+  Definition (EN): practice space for children
+  Examples (EN): children's play room, soft play area
+  Term (SK): Hracia miestnosť
+  Definition (SK): cvičný priestor pre deti
+  Examples (SK): detská herňa, mäkká herná zóna
+- Level 2: BE_
+  Term (EN): Assembly space
+  Definition (EN): space for human activity for mass assemblies of people/persons
+  Term (SK): Zhromažďovací priestor
+  Definition (SK): priestor na činnosť ľudí určený na hromadné zhromaždenia osôb
+- Level 3: BEA
+  Term (EN): Dining space
+  Definition (EN): assembly space for consumption of food
+  Examples (EN): café, canteen, common room, eatery dining hall, dining room, langar,
+    mess hall, restaurant
+  Term (SK): Stravovací priestor
+  Definition (SK): zhromažďovací priestor na konzumáciu potravín
+  Examples (SK): kaviareň, závodná jedáleň, spoločenská miestnosť, jedálenská sála,
+    jedáleň, langar, vojenská jedáleň, reštaurácia, bar, cukráreň
+- Level 3: BEB
+  Term (EN): Hall
+  Definition (EN): assembly space for social events
+  Examples (EN): ballroom, city chamber, club house, community centre, gathering room,
+    lodge, lounge, masonic hall, meeting hall, music hall, village hall
+  Term (SK): Spoločenská sála
+  Definition (SK): zhromažďovací priestor na spoločenské podujatia
+  Examples (SK): tanečná sála, mestská sieň, klubovňa, komunitné centrum, spoločenská
+    miestnosť, lóža, salónik, slobodomurárska sieň, sála na zhromaždenia, hudobná
+    sála, kultúrny dom, aula, premietacia sála, konferenčná sála, koncertná sála,
+    salón, divadelná sála
+- Level 3: BEC
+  Term (EN): Gallery
+  Definition (EN): assembly space for displaying objects
+  Examples (EN): art gallery, showroom
+  Term (SK): Galéria
+  Definition (SK): zhromažďovací priestor na vystavovanie predmetov
+  Examples (SK): umelecká galéria, predvádzacia miestnosť, výstavný priestor, galéria,
+    výstavná sála
+- Level 3: BED
+  Term (EN): Religious faith space
+  Definition (EN): assembly space for religious activities
+  Examples (EN): Buddhist shrine room, chapel, church room, Darbar sahib, musallah,
+    prayer room, religious faith room
+  Term (SK): Náboženský priestor
+  Definition (SK): zhromažďovací priestor na náboženské činnosti
+  Examples (SK): budhistická svätyňa, kaplnka, cirkevná miestnosť, darbár sáhib, musalla,
+    modlitebňa, miestnosť na náboženské úkony
+- Level 1: C__
+  Term (EN): Storage space
+  Definition (EN): space designed for storage of materials, equipment and organisms
+  Term (SK): Skladovací priestor
+  Definition (SK): priestor určený na skladovanie materiálov, vybavenia a organizmov
+- Level 2: CA_
+  Term (EN): Material storage space
+  Definition (EN): storage space for resources
+  Term (SK): Materiálový sklad
+  Definition (SK): skladovací priestor na zdroje
+- Level 3: CAA
+  Term (EN): Refuse storage space
+  Definition (EN): material storage space for refused and rejected materials or objects
+  Examples (EN): bin room, container storage, garbage area, recycling area, refuse
+    room, rubbish store, waste disposal room
+  Term (SK): Sklad odpadu
+  Definition (SK): materiálový sklad na odpad a vyradené materiály alebo predmety
+  Examples (SK): miestnosť na nádoby na odpad, kontajnerové stanovište, priestor na
+    odpadky, priestor na triedený odpad, miestnosť na odpad, sklad odpadkov, miestnosť
+    na zneškodňovanie odpadu, priestor pre popolnice
+- Level 3: CAB
+  Term (EN): Chemicals storage space
+  Definition (EN): material storage space for chemicals
+  Examples (EN): chemical disposal area, inflammable materials storage room
+  Term (SK): Sklad chemikálií
+  Definition (SK): materiálový sklad na chemikálie
+  Examples (SK): priestor na zneškodňovanie chemikálií, sklad horľavých materiálov,
+    sklad chemikálií
+- Level 3: CAC
+  Term (EN): Medicine storage space
+  Definition (EN): material storage space for medicines
+  Examples (EN): blood deposit, chemist, medicine cupboard, pharmacy
+  Term (SK): Sklad liekov
+  Definition (SK): materiálový sklad na lieky
+  Examples (SK): krvná banka, výdajňa liekov, skrinka na lieky, lekáreň, sklad liečiv
+- Level 3: CAD
+  Term (EN): Archive storage space
+  Definition (EN): material storage space for physical documents or media
+  Examples (EN): document archive, drawing archive, journal archive, library, records
+    archive
+  Term (SK): Archív
+  Definition (SK): materiálový sklad na fyzické dokumenty alebo nosiče
+  Examples (SK): archív dokumentov, archív výkresov, archív časopisov, knižnica, archív
+    záznamov, archív, sklad kníh
+- Level 3: CAE
+  Term (EN): Fluid storage space
+  Definition (EN): material storage space for fluid
+  Examples (EN): oil reservoir, fat reservoir, fuel tank, liquid storage cabinet,
+    safety cans, water basin, water pool, water reservoir
+  Term (SK): Sklad tekutín
+  Definition (SK): materiálový sklad na tekutiny
+  Examples (SK): nádrž na olej, nádrž na tuk, palivová nádrž, skriňa na kvapaliny,
+    bezpečnostné kanistre, vodná nádrž, vodný bazén, zásobník vody
+- Level 3: CAF
+  Term (EN): Raw materials storage space
+  Definition (EN): material storage space for substances or materials for use in production
+    processes
+  Examples (EN): earth repository, combustible material cabinet, paper depot, salt
+    repository, sand repository
+  Term (SK): Sklad surovín
+  Definition (SK): materiálový sklad na látky alebo materiály používané vo výrobných
+    procesoch
+  Examples (SK): depónia zeminy, skriňa na horľavé materiály, sklad papiera, sklad
+    soli, sklad piesku, depónia dreva
+- Level 3: CAG
+  Term (EN): Food storage space
+  Definition (EN): material storage space for food and drinks
+  Examples (EN): beer cellar, cold store, dry goods store, grain store, hot store,
+    larder, refrigerated store, scullery, silo, wine cellar
+  Term (SK): Sklad potravín
+  Definition (SK): materiálový sklad na potraviny a nápoje
+  Examples (SK): pivnica na pivo, chladiarenský sklad, sklad suchých potravín, sklad
+    obilia, teplý sklad, špajza, chladený sklad, umývareň riadu, silo, vínna pivnica,
+    chladiaca miestnosť, mraziareň
+- Level 3: CAH
+  Term (EN): Secure storage space
+  Definition (EN): material storage space for valuable objects
+  Examples (EN): bank, night depository system, safe, safety deposit box, showcase,
+    vault
+  Term (SK): Sklad cenností
+  Definition (SK): materiálový sklad na cenné predmety
+  Examples (SK): banka, nočný trezor, trezor, bezpečnostná schránka, vitrína, trezorová
+    miestnosť
+- Level 3: CAJ
+  Term (EN): Packaging storage space
+  Definition (EN): material storage space of materials for packaging
+  Examples (EN): box room, packaging depot
+  Term (SK): Sklad obalov
+  Definition (SK): materiálový sklad na obalové materiály
+  Examples (SK): komora, sklad obalov
+- Level 3: CAK
+  Term (EN): Clothes storage space
+  Definition (EN): material storage space for clothing, shoes and linen
+  Examples (EN): automatic wardrobe, cupboard, drying loft, drying room, laundry,
+    linen depot, linen store, theatre cloakroom, walk-in closet, wardrobe
+  Term (SK): Sklad odevov
+  Definition (SK): materiálový sklad na odevy, obuv a bielizeň
+  Examples (SK): automatická šatňa, skriňa, sušiareň na povale, sušiareň, práčovňa,
+    sklad bielizne, komora na bielizeň, divadelná šatňa, šatník, šatníková skriňa,
+    šatňa
+- Level 3: CAL
+  Term (EN): Building materials storage space
+  Definition (EN): material storage space for building materials
+  Examples (EN): electrical depot, heating water and sanitation (HWS) depot, lumber
+    yard, masonry depot, timber depot
+  Term (SK): Sklad stavebných materiálov
+  Definition (SK): materiálový sklad na stavebné materiály
+  Examples (SK): sklad elektromateriálu, sklad materiálu ústredného kúrenia a zdravotechniky,
+    sklad reziva, sklad murárskeho materiálu, sklad dreva, sklad stavebnín
+- Level 3: CAM
+  Term (EN): Explosives space
+  Definition (EN): material storage space for explosives
+  Examples (EN): ammunition bunker, ammunition chamber, ammunition depot, dynamite
+    room, fireworks room
+  Term (SK): Sklad výbušnín
+  Definition (SK): materiálový sklad na výbušniny
+  Examples (SK): muničný bunker, muničná komora, muničný sklad, sklad dynamitu, sklad
+    pyrotechniky
+- Level 3: CAN
+  Term (EN): Stockroom
+  Definition (EN): material storage space for products, goods and cargo
+  Examples (EN): cargo storage, goods storage
+  Term (SK): Sklad tovaru
+  Definition (SK): materiálový sklad na výrobky, tovar a náklad
+  Examples (SK): sklad nákladu, sklad tovaru
+- Level 2: CB_
+  Term (EN): Equipment storage space
+  Definition (EN): storage space for moveable technical equipment
+  Term (SK): Sklad vybavenia
+  Definition (SK): skladovací priestor na premiestniteľné technické vybavenie
+- Level 3: CBA
+  Term (EN): Furniture storage space
+  Definition (EN): equipment storage space of objects for fitting out (of spaces)
+  Examples (EN): backstage, basement room, depository, loft storage room, roof storage
+    room, side stage, storage cupboard warehouse
+  Term (SK): Sklad nábytku
+  Definition (SK): sklad vybavenia na predmety na zariadenie priestorov
+  Examples (SK): zákulisie, suterénna miestnosť, úložisko, podkrovný sklad, sklad
+    pod strechou, bočné javisko, sklad úložných skríň, sklad nábytku, podkrovné priestory
+- Level 3: CBB
+  Term (EN): Tool storage space
+  Definition (EN): equipment storage space for tools
+  Examples (EN): cleaning cupboard, equipment room, garage, garden shed, potting shed,
+    utility shed, weapons workshop
+  Term (SK): Sklad náradia
+  Definition (SK): sklad vybavenia na náradie
+  Examples (SK): upratovacia komora, miestnosť na vybavenie, garáž, záhradný domček,
+    záhradnícka kôlňa, kôlňa na náradie, zbrojárska dielňa, upratovacia miestnosť,
+    sklad náradia
+- Level 3: CBC
+  Term (EN): Instrument storage space
+  Definition (EN): equipment storage space for technical instruments
+  Examples (EN): aircraft apparatus storage, apparatus storage, medicotechnical storage
+  Term (SK): Sklad prístrojov
+  Definition (SK): sklad vybavenia na technické prístroje
+  Examples (SK): sklad leteckých prístrojov, sklad prístrojov, sklad zdravotníckej
+    techniky
+- Level 3: CBD
+  Term (EN): Vehicle storage space
+  Definition (EN): equipment storage space for modes of transport
+  Examples (EN): apron, bicycle store, boat shed, bus depot, carpark, container base,
+    cycle shed, depot, dock, dry-dock, electrical vehicle charging place, garage,
+    hangar, lorry park, parking area, parking space, train depot, truck-dock
+  Term (SK): Priestor na odstavovanie dopravných prostriedkov
+  Definition (SK): sklad vybavenia na dopravné prostriedky
+  Examples (SK): odbavovacia plocha, úschovňa bicyklov, kôlňa na člny, autobusové
+    depo, parkovisko, kontajnerová základňa, prístrešok na bicykle, depo, dok, suchý
+    dok, nabíjacie miesto pre elektromobily, garáž, hangár, parkovisko pre nákladné
+    vozidlá, parkovacia plocha, parkovacie miesto, železničné depo, nakladacia rampa
+    pre nákladné vozidlá, koláreň, kočíkáreň
+- Level 2: CC_
+  Term (EN): Animal enclosure
+  Definition (EN): storage space for enclosing animals
+  Term (SK): Priestor na držanie zvierat
+  Definition (SK): skladovací priestor na držanie zvierat
+- Level 3: CCA
+  Term (EN): Cage
+  Definition (EN): animal enclosure for keeping animals locked up
+  Examples (EN): aviary, bird cage, enclosure, reserve, terrarium
+  Term (SK): Klietka
+  Definition (SK): priestor na držanie zvierat, v ktorom sú zvieratá zavreté
+  Examples (SK): voliéra, vtáčia klietka, ohrada, rezervácia, terárium
+- Level 3: CCB
+  Term (EN): Stall
+  Definition (EN): animal enclosure for keeping animals fenced in
+  Examples (EN): aviary, box, cage, enclosure, pen, reserve, vivarium
+  Term (SK): Kotec
+  Definition (SK): priestor na držanie zvierat, v ktorom sú zvieratá ohradené
+  Examples (SK): voliéra, box, klietka, ohrada, kotec, rezervácia, vivárium, státie
+- Level 3: CCC
+  Term (EN): Stable
+  Definition (EN): animal enclosure for providing shelter
+  Examples (EN): cowshed, hobby shed, pig shed, production shed, sheep shed
+  Term (SK): Stajňa
+  Definition (SK): priestor na držanie zvierat poskytujúci úkryt
+  Examples (SK): kravín, hobby prístrešok, chliev, hala na živočíšnu výrobu, ovčín,
+    prístrešok
+- Level 3: CCD
+  Term (EN): Water enclosure
+  Definition (EN): animal enclosure for keeping animals in water
+  Examples (EN): aquarium, aquafarming enclosure, fish tank, ocean enclosure, pond,
+    pool
+  Term (SK): Vodný výbeh
+  Definition (SK): priestor na držanie zvierat vo vode
+  Examples (SK): akvárium, ohrada na akvakultúru, nádrž na ryby, morská ohrada, jazierko,
+    bazén, klietka na chov rýb
+- Level 2: CD_
+  Term (EN): Planting space
+  Definition (EN): storage space for plants
+  Term (SK): Priestor na pestovanie
+  Definition (SK): skladovací priestor na rastliny
+- Level 3: CDA
+  Term (EN): Indoor planting space
+  Definition (EN): planting space for growing plants indoor
+  Examples (EN): botanical garden, conservatory, greenhouse, hothouse, orangery, palm
+    garden, solarium, sunroom, tropical garden, winter garden
+  Term (SK): Vnútorný priestor na pestovanie
+  Definition (SK): priestor na pestovanie rastlín vo vnútri
+  Examples (SK): botanická záhrada, presklená veranda, skleník, vykurovaný skleník,
+    oranžéria, palmáreň, solárium, slnečná izba, tropická záhrada, zimná záhrada
+- Level 3: CDB
+  Term (EN): Outdoor planting space
+  Definition (EN): planting space for growing plants outdoor
+  Examples (EN): apple garden, herb garden, rose garden
+  Term (SK): Vonkajší priestor na pestovanie
+  Definition (SK): priestor na pestovanie rastlín vonku
+  Examples (SK): jabloňový sad, bylinková záhrada, rozárium, záhon, sad
+- Level 2: CE_
+  Term (EN): Dead body storage
+  Definition (EN): storage space for dead bodies
+  Term (SK): Priestor na uloženie mŕtvych tiel
+  Definition (SK): skladovací priestor na uloženie mŕtvych tiel
+- Level 3: CEA
+  Term (EN): Chapel of rest
+  Definition (EN): dead body storage for interim storage
+  Examples (EN): cold room, morgue, mortuary
+  Term (SK): Márnica
+  Definition (SK): priestor na dočasné uloženie mŕtvych tiel
+  Examples (SK): chladiaca miestnosť, márnica, dom smútku
+- Level 3: CEB
+  Term (EN): Crypt
+  Definition (EN): dead body storage for permanent storage
+  Examples (EN): columbarium, mausoleum
+  Term (SK): Krypta
+  Definition (SK): priestor na trvalé uloženie mŕtvych tiel
+  Examples (SK): kolumbárium, mauzóleum, krypta
+- Level 1: D__
+  Term (EN): Space for technical systems
+  Definition (EN): space designed for active technical equipment
+  Term (SK): Priestor pre technické systémy
+  Definition (SK): priestor určený pre aktívne technické vybavenie
+- Level 2: DA_
+  Term (EN): Installation space
+  Definition (EN): space for technical systems which support the function of construction
+    entities
+  Term (SK): Inštalačný priestor
+  Definition (SK): priestor pre technické systémy, ktoré podporujú funkciu stavebných
+    entít
+- Level 3: DAA
+  Term (EN): Electric installation space
+  Definition (EN): installation space for stationary electric equipment
+  Examples (EN): accumulator room, battery room, converter hall, fuse room, generator
+    room, high voltage room, meter room, no-break room, reactor hall, switch room,
+    switchgear room, transformer area, transformer room
+  Term (SK): Elektroinštalačný priestor
+  Definition (SK): inštalačný priestor pre stacionárne elektrické zariadenia
+  Examples (SK): akumulátorovňa, miestnosť batérií, meniareň, miestnosť poistiek,
+    miestnosť generátora, miestnosť vysokého napätia, miestnosť elektromerov, miestnosť
+    neprerušiteľného napájania, reaktorová hala, spínacia miestnosť, rozvodňa, transformátorový
+    priestor, transformátorovňa
+- Level 3: DAB
+  Term (EN): Information technology (IT) equipment space
+  Definition (EN): installation space for stationary electronic equipment
+  Examples (EN): backup room, computer room, data centre, distributed systems room,
+    main distribution room, server farm, server room, switch room
+  Term (SK): Priestor pre zariadenia informačných technológií
+  Definition (SK): inštalačný priestor pre stacionárne elektronické zariadenia
+  Examples (SK): miestnosť zálohovania, počítačová miestnosť, dátové centrum, miestnosť
+    distribuovaných systémov, hlavná rozvodná miestnosť, serverová farma, serverovňa,
+    miestnosť sieťových prepínačov, telefónna ústredňa
+- Level 3: DAC
+  Term (EN): Mechanical installation space
+  Definition (EN): installation space for stationary mechanical equipment
+  Examples (EN): elevator room, engine room, hoist room, lift equipment room, pressurized
+    cylinder room, motor bay, motor room refrigerator room
+  Term (SK): Strojovňa
+  Definition (SK): inštalačný priestor pre stacionárne mechanické zariadenia
+  Examples (SK): výťahová strojovňa, strojovňa, miestnosť zdviháka, miestnosť výťahového
+    zariadenia, miestnosť tlakových fliaš, motorový priestor, strojovňa chladiaceho
+    zariadenia, priestor potrubnej pošty
+- Level 3: DAD
+  Term (EN): Shared installation space
+  Definition (EN): installation space for stationary technical equipment
+  Examples (EN): booster room, climate room, compressor room, district heating plant,
+    filter room, heating plant, installations room, landing gear bay, operations room,
+    plant room, service room, technical room, thermal power plant, ventilation room
+  Term (SK): Spoločný inštalačný priestor
+  Definition (SK): inštalačný priestor pre stacionárne technické zariadenia
+  Examples (SK): miestnosť tlakovej stanice, klimatizačná miestnosť, kompresorovňa,
+    zariadenie diaľkového vykurovania, filtračná miestnosť, kotolňa, inštalačná miestnosť,
+    priestor podvozku, prevádzková miestnosť, technologická miestnosť, servisná miestnosť,
+    technická miestnosť, tepláreň, vzduchotechnická strojovňa
+- Level 2: DB_
+  Term (EN): Equipment space
+  Definition (EN): space for technical systems which support human activities
+  Term (SK): Technické zázemie
+  Definition (SK): priestor pre technické systémy, ktoré podporujú ľudské činnosti
+- Level 3: DBA
+  Term (EN): Control equipment space
+  Definition (EN): equipment space of controlling, regulating and monitoring
+  Examples (EN): command centre, control centre, cutting room, editing room, light
+    control room, mixer room, operations room, producer room, radar room
+  Term (SK): Priestor riadiacich zariadení
+  Definition (SK): technické zázemie na riadenie, reguláciu a monitorovanie
+  Examples (SK): veliteľské centrum, riadiace centrum, strižňa, strihová miestnosť,
+    osvetľovacia kabína, mixážna miestnosť, operačná miestnosť, réžia, radarová miestnosť,
+    monitorovacie stanovište, riadiace stanovište
+- Level 3: DBB
+  Term (EN): Production plant space
+  Definition (EN): equipment space of fabricating and preparing products
+  Examples (EN): engine room, print shop, slaughter room, sorting plant hall, turbine
+    hall
+  Term (SK): Priestor výrobných zariadení
+  Definition (SK): technické zázemie na výrobu a úpravu produktov
+  Examples (SK): strojovňa, tlačiareň, porážková miestnosť, hala triediacej linky,
+    turbínová hala, výrobná hala, mliekareň
+- Level 3: DBC
+  Term (EN): Service equipment space
+  Definition (EN): equipment space of service functions
+  Examples (EN): copy centre, copy room, fax room, printer room, projector room, Xerox
+    room
+  Term (SK): Priestor obslužných zariadení
+  Definition (SK): technické zázemie obslužných funkcií
+  Examples (SK): kopírovacie centrum, kopírovacia miestnosť, faxová miestnosť, tlačiarenská
+    miestnosť, premietacia kabína, xeroxová miestnosť
+- Level 3: DBD
+  Term (EN): Analysis equipment space
+  Definition (EN): equipment space of analyses
+  Examples (EN): CT scanner room, laboratory, MR scanner room, observatory, X-ray
+    room
+  Term (SK): Priestor analytických zariadení
+  Definition (SK): technické zázemie na analýzy
+  Examples (SK): miestnosť CT, laboratórium, miestnosť MR, observatórium, röntgenová
+    miestnosť
+- Level 2: DC_
+  Term (EN): Equipment operation space
+  Definition (EN): space for technical systems which provides space for equipment
+    operation
+  Term (SK): Priestor na prevádzku zariadení
+  Definition (SK): priestor pre technické systémy, ktorý poskytuje priestor na prevádzku
+    zariadení
+- Level 3: DCA
+  Term (EN): Work envelope
+  Definition (EN): equipment operation space providing equipment movement space
+  Examples (EN): robot work envelope
+  Term (SK): Pracovný priestor zariadenia
+  Definition (SK): priestor na prevádzku zariadení poskytujúci priestor na pohyb zariadenia
+  Examples (SK): pracovný priestor robota
+- Level 3: DCB
+  Term (EN): Clearance space
+  Definition (EN): equipment operation space providing clearance around equipment
+  Examples (EN): safety room
+  Term (SK): Manipulačný priestor
+  Definition (SK): priestor na prevádzku zariadení poskytujúci voľný priestor okolo
+    zariadenia
+  Examples (SK): bezpečnostný priestor, bezpečnostná zóna
+- Level 1: E__
+  Term (EN): Space for infrastructure
+  Definition (EN): space designed to create links between activity spaces
+  Term (SK): Priestor pre infraštruktúru
+  Definition (SK): priestor určený na vytvorenie prepojení medzi priestormi pre činnosti
+- Level 2: EA_
+  Term (EN): Circulation space
+  Definition (EN): space for infrastructure providing access
+  Term (SK): Komunikačný priestor
+  Definition (SK): priestor pre infraštruktúru poskytujúci prístup
+- Level 3: EAA
+  Term (EN): Vestibule
+  Definition (EN): circulation space between outdoor and indoor spaces
+  Examples (EN): antechamber, double door, entrance, foyer, hall, lobby, porch, security
+    door, storm door, vestibule, weather porch, wing exits
+  Term (SK): Vestibul
+  Definition (SK): komunikačný priestor medzi vonkajšími a vnútornými priestormi
+  Examples (SK): predpriestor, dvojité dvere, vstup, foyer, hala, vstupná hala, krytý
+    vstup, bezpečnostné dvere, predsadené dvere, vestibul, závetrie, bočné východy,
+    hlavný vchod
+- Level 3: EAB
+  Term (EN): Air lock
+  Definition (EN): circulation space for regulating passage between spaces
+  Examples (EN): carousel, foyer, lobby, porch, storm door, swing door, vestibule
+  Term (SK): Zádverie
+  Definition (SK): komunikačný priestor na regulovaný prechod medzi priestormi
+  Examples (SK): otočné dvere, foyer, vstupná hala, krytý vstup, predsadené dvere,
+    kyvné dvere, vestibul, predsieň
+- Level 3: EAC
+  Term (EN): Corridor
+  Definition (EN): circulation space horizontally between two or more spaces
+  Examples (EN): antechamber, anteroom, external gallery, foyer, hall, platform
+  Term (SK): Chodba
+  Definition (SK): komunikačný priestor horizontálne spájajúci dva alebo viac priestorov
+  Examples (SK): predpriestor, predsieň, pavlač, foyer, hala, plošina, prepojovacia
+    chodba, priechod, podchod
+- Level 3: EAD
+  Term (EN): Stairwell
+  Definition (EN): circulation space vertically and non-automated between two or more
+    storeys or levels
+  Examples (EN): close, stairs, stairway, stairwell
+  Term (SK): Schodisko
+  Definition (SK): komunikačný priestor vertikálne spájajúci dve alebo viac podlaží
+    alebo úrovní bez strojného pohonu
+  Examples (SK): spoločný vchod ku schodisku, schody, schodisko, schodiskový priestor
+- Level 3: EAE
+  Term (EN): Lift space
+  Definition (EN): circulation space vertically and automated between two or more
+    levels
+  Examples (EN): dumb water, elevator cage, hoist, lift car, pulley cart, stair lift,
+    window cleaning cradle
+  Term (SK): Priestor výťahu
+  Definition (SK): komunikačný priestor vertikálne spájajúci dve alebo viac úrovní
+    so strojným pohonom
+  Examples (SK): malý nákladný výťah, klietka výťahu, zdvihák, kabína výťahu, kladkový
+    vozík, schodiskový výťah, plošina na čistenie okien, eskalátor
+- Level 3: EAF
+  Term (EN): Portico
+  Definition (EN): circulation space through a building
+  Examples (EN): coach gate, passage, passageway
+  Term (SK): Priechod
+  Definition (SK): komunikačný priestor cez budovu
+  Examples (SK): vjazdová brána, priechod, pasáž, prejazd
+- Level 2: EB_
+  Term (EN): Services space
+  Definition (EN): space for infrastructure for distributing technical services or
+    media
+  Term (SK): Priestor pre rozvody
+  Definition (SK): priestor pre infraštruktúru na rozvod technických služieb alebo
+    médií
+- Level 3: EBA
+  Term (EN): Services tunnel
+  Definition (EN): services space with horizontal access for persons
+  Examples (EN): access gang, attic, crawl way, gangway, lighting gangway, lighting
+    passage, loft, maintenance corridor, services tunnel, technical passage, technical
+    tunnel, ventilation shaft
+  Term (SK): Technická chodba
+  Definition (SK): priestor pre rozvody s horizontálnym prístupom pre osoby
+  Examples (SK): prístupová lávka, podkrovie, polopriechodný kanál, lávka, osvetľovacia
+    lávka, osvetľovací priechod, povala, údržbová chodba, kolektor, technický priechod,
+    technický tunel, vetracia šachta, technický podchod, pivničná chodba
+- Level 3: EBB
+  Term (EN): Shaft
+  Definition (EN): services space with vertical access for persons
+  Examples (EN): disposal shaft, elevator shaft, maintenance shaft, technical shaft,
+    ventilation shaft, waste installation shaft
+  Term (SK): Šachta
+  Definition (SK): priestor pre rozvody s vertikálnym prístupom pre osoby
+  Examples (SK): zhozová šachta, výťahová šachta, revízna šachta, technická šachta,
+    vetracia šachta, šachta odpadovej inštalácie, inštalačná šachta
+- Level 3: EBC
+  Term (EN): Duct
+  Definition (EN): services space without access for persons
+  Examples (EN): air intake, air outlet, air shaft, chimney, mixing chamber, ventilation
+    duct
+  Term (SK): Kanál
+  Definition (SK): priestor pre rozvody bez prístupu pre osoby
+  Examples (SK): nasávanie vzduchu, výfuk vzduchu, vzduchová šachta, komín, zmiešavacia
+    komora, vetracie potrubie
+- Level 1: F__
+  Term (EN): Traffic space
+  Definition (EN): space for traffic
+  Examples (EN): movement space
+  Term (SK): Dopravný priestor
+  Definition (SK): priestor na dopravu
+  Examples (SK): pohybový priestor
+- Level 2: FA_
+  Term (EN): Vehicle traffic space
+  Definition (EN): traffic space for vehicles
+  Examples (EN): highway, motorway, road, road tunnel, street, tunnel
+  Term (SK): Dopravný priestor pre vozidlá
+  Definition (SK): dopravný priestor pre vozidlá
+  Examples (SK): rýchlostná cesta, diaľnica, cesta, cestný tunel, ulica, tunel
+- Level 3: FAA
+  Term (EN): Carriageway
+  Definition (EN): vehicle traffic space intended for vehicles
+  Term (SK): Vozovka
+  Definition (SK): dopravný priestor pre vozidlá určený na jazdu vozidiel
+- Level 3: FAB
+  Term (EN): Traffic lane
+  Definition (EN): vehicle traffic space for one line of traffic
+  Examples (EN): roadway
+  Term (SK): Jazdný pruh
+  Definition (SK): dopravný priestor pre vozidlá pre jeden prúd vozidiel
+  Examples (SK): jazdný pruh
+- Level 3: FAC
+  Term (EN): Shoulder
+  Definition (EN): vehicle traffic space along a carriageway for emergency and intermediate
+    use
+  Examples (EN): verge, road verge
+  Term (SK): Krajnica
+  Definition (SK): dopravný priestor pre vozidlá pozdĺž vozovky určený na núdzové
+    a prechodné použitie
+  Examples (SK): nespevnená krajnica, zelený pás pri ceste
+- Level 3: FAD
+  Term (EN): Lay-by out lane
+  Definition (EN): vehicle traffic space for stopping of vehicles
+  Examples (EN): bus stop, bus turnout, turn-out lane
+  Term (SK): Odstavný pruh
+  Definition (SK): dopravný priestor pre vozidlá určený na zastavenie vozidiel
+  Examples (SK): autobusová zastávka, zastávkový záliv, odstavný záliv
+- Level 3: FAE
+  Term (EN): Passing place
+  Definition (EN): vehicle traffic space for meeting of vehicles
+  Term (SK): Výhybňa
+  Definition (SK): dopravný priestor pre vozidlá určený na stretávanie vozidiel
+- Level 3: FAF
+  Term (EN): Turning place
+  Definition (EN): vehicle traffic space for turning of vehicles
+  Term (SK): Obratisko
+  Definition (SK): dopravný priestor pre vozidlá určený na otáčanie vozidiel
+- Level 2: FB_
+  Term (EN): Active transportation space
+  Definition (EN): traffic space for persons, animals or bicycles
+  Examples (EN): active traffic space
+  Term (SK): Priestor pre nemotorovú dopravu
+  Definition (SK): dopravný priestor pre osoby, zvieratá alebo bicykle
+  Examples (SK): priestor nemotorovej dopravy
+- Level 3: FBA
+  Term (EN): Walkway
+  Definition (EN): active transportation spaces for pedestrians
+  Examples (EN): sidewalk, pavement, footpath, pedestrian tunnel
+  Term (SK): Chodník
+  Definition (SK): priestor pre nemotorovú dopravu určený pre chodcov
+  Examples (SK): chodník, chodník pri ulici, pešia cesta, podchod pre chodcov
+- Level 3: FBB
+  Term (EN): Cycle path
+  Definition (EN): active transportation space for bicycles
+  Examples (EN): bicycle lane, cycle lane
+  Term (SK): Cyklistický chodník
+  Definition (SK): priestor pre nemotorovú dopravu určený pre bicykle
+  Examples (SK): cyklistický pruh, pruh pre cyklistov
+- Level 3: FBC
+  Term (EN): Cycle- and footpath
+  Definition (EN): active transportation space for bicycles and pedestrians
+  Term (SK): Chodník pre chodcov a cyklistov
+  Definition (SK): priestor pre nemotorovú dopravu určený pre bicykle a chodcov
+- Level 3: FBD
+  Term (EN): Animal path
+  Definition (EN): active transportation space for animals
+  Examples (EN): bridle path, bridleway
+  Term (SK): Chodník pre zvieratá
+  Definition (SK): priestor pre nemotorovú dopravu určený pre zvieratá
+  Examples (SK): jazdecký chodník, jazdecká cesta
+- Level 2: FC
+  Term (EN): Aircraft traffic space
+  Definition (EN): traffic space for aircrafts
+  Term (SK): Dopravný priestor pre lietadlá
+  Definition (SK): dopravný priestor pre lietadlá
+- Level 3: FCA
+  Term (EN): Runway
+  Definition (EN): aircraft traffic space for take-off and landing
+  Term (SK): Vzletová a pristávacia dráha
+  Definition (SK): dopravný priestor pre lietadlá na vzlet a pristátie
+- Level 3: FCB
+  Term (EN): Taxiway
+  Definition (EN): aircraft traffic space for taxiing
+  Examples (EN): perimeter track
+  Term (SK): Rolovacia dráha
+  Definition (SK): dopravný priestor pre lietadlá na rolovanie
+  Examples (SK): obvodová dráha
+- Level 2: FD_
+  Term (EN): Track space
+  Definition (EN): traffic space for track bound objects
+  Term (SK): Koľajový priestor
+  Definition (SK): dopravný priestor pre koľajové vozidlá
+- Level 3: FDA
+  Term (EN): Rail track
+  Definition (EN): track space not intended for crossing
+  Term (SK): Koľaj
+  Definition (SK): koľajový priestor, ktorý nie je určený na križovanie
+- Level 3: FDB
+  Term (EN): Railway crossing
+  Definition (EN): track space intended for crossing
+  Term (SK): Železničné priecestie
+  Definition (SK): koľajový priestor určený na križovanie
+- Level 2: FE_
+  Term (EN): Vessel traffic space
+  Definition (EN): traffic space for vessels
+  Term (SK): Plavebný priestor
+  Definition (SK): dopravný priestor pre plavidlá
+- Level 3: FEA
+  Term (EN): Fairway
+  Definition (EN): vessel track space for horizontal traffic
+  Examples (EN): canal
+  Term (SK): Plavebná dráha
+  Definition (SK): plavebný priestor na horizontálnu dopravu
+  Examples (SK): prieplav
+- Level 3: FEB
+  Term (EN): Sluice
+  Definition (EN): vessel track space for vertical traffic
+  Term (SK): Plavebná komora
+  Definition (SK): plavebný priestor na vertikálnu dopravu plavidiel
+- Level 2: FF_
+  Term (EN): Traffic management space
+  Definition (EN): traffic space for separation and management
+  Term (SK): Priestor na riadenie dopravy
+  Definition (SK): dopravný priestor na oddelenie a riadenie
+- Level 3: FFA
+  Term (EN): Dividing strip
+  Definition (EN): traffic management space separating traffic spaces
+  Term (SK): Deliaci pás
+  Definition (SK): priestor na riadenie dopravy oddeľujúci dopravné priestory
+  Examples (SK): deliaci pruh
+- Level 3: FFB
+  Term (EN): Platform space
+  Definition (EN): traffic management space for change of transport mode
+  Term (SK): Nástupište
+  Definition (SK): priestor na riadenie dopravy určený na zmenu druhu dopravy
+  Examples (SK): nástupište, autobusová zastávka
+- Level 3: FFC
+  Term (EN): Traffic information space
+  Definition (EN): traffic management space providing information
+  Term (SK): Priestor pre dopravné informácie
+  Definition (SK): priestor na riadenie dopravy poskytujúci informácie
+  Examples (SK): odchodová tabuľa
+- Level 3: FFD
+  Term (EN): Clearance profile
+  Definition (EN): traffic management space providing clearance to other objects
+  Examples (EN): building gauge, clearance, clearance zone
+  Term (SK): Prejazdný profil
+  Definition (SK): priestor na riadenie dopravy zabezpečujúci odstup od iných objektov
+  Examples (SK): priechodný prierez, voľný priestor, zóna voľného priestoru
+- Level 3: FFE
+  Term (EN): Prohibited area
+  Definition (EN): traffic management space being part of read or street not meant
+    for vehicle traffic
+  Term (SK): Zakázaný priestor
+  Definition (SK): priestor na riadenie dopravy, ktorý je súčasťou cesty alebo ulice,
+    ale nie je určený na jazdu vozidiel
+  Examples (SK): zakázaný priestor jazdného pruhu
+- Level 1: P__
+  Term (EN): Physical phenomenon space
+  Definition (EN): space designed for the occurrence of physical phenomena
+  Term (SK): Priestor fyzikálnych javov
+  Definition (SK): priestor určený na výskyt fyzikálnych javov
+- Level 2: PA_
+  Term (EN): Matter flow space
+  Definition (EN): physical phenomenon space for flow or occurrence of matter
+  Term (SK): Priestor toku hmoty
+  Definition (SK): priestor fyzikálnych javov pre tok alebo výskyt hmoty
+- Level 3: PAA
+  Term (EN): Debris space
+  Definition (EN): matter flow space for objects
+  Examples (EN): debris zone, engine burst zone
+  Term (SK): Priestor trosiek
+  Definition (SK): priestor toku hmoty pre predmety
+  Examples (SK): zóna trosiek, zóna roztrhnutia motora
+- Level 3: PAB
+  Term (EN): Solid material flow space
+  Definition (EN): matter flow space for solid materials
+  Term (SK): Priestor toku pevného materiálu
+  Definition (SK): priestor toku hmoty pre pevné materiály
+- Level 3: PAC
+  Term (EN): Gas flow spaces
+  Definition (EN): matter flow space for gas
+  Examples (EN): engine exhaust zone, engine ingestion area
+  Term (SK): Priestor prúdenia plynu
+  Definition (SK): priestor toku hmoty pre plyn
+  Examples (SK): zóna výfukových plynov motora, zóna nasávania motora
+- Level 3: PAD
+  Term (EN): Liquid flow spaces
+  Definition (EN): matter flow space for liquid
+  Examples (EN): condensation collection space
+  Term (SK): Priestor prúdenia kvapaliny
+  Definition (SK): priestor toku hmoty pre kvapalinu
+  Examples (SK): priestor na zachytávanie kondenzátu
+- Level 3: PAE
+  Term (EN): Plasma flow space
+  Definition (EN): matter flow space for plasma
+  Term (SK): Priestor prúdenia plazmy
+  Definition (SK): priestor toku hmoty pre plazmu
+- Level 3: PAF
+  Term (EN): Smoke occurrence space
+  Definition (EN): matter flow space for multiple matter kinds
+  Examples (EN): smoke spread
+  Term (SK): Priestor výskytu dymu
+  Definition (SK): priestor toku hmoty pre viacero druhov hmoty
+  Examples (SK): šírenie dymu
+- Level 2: PB_
+  Term (EN): Energy flow space
+  Definition (EN): physical phenomenon space for flow of energy
+  Term (SK): Priestor toku energie
+  Definition (SK): priestor fyzikálnych javov pre tok energie
+- Level 3: PBA
+  Term (EN): Electrical energy flow space
+  Definition (EN): energy flow spaces for electrical energy
+  Examples (EN): lightning strike zone
+  Term (SK): Priestor toku elektrickej energie
+  Definition (SK): priestor toku energie pre elektrickú energiu
+  Examples (SK): zóna úderu blesku
+- Level 3: PBB
+  Term (EN): Thermal energy flow space
+  Definition (EN): energy flow spaces for thermal energy
+  Examples (EN): thermal spread zone
+  Term (SK): Priestor toku tepelnej energie
+  Definition (SK): priestor toku energie pre tepelnú energiu
+  Examples (SK): zóna šírenia tepla
+- Level 3: PBC
+  Term (EN): Mechanical energy flow space
+  Definition (EN): energy flow spaces for mechanical energy
+  Examples (EN): impact zone, bump zone
+  Term (SK): Priestor toku mechanickej energie
+  Definition (SK): priestor toku energie pre mechanickú energiu
+  Examples (SK): zóna nárazu, zóna otrasu
+- Level 3: PBD
+  Term (EN): Explosion space
+  Definition (EN): energy flow spaces for explosion
+  Term (SK): Priestor výbuchu
+  Definition (SK): priestor toku energie pri výbuchu
+- Level 3: PBE
+  Term (EN): Fire zone
+  Definition (EN): energy flow spaces for combustion
+  Examples (EN): gas flare zone
+  Term (SK): Zóna horenia
+  Definition (SK): priestor toku energie pri horení
+  Examples (SK): zóna plynovej fakle

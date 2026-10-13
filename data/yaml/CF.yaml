@@ -1,0 +1,141 @@
+class_code: CF
+class_desc: Functional system
+items:
+- Level 1: A
+  Term (EN): Ground system
+  Definition (EN): space system which terminates a construction entity downwards
+  Examples (EN): ground, courtyard, lawn, road embankment
+  Term (SK): Terénny systém
+  Definition (SK): priestorový systém, ktorý ohraničuje stavebnú entitu smerom nadol
+  Examples (SK): terén, dvor, trávnik, cestný násyp
+- Level 1: B
+  Term (EN): Wall system
+  Definition (EN): space system which forms and separates space vertically
+  Examples (EN): wall, facade, facade system
+  Term (SK): Stenový systém
+  Definition (SK): priestorový systém, ktorý vytvára a oddeľuje priestor vertikálne
+  Examples (SK): stena, fasáda, fasádny systém
+- Level 1: C
+  Term (EN): Slab system
+  Definition (EN): space system which forms and separates space horizontally
+  Examples (EN): floor, ground floor, roofing
+  Term (SK): Doskový systém
+  Definition (SK): priestorový systém, ktorý vytvára a oddeľuje priestor horizontálne
+  Examples (SK): podlaha, prízemie, strešná krytina
+- Level 1: D
+  Term (EN): Roof system
+  Definition (EN): space system which terminates a construction entity upwards
+  Examples (EN): roof, roofing
+  Term (SK): Strešný systém
+  Definition (SK): priestorový systém, ktorý ohraničuje stavebnú entitu smerom nahor
+  Examples (SK): strecha, strešná krytina
+- Level 1: E
+  Term (EN): Gas and air system
+  Definition (EN): installation system which supplies technical gases or technical
+    air
+  Examples (EN): equipment for gas and air, gas, air
+  Term (SK): Systém plynov a vzduchu
+  Definition (SK): inštalačný systém, ktorý dodáva technické plyny alebo technický
+    vzduch
+  Examples (SK): zariadenia na plyn, zariadenia na vzduch
+- Level 1: F
+  Term (EN): Water and fluid system
+  Definition (EN): installation system which supplies domestic water, technical water
+    or other liquid
+  Examples (EN): water, liquid
+  Term (SK): Systém vody a kvapalín
+  Definition (SK): inštalačný systém, ktorý dodáva pitnú vodu, úžitkovú vodu alebo
+    inú kvapalinu
+  Examples (SK): voda, kvapalina
+- Level 1: G
+  Term (EN): Drainage and waste system
+  Definition (EN): installation system which discharges liquid or disposes of waste
+  Examples (EN): drainage, waste
+  Term (SK): Kanalizačný a odpadový systém
+  Definition (SK): inštalačný systém, ktorý odvádza kvapaliny alebo odstraňuje odpad
+  Examples (SK): kanalizácia, odpad
+- Level 1: H
+  Term (EN): Cooling and/or heating system
+  Definition (EN): installation system which supplies cooling and/or heating
+  Examples (EN): heating, chilling
+  Term (SK): Systém chladenia a/alebo vykurovania
+  Definition (SK): inštalačný systém, ktorý zabezpečuje chladenie a/alebo vykurovanie
+  Examples (SK): vykurovanie, chladenie
+- Level 1: J
+  Term (EN): Ventilation system
+  Definition (EN): installation system which supplies air exchange
+  Examples (EN): ventilation
+  Term (SK): Vetrací systém
+  Definition (SK): inštalačný systém, ktorý zabezpečuje výmenu vzduchu
+  Examples (SK): vetranie
+- Level 1: K
+  Term (EN): Electrical system
+  Definition (EN): installation system which supplies electrical energy
+  Examples (EN): electricity production plant, power supply system, electrical system,
+    routing system
+  Term (SK): Elektroinštalačný systém
+  Definition (SK): inštalačný systém, ktorý dodáva elektrickú energiu
+  Examples (SK): zariadenie na výrobu elektrickej energie, systém napájania, elektrický
+    systém, systém káblových trás
+- Level 1: L
+  Term (EN): Automation system
+  Definition (EN): installation system which controls, adjusts and monitors technical
+    systems in a context
+  Examples (EN): control system, monitoring system, alarm system, BMS system, texting
+    system, traffic control system
+  Term (SK): Automatizačný systém
+  Definition (SK): inštalačný systém, ktorý riadi, nastavuje a monitoruje technické
+    systémy vo vzájomných súvislostiach
+  Examples (SK): riadiaci systém, monitorovací systém, poplachový systém, systém riadenia
+    budovy (BMS), systém textových správ, systém riadenia dopravy
+- Level 1: M
+  Term (EN): Information and communication system
+  Definition (EN): installation system which provides communications between persons
+    or technical systems
+  Examples (EN): communication equipment, IT systems, IT equipment, ICT system
+  Term (SK): Informačný a komunikačný systém
+  Definition (SK): inštalačný systém, ktorý zabezpečuje komunikáciu medzi osobami
+    alebo technickými systémami
+  Examples (SK): komunikačné zariadenia, IT systémy, IT zariadenia, IKT systém
+- Level 1: N
+  Term (EN): Transportation system
+  Definition (EN): installation system which transports goods or persons
+  Examples (EN): transport system, transport, lift, goods lift, escalator, elevator
+  Term (SK): Dopravný systém
+  Definition (SK): inštalačný systém, ktorý prepravuje tovar alebo osoby
+  Examples (SK): dopravný systém, doprava, výťah, nákladný výťah, eskalátor, osobný
+    výťah
+- Level 1: P
+  Term (EN): Security and safety system
+  Definition (EN): installation system which protects any object from danger and damage
+  Examples (EN): sprinkler, fire fighting, intrusion control, emergency lighting,
+    fire ventilation, perimeter security
+  Term (SK): Bezpečnostný a ochranný systém
+  Definition (SK): inštalačný systém, ktorý chráni akýkoľvek objekt pred nebezpečenstvom
+    a poškodením
+  Examples (SK): sprinklerové hasiace zariadenie, hasenie požiarov, zabezpečenie proti
+    vniknutiu, núdzové osvetlenie, požiarne vetranie, perimetrická ochrana
+- Level 1: Q
+  Term (EN): Lighting system
+  Definition (EN): installation system for light management
+  Examples (EN): electrical lighting, daylight system, sunblind, blackout
+  Term (SK): Systém osvetlenia
+  Definition (SK): inštalačný systém na riadenie svetla
+  Examples (SK): elektrické osvetlenie, systém denného osvetlenia, slnečná clona,
+    zatemnenie
+- Level 1: R
+  Term (EN): Railroad system
+  Definition (EN): installation system guiding and directing track-bound vehicles
+  Examples (EN): railroad
+  Term (SK): Železničný systém
+  Definition (SK): inštalačný systém, ktorý vedie a riadi koľajové vozidlá
+  Examples (SK): železnica
+- Level 1: S
+  Term (EN): Arrangement system
+  Definition (EN): fit-out system which equips a construction entity and its spaces
+    with fittings and equipment
+  Examples (EN): fitting out rooms, furnishing solutions
+  Term (SK): Systém vybavenia
+  Definition (SK): systém vybavenia, ktorý vybavuje stavebnú entitu a jej priestory
+    zariaďovacími predmetmi a zariadením
+  Examples (SK): vybavenie miestností, nábytkové riešenia

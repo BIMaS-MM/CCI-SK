@@ -1,0 +1,38 @@
+name: Convert YAML to JSON
+
+on:
+  push:
+    paths:
+      - 'data/yaml/**'
+      - 'scripts/**'
+      - '.github/workflows/convert-yaml-to-json.yml'
+
+jobs:
+  build-json:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pyyaml
+
+      - name: Run Conversion Script
+        run: python scripts/build_json.py
+
+      - name: Commit and Push Updated JSON Files
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "auto: update JSON database from updated YAML sources"
+          file_pattern: 'data/json/*.json'
