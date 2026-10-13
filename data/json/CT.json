@@ -1,0 +1,872 @@
+{
+  "class_code": "CT",
+  "class_desc": "Techincal system",
+  "items": [
+    {
+      "Level 1": "A_",
+      "Term (EN)": "Assembly system",
+      "Definition (EN)": "technical system which constitutes a layered construction",
+      "Term (SK)": "Stavebná konštrukcia",
+      "Definition (SK)": "technický systém, ktorý tvorí vrstvenú konštrukciu"
+    },
+    {
+      "Level 2": "AA",
+      "Term (EN)": "Pavement construction",
+      "Definition (EN)": "assembly system forming areas for transport",
+      "Examples (EN)": "surface, pavement",
+      "Term (SK)": "Konštrukcia vozovky",
+      "Definition (SK)": "stavebná konštrukcia, ktorá vytvára plochy pre dopravu",
+      "Examples (SK)": "povrchová vrstva, spevnená plocha"
+    },
+    {
+      "Level 2": "AB",
+      "Term (EN)": "Foundation construction",
+      "Definition (EN)": "assembly system forming separation towards underground",
+      "Examples (EN)": "foundation",
+      "Term (SK)": "Konštrukcia základov",
+      "Definition (SK)": "stavebná konštrukcia, ktorá tvorí oddelenie smerom k podložiu",
+      "Examples (SK)": "základ, základová doska, základový pás, základová pätka, pilóty"
+    },
+    {
+      "Level 2": "AC",
+      "Term (EN)": "Slab construction",
+      "Definition (EN)": "assembly system forming horizontal separation",
+      "Examples (EN)": "slab",
+      "Term (SK)": "Stropná konštrukcia",
+      "Definition (SK)": "stavebná konštrukcia, ktorá tvorí horizontálne oddelenie",
+      "Examples (SK)": "doska, klenba"
+    },
+    {
+      "Level 2": "AD",
+      "Term (EN)": "Wall construction",
+      "Definition (EN)": "assembly system forming vertical separation",
+      "Examples (EN)": "wall, window slot, door slot",
+      "Term (SK)": "Konštrukcia steny",
+      "Definition (SK)": "stavebná konštrukcia, ktorá tvorí vertikálne oddelenie",
+      "Examples (SK)": "stena, okenný otvor, dverný otvor, pohyblivá stena, sendvičová stena, murovaná stena"
+    },
+    {
+      "Level 2": "AE",
+      "Term (EN)": "Roof construction",
+      "Definition (EN)": "assembly system terminating a construction entity upwards",
+      "Examples (EN)": "roof",
+      "Term (SK)": "Konštrukcia strechy",
+      "Definition (SK)": "stavebná konštrukcia, ktorá ukončuje stavebnú entitu smerom nahor",
+      "Examples (SK)": "strecha"
+    },
+    {
+      "Level 2": "AF",
+      "Term (EN)": "Stairway construction",
+      "Definition (EN)": "assembly system establishing a step-wise link between two or more levels",
+      "Examples (EN)": "staircase, stair",
+      "Term (SK)": "Konštrukcia schodiska",
+      "Definition (SK)": "stavebná konštrukcia, ktorá vytvára stupňovité prepojenie medzi dvoma alebo viacerými úrovňami",
+      "Examples (SK)": "schodisko, schody"
+    },
+    {
+      "Level 2": "AG",
+      "Term (EN)": "Ramp construction",
+      "Definition (EN)": "assembly system establishing a step-free link between two or more levels",
+      "Examples (EN)": "ramp",
+      "Term (SK)": "Konštrukcia rampy",
+      "Definition (SK)": "stavebná konštrukcia, ktorá vytvára bezstupňové prepojenie medzi dvoma alebo viacerými úrovňami",
+      "Examples (SK)": "rampa, zabudovaná rampa, samonosná rampa"
+    },
+    {
+      "Level 2": "AH",
+      "Term (EN)": "Balcony",
+      "Definition (EN)": "assembly system that creates an adjoining outer user space built into wall system or roof system",
+      "Examples (EN)": "exterior corridor",
+      "Term (SK)": "Balkón",
+      "Definition (SK)": "stavebná konštrukcia, ktorá vytvára priľahlý vonkajší užívateľský priestor zabudovaný do stenového systému alebo strešného systému",
+      "Examples (SK)": "pavlač, prefabrikovaný balkón"
+    },
+    {
+      "Level 2": "AJ",
+      "Term (EN)": "Bay window",
+      "Definition (EN)": "assembly system that creates an extended inner user space built into wall system",
+      "Term (SK)": "Arkier",
+      "Definition (SK)": "stavebná konštrukcia, ktorá vytvára rozšírený vnútorný užívateľský priestor zabudovaný do stenového systému",
+      "Examples (SK)": "arkier"
+    },
+    {
+      "Level 2": "AK",
+      "Term (EN)": "Dormer",
+      "Definition (EN)": "assembly system that creates an extended inner user space built into roof system",
+      "Term (SK)": "Vikier",
+      "Definition (SK)": "stavebná konštrukcia, ktorá vytvára rozšírený vnútorný užívateľský priestor zabudovaný do strešného systému",
+      "Examples (SK)": "vikier"
+    },
+    {
+      "Level 2": "AL",
+      "Term (EN)": "Roof tower",
+      "Definition (EN)": "assembly system that creates an extended inner user space built on top of roof system or construction entity",
+      "Term (SK)": "Strešná veža",
+      "Definition (SK)": "stavebná konštrukcia, ktorá vytvára rozšírený vnútorný užívateľský priestor postavený na strešnom systéme alebo na stavebnej entite",
+      "Examples (SK)": "strešný domec"
+    },
+    {
+      "Level 2": "AM",
+      "Term (EN)": "Light well",
+      "Definition (EN)": "assembly system that creates an extended space for light transmission",
+      "Term (SK)": "Svetlík",
+      "Definition (SK)": "stavebná konštrukcia, ktorá vytvára rozšírený priestor na prenos svetla",
+      "Examples (SK)": "svetlík"
+    },
+    {
+      "Level 1": "B_",
+      "Term (EN)": "Structural system",
+      "Definition (EN)": "technical system which forms structural construction",
+      "Term (SK)": "Nosná konštrukcia",
+      "Definition (SK)": "technický systém, ktorý tvorí nosnú konštrukciu"
+    },
+    {
+      "Level 2": "BA",
+      "Term (EN)": "Groundworks structure",
+      "Definition (EN)": "structural system forming a regulated volume of underground",
+      "Examples (EN)": "terrain, groundworks",
+      "Term (SK)": "Zemná konštrukcia",
+      "Definition (SK)": "nosná konštrukcia tvoriaca upravený objem podložia",
+      "Examples (SK)": "terén, zemné práce"
+    },
+    {
+      "Level 2": "BB",
+      "Term (EN)": "Foundation structure",
+      "Definition (EN)": "structural system connecting a construction entity with the underground",
+      "Examples (EN)": "foundation",
+      "Term (SK)": "Nosná konštrukcia základov",
+      "Definition (SK)": "nosná konštrukcia spájajúca stavebnú entitu s podložím",
+      "Examples (SK)": "základ, základová doska"
+    },
+    {
+      "Level 2": "BC",
+      "Term (EN)": "Slab structure",
+      "Definition (EN)": "structural system in a horizontal separation",
+      "Term (SK)": "Nosná konštrukcia stropnej dosky",
+      "Definition (SK)": "nosná konštrukcia v horizontálnom oddelení",
+      "Examples (SK)": "stropná doska"
+    },
+    {
+      "Level 2": "BD",
+      "Term (EN)": "Wall structure",
+      "Definition (EN)": "structural system in a vertical separation",
+      "Term (SK)": "Nosná konštrukcia steny",
+      "Definition (SK)": "nosná konštrukcia vo vertikálnom oddelení",
+      "Examples (SK)": "nosná stena"
+    },
+    {
+      "Level 2": "BE",
+      "Term (EN)": "Roof structure",
+      "Definition (EN)": "structural system terminating a construction entity upwards",
+      "Term (SK)": "Nosná konštrukcia strechy",
+      "Definition (SK)": "nosná konštrukcia ukončujúca stavebnú entitu smerom nahor",
+      "Examples (SK)": "nosná konštrukcia strechy"
+    },
+    {
+      "Level 2": "BF",
+      "Term (EN)": "Floor structure",
+      "Definition (EN)": "structural system terminating a space downwards",
+      "Examples (EN)": "floor",
+      "Term (SK)": "Nosná konštrukcia podlahy",
+      "Definition (SK)": "nosná konštrukcia ukončujúca priestor smerom nadol",
+      "Examples (SK)": "podlaha"
+    },
+    {
+      "Level 2": "BG",
+      "Term (EN)": "Ceiling structure",
+      "Definition (EN)": "structural system terminating a space upwards",
+      "Examples (EN)": "ceiling",
+      "Term (SK)": "Nosná konštrukcia podhľadu",
+      "Definition (SK)": "nosná konštrukcia ukončujúca priestor smerom nahor",
+      "Examples (SK)": "podhľad"
+    },
+    {
+      "Level 2": "BH",
+      "Term (EN)": "Routing structure",
+      "Definition (EN)": "structural system supporting supply or distribution system",
+      "Examples (EN)": "cable routing",
+      "Term (SK)": "Nosná konštrukcia trasy rozvodov",
+      "Definition (SK)": "nosná konštrukcia podopierajúca systém zásobovania alebo rozvodu",
+      "Examples (SK)": "káblová trasa"
+    },
+    {
+      "Level 1": "C_",
+      "Term (EN)": "Ground surface construction system",
+      "Definition (EN)": "technical construction system forming ground-based areas",
+      "Term (SK)": "Konštrukcia povrchu terénu",
+      "Definition (SK)": "technický systém, ktorý tvorí plochy na teréne"
+    },
+    {
+      "Level 2": "CA",
+      "Term (EN)": "Subgrade construction",
+      "Definition (EN)": "ground surface construction system which gives support to other constructions",
+      "Term (SK)": "Konštrukcia podložia",
+      "Definition (SK)": "konštrukcia povrchu terénu, ktorá poskytuje oporu iným konštrukciám",
+      "Examples (SK)": "vrstvy podložia"
+    },
+    {
+      "Level 2": "CB",
+      "Term (EN)": "Ground superstructure construction",
+      "Definition (EN)": "ground surface construction system for hard covered outdoor space",
+      "Term (SK)": "Konštrukcia spevnenej plochy",
+      "Definition (SK)": "konštrukcia povrchu terénu pre vonkajší priestor so spevneným povrchom",
+      "Examples (SK)": "chodník, cesta, parkovisko"
+    },
+    {
+      "Level 2": "CC",
+      "Term (EN)": "Traffic island construction",
+      "Definition (EN)": "ground surface construction system for traffic separation area",
+      "Term (SK)": "Konštrukcia dopravného ostrovčeka",
+      "Definition (SK)": "konštrukcia povrchu terénu pre plochu na oddelenie dopravy",
+      "Examples (SK)": "ostrovček"
+    },
+    {
+      "Level 2": "CD",
+      "Term (EN)": "Side area construction",
+      "Definition (EN)": "ground surface construction system for safety zone for traffic",
+      "Term (SK)": "Konštrukcia postrannej plochy",
+      "Definition (SK)": "konštrukcia povrchu terénu pre bezpečnostnú zónu dopravy",
+      "Examples (SK)": "krajnica"
+    },
+    {
+      "Level 2": "CE",
+      "Term (EN)": "Railway embankment construction",
+      "Definition (EN)": "ground surface construction system for railway track support",
+      "Term (SK)": "Konštrukcia železničného násypu",
+      "Definition (SK)": "konštrukcia povrchu terénu na podopretie železničnej koľaje",
+      "Examples (SK)": "podkladné vrstvy pre koľaj"
+    },
+    {
+      "Level 2": "CF",
+      "Term (EN)": "Vegetation area construction",
+      "Definition (EN)": "ground surface construction system for vegetation areas",
+      "Term (SK)": "Konštrukcia vegetačnej plochy",
+      "Definition (SK)": "konštrukcia povrchu terénu pre vegetačné plochy",
+      "Examples (SK)": "trávnik, záhrada"
+    },
+    {
+      "Level 2": "CG",
+      "Term (EN)": "Water management construction",
+      "Definition (EN)": "ground surface construction system for transport, storage or infiltration of water, or for space along water or over water",
+      "Term (SK)": "Vodohospodárska konštrukcia",
+      "Definition (SK)": "konštrukcia povrchu terénu na dopravu, akumuláciu alebo vsakovanie vody alebo pre priestor pozdĺž vody alebo nad vodou",
+      "Examples (SK)": "drenáž, vsakovací blok"
+    },
+    {
+      "Level 2": "CH",
+      "Term (EN)": "Pipe ditch system",
+      "Definition (EN)": "ground surface construction system for refilled media excavation",
+      "Term (SK)": "Systém rýh pre potrubné vedenia",
+      "Definition (SK)": "konštrukcia povrchu terénu pre výkop so spätným zásypom",
+      "Examples (SK)": "ryha v teréne s potrubím"
+    },
+    {
+      "Level 2": "CJ",
+      "Term (EN)": "Foundation and ground support construction",
+      "Definition (EN)": "ground surface construction system which carries vertical or horizontal load",
+      "Term (SK)": "Základová a zemná nosná konštrukcia",
+      "Definition (SK)": "konštrukcia povrchu terénu, ktorá prenáša zvislé alebo vodorovné zaťaženie",
+      "Examples (SK)": "základová škára, štrkové vankúše"
+    },
+    {
+      "Level 2": "CK",
+      "Term (EN)": "Terrain stairway / terrain ramp construction",
+      "Definition (EN)": "ground surface construction system which connects spaces at different levels",
+      "Term (SK)": "Konštrukcia terénneho schodiska / terénnej rampy",
+      "Definition (SK)": "konštrukcia povrchu terénu, ktorá spája priestory na rôznych výškových úrovniach",
+      "Examples (SK)": "rampa, schody"
+    },
+    {
+      "Level 2": "CL",
+      "Term (EN)": "Terrain wall construction",
+      "Definition (EN)": "ground surface construction system which separates spaces",
+      "Term (SK)": "Konštrukcia terénneho múru",
+      "Definition (SK)": "konštrukcia povrchu terénu, ktorá oddeľuje priestory",
+      "Examples (SK)": "oporný múr, palisáda, obrubník"
+    },
+    {
+      "Level 1": "D_",
+      "Term (EN)": "Railway track construction system",
+      "Definition (EN)": "technical system which guides rail bound vehicles",
+      "Term (SK)": "Konštrukcia koľaje",
+      "Definition (SK)": "technický systém, ktorý vedie koľajové vozidlá"
+    },
+    {
+      "Level 2": "DA",
+      "Term (EN)": "Ballasted railway track construction",
+      "Definition (EN)": "railway track construction system with two rails, on ballast",
+      "Term (SK)": "Koľaj so štrkovým lôžkom",
+      "Definition (SK)": "konštrukcia koľaje s dvoma koľajnicami na štrkovom lôžku",
+      "Examples (SK)": "koľajové polia na štrkovom lôžku, výhybky na štrkovom lôžku, dilatačné zariadenia na štrkovom lôžku"
+    },
+    {
+      "Level 2": "DB",
+      "Term (EN)": "Non-ballasted railway track construction",
+      "Definition (EN)": "railway track construction system with two rails, without ballast",
+      "Term (SK)": "Pevná jazdná dráha",
+      "Definition (SK)": "konštrukcia koľaje s dvoma koľajnicami bez štrkového lôžka",
+      "Examples (SK)": "koľajové polia na pevnej jazdnej dráhe, výhybky na pevnej jazdnej dráhe, dilatačné zariadenia na pevnej jazdnej dráhe"
+    },
+    {
+      "Level 2": "DC",
+      "Term (EN)": "Monorail construction",
+      "Definition (EN)": "railway track construction system with one rail",
+      "Term (SK)": "Jednokoľajnicová dráha",
+      "Definition (SK)": "konštrukcia koľaje s jednou koľajnicou"
+    },
+    {
+      "Level 1": "H_",
+      "Term (EN)": "Supply system",
+      "Definition (EN)": "technical system supplying consumption",
+      "Term (SK)": "Systém zásobovania",
+      "Definition (SK)": "technický systém, ktorý zabezpečuje dodávku na spotrebu"
+    },
+    {
+      "Level 2": "HA",
+      "Term (EN)": "Gas and air supply system",
+      "Definition (EN)": "supply system for process gas",
+      "Examples (EN)": "gas system, air system, vacuum, clean air, pressurized air, energy gas, medical gas, steam",
+      "Term (SK)": "Systém zásobovania plynom a vzduchom",
+      "Definition (SK)": "systém zásobovania procesným plynom",
+      "Examples (SK)": "plynový systém, vzduchový systém, vákuum, čistý vzduch, stlačený vzduch, energetický plyn, medicinálny plyn, para"
+    },
+    {
+      "Level 2": "HB",
+      "Term (EN)": "Liquid supply system",
+      "Definition (EN)": "supply system for liquid",
+      "Examples (EN)": "water system, fuel system",
+      "Term (SK)": "Systém zásobovania kvapalinami",
+      "Definition (SK)": "systém zásobovania kvapalinami",
+      "Examples (SK)": "vodný systém, palivový systém"
+    },
+    {
+      "Level 2": "HC",
+      "Term (EN)": "Cooling supply system",
+      "Definition (EN)": "supply system for cooling",
+      "Examples (EN)": "cooling plant, cooling exchanger system",
+      "Term (SK)": "Systém zásobovania chladom",
+      "Definition (SK)": "systém zásobovania na chladenie",
+      "Examples (SK)": "chladiaca stanica, systém výmenníkov chladu, systém diaľkového chladenia, systém druhotného využitia odpadového chladu"
+    },
+    {
+      "Level 2": "HD",
+      "Term (EN)": "Heating supply system",
+      "Definition (EN)": "supply system for heating",
+      "Examples (EN)": "heat production system, heat exchanger system, mixer",
+      "Term (SK)": "Systém zásobovania teplom",
+      "Definition (SK)": "systém zásobovania na vykurovanie",
+      "Examples (SK)": "systém výroby tepla, systém výmenníkov tepla, zmiešavač, systém druhotného využitia odpadového tepla, systém tepelného čerpadla, systém solárneho vykurovania, systém diaľkového vykurovania"
+    },
+    {
+      "Level 2": "HE",
+      "Term (EN)": "Combined heating and cooling supply system",
+      "Definition (EN)": "supply system for cooling and heating",
+      "Examples (EN)": "heat pump plant",
+      "Term (SK)": "Systém kombinovaného zásobovania teplom a chladom",
+      "Definition (SK)": "systém zásobovania na chladenie a vykurovanie",
+      "Examples (SK)": "stanica tepelných čerpadiel, tepelné čerpadlo"
+    },
+    {
+      "Level 2": "HF",
+      "Term (EN)": "Ventilation supply system",
+      "Definition (EN)": "supply system for ventilation",
+      "Examples (EN)": "ventilation unit",
+      "Term (SK)": "Systém vetrania",
+      "Definition (SK)": "systém zásobovania na vetranie",
+      "Examples (SK)": "vetracia jednotka"
+    },
+    {
+      "Level 2": "HG",
+      "Term (EN)": "Power supply system",
+      "Definition (EN)": "supply system for electrical energy",
+      "Examples (EN)": "electrical supply system, emergency supply system, back-up supply system",
+      "Term (SK)": "Systém zásobovania elektrickou energiou",
+      "Definition (SK)": "systém zásobovania elektrickou energiou",
+      "Examples (SK)": "systém dodávky elektrickej energie, systém núdzového napájania, systém záložného napájania, systém dodávky vysokého napätia, systém dodávky stredného napätia, systém dodávky nízkeho napätia, systém dodávky veľmi nízkeho napätia"
+    },
+    {
+      "Level 2": "HH",
+      "Term (EN)": "Lighting system",
+      "Definition (EN)": "supply system for lighting",
+      "Examples (EN)": "safety lighting, emergency lighting system, cleaners' lighting, daylight system",
+      "Term (SK)": "Systém osvetlenia",
+      "Definition (SK)": "systém zásobovania na osvetlenie",
+      "Examples (SK)": "bezpečnostné osvetlenie, systém núdzového osvetlenia, osvetlenie na upratovanie, systém denného osvetlenia, elektrický systém osvetlenia"
+    },
+    {
+      "Level 2": "HJ",
+      "Term (EN)": "Signal supply system",
+      "Definition (EN)": "supply system for signals",
+      "Examples (EN)": "utilities boundary point, data network, booking system, telephone exchange, PABX",
+      "Term (SK)": "Systém zásobovania signálom",
+      "Definition (SK)": "systém zásobovania signálmi",
+      "Examples (SK)": "hraničný bod pripojenia, dátová sieť, rezervačný systém, telefónna ústredňa, pobočková telefónna ústredňa (PABX)"
+    },
+    {
+      "Level 1": "J_",
+      "Term (EN)": "Transporting system",
+      "Definition (EN)": "technical system which brings something from one place to another",
+      "Term (SK)": "Dopravný systém",
+      "Definition (SK)": "technický systém, ktorý prepravuje niečo z jedného miesta na iné"
+    },
+    {
+      "Level 2": "JA",
+      "Term (EN)": "Gas distribution system",
+      "Definition (EN)": "transport system for gas",
+      "Examples (EN)": "gas distribution",
+      "Term (SK)": "Systém rozvodu plynu",
+      "Definition (SK)": "dopravný systém pre plyn",
+      "Examples (SK)": "rozvod plynu"
+    },
+    {
+      "Level 2": "JB",
+      "Term (EN)": "Water distribution system",
+      "Definition (EN)": "transport system for water",
+      "Examples (EN)": "water distribution, watering system",
+      "Term (SK)": "Systém rozvodu vody",
+      "Definition (SK)": "dopravný systém pre vodu",
+      "Examples (SK)": "rozvod vody, zavlažovací systém, systém cirkulácie vody, rozvod požiarnej vody"
+    },
+    {
+      "Level 2": "JC",
+      "Term (EN)": "Chemical distribution system",
+      "Definition (EN)": "transport system for flammable or other chemical liquids",
+      "Examples (EN)": "alcohol distribution system",
+      "Term (SK)": "Systém rozvodu chemických látok",
+      "Definition (SK)": "dopravný systém pre horľavé alebo iné chemické kvapaliny",
+      "Examples (SK)": "systém rozvodu liehu"
+    },
+    {
+      "Level 2": "JD",
+      "Term (EN)": "Liquids outflow system",
+      "Definition (EN)": "transport system for liquid waste",
+      "Examples (EN)": "wastewater collection, drainage water system, rainwater system",
+      "Term (SK)": "Systém odvodu kvapalín",
+      "Definition (SK)": "dopravný systém pre tekutý odpad",
+      "Examples (SK)": "zber odpadových vôd, systém drenážnej vody, systém dažďovej vody, systém gravitačnej kanalizácie, systém tlakovej kanalizácie"
+    },
+    {
+      "Level 2": "JE",
+      "Term (EN)": "Solids outflow system",
+      "Definition (EN)": "transport system for solid waste",
+      "Examples (EN)": "water management system, laundry suction system",
+      "Term (SK)": "Systém odvodu tuhého odpadu",
+      "Definition (SK)": "dopravný systém pre tuhý odpad",
+      "Examples (SK)": "vodohospodársky systém, systém odsávania bielizne, zhozový systém zberu odpadu, vákuový systém zberu odpadu, mechanický systém zberu odpadu"
+    },
+    {
+      "Level 2": "JF",
+      "Term (EN)": "Cooling distribution system",
+      "Definition (EN)": "transport system for cooling",
+      "Examples (EN)": "cooling distribution",
+      "Term (SK)": "Systém rozvodu chladu",
+      "Definition (SK)": "dopravný systém pre chladenie",
+      "Examples (SK)": "rozvod chladu, primárny chladiaci systém, sekundárny chladiaci systém"
+    },
+    {
+      "Level 2": "JG",
+      "Term (EN)": "Heating distribution system",
+      "Definition (EN)": "transport system for heating",
+      "Examples (EN)": "heating distribution",
+      "Term (SK)": "Systém rozvodu tepla",
+      "Definition (SK)": "dopravný systém pre vykurovanie",
+      "Examples (SK)": "rozvod tepla, primárny systém vykurovania, sekundárny systém vykurovania, systém elektrického vykurovania, systém rozvodu vzduchového vykurovania, systém rozvodu parného vykurovania, systém rozvodu olejového vykurovania"
+    },
+    {
+      "Level 2": "JH",
+      "Term (EN)": "Combined heat and cooling distribution system",
+      "Definition (EN)": "transport system for cooling and heating",
+      "Examples (EN)": "combined system",
+      "Term (SK)": "Kombinovaný systém rozvodu tepla a chladu",
+      "Definition (SK)": "dopravný systém pre chladenie a vykurovanie",
+      "Examples (SK)": "kombinovaný systém"
+    },
+    {
+      "Level 2": "JJ",
+      "Term (EN)": "Air distribution system",
+      "Definition (EN)": "transport system for air",
+      "Examples (EN)": "air system, fresh air system, supply air system, smoke extraction system, fire ventilation",
+      "Term (SK)": "Systém rozvodu vzduchu",
+      "Definition (SK)": "dopravný systém pre vzduch",
+      "Examples (SK)": "vzduchový systém, systém čerstvého vzduchu, systém privádzaného vzduchu, systém odvodu dymu, požiarne vetranie, systém rozvodu vonkajšieho vzduchu, systém odvodu vzduchu, systém cirkulačného vzduchu, odvod prebytočného vzduchu, odťahový ventilačný systém"
+    },
+    {
+      "Level 2": "JK",
+      "Term (EN)": "Power distribution system",
+      "Definition (EN)": "transport for electrical energy",
+      "Examples (EN)": "electrical distribution system, electrical system, power supply system",
+      "Term (SK)": "Systém rozvodu elektrickej energie",
+      "Definition (SK)": "dopravný systém pre elektrickú energiu",
+      "Examples (SK)": "systém rozvodu elektrickej energie, elektrický systém, systém napájania, rozvod vysokého napätia, rozvod stredného napätia, rozvod nízkeho napätia, rozvod veľmi nízkeho napätia"
+    },
+    {
+      "Level 2": "JL",
+      "Term (EN)": "Signal distribution system",
+      "Definition (EN)": "transport system for signals",
+      "Examples (EN)": "data distribution system, telephone signal distribution, paging signal, induction loop system, hearing loop system",
+      "Term (SK)": "Systém rozvodu signálu",
+      "Definition (SK)": "dopravný systém pre signály",
+      "Examples (SK)": "systém rozvodu dát, rozvod telefónneho signálu, signál osobného vyvolávania, systém indukčnej slučky, slučka pre nedoslýchavých, systém metalického káblového signálu, systém optického káblového signálu, bezdrôtový signálny systém"
+    },
+    {
+      "Level 2": "JM",
+      "Term (EN)": "Passenger transportation system",
+      "Definition (EN)": "transport system for persons",
+      "Examples (EN)": "elevator, escalator, travellator",
+      "Term (SK)": "Systém dopravy osôb",
+      "Definition (SK)": "dopravný systém pre osoby",
+      "Examples (SK)": "výťah, eskalátor, pohyblivý chodník, spojitý systém dopravy osôb, nespojitý systém dopravy osôb"
+    },
+    {
+      "Level 2": "JN",
+      "Term (EN)": "Goods transportation system",
+      "Definition (EN)": "transport system for solid goods or packets",
+      "Examples (EN)": "freight elevator, hoist, crane, conveyor, belt, letter shoot",
+      "Term (SK)": "Systém dopravy tovaru",
+      "Definition (SK)": "dopravný systém pre pevný tovar alebo zásielky",
+      "Examples (SK)": "nákladný výťah, zdvihák, žeriav, dopravník, dopravný pás, zhoz na listy, spojitý systém dopravy tovaru, nespojitý systém dopravy tovaru"
+    },
+    {
+      "Level 1": "K_",
+      "Term (EN)": "Treatment system",
+      "Definition (EN)": "technical system which provides treatment",
+      "Term (SK)": "Systém úpravy",
+      "Definition (SK)": "technický systém, ktorý zabezpečuje úpravu"
+    },
+    {
+      "Level 2": "KA",
+      "Term (EN)": "Solar screening system",
+      "Definition (EN)": "treatment system limiting or excluding solar heat gain",
+      "Examples (EN)": "solar screening, blinding",
+      "Term (SK)": "Systém solárneho tienenia",
+      "Definition (SK)": "systém úpravy, ktorý obmedzuje alebo vylučuje tepelné zisky zo slnečného žiarenia",
+      "Examples (SK)": "slnečné tienenie, zatemnenie"
+    },
+    {
+      "Level 2": "KB",
+      "Term (EN)": "Opening control system",
+      "Definition (EN)": "treatment system for automatic control of openings",
+      "Examples (EN)": "smoke ventilation, natural ventilation",
+      "Term (SK)": "Systém ovládania otvorov",
+      "Definition (SK)": "systém úpravy na automatické ovládanie otvorov",
+      "Examples (SK)": "odvod dymu, prirodzené vetranie, systém prirodzeného odvodu dymu"
+    },
+    {
+      "Level 2": "KC",
+      "Term (EN)": "Filter system",
+      "Definition (EN)": "treatment system for separating solid particles from liquid or air flow",
+      "Examples (EN)": "filtration equipment",
+      "Term (SK)": "Filtračný systém",
+      "Definition (SK)": "systém úpravy na oddeľovanie tuhých častíc z prúdu kvapaliny alebo vzduchu",
+      "Examples (SK)": "filtračné zariadenie, mechanický filtračný systém, chemický filtračný systém"
+    },
+    {
+      "Level 2": "KD",
+      "Term (EN)": "Separator system",
+      "Definition (EN)": "treatment system for separating substances",
+      "Examples (EN)": "separation unit",
+      "Term (SK)": "Separačný systém",
+      "Definition (SK)": "systém úpravy na separáciu látok",
+      "Examples (SK)": "separačná jednotka, mechanický separačný systém, chemický separačný systém"
+    },
+    {
+      "Level 2": "KE",
+      "Term (EN)": "Mixing system",
+      "Definition (EN)": "treatment system for adding substances",
+      "Examples (EN)": "chemicals system, water treatment equipment, water treatment system, blending system",
+      "Term (SK)": "Zmiešavací systém",
+      "Definition (SK)": "systém úpravy na pridávanie látok",
+      "Examples (SK)": "systém chemikálií, zariadenie na úpravu vody, systém úpravy vody, miešací systém"
+    },
+    {
+      "Level 2": "KF",
+      "Term (EN)": "Pump system",
+      "Definition (EN)": "treatment system for increasing pressure in a flow of liquid",
+      "Examples (EN)": "wet well, pumping equipment",
+      "Term (SK)": "Systém čerpania",
+      "Definition (SK)": "systém úpravy na zvýšenie tlaku v prúde kvapaliny",
+      "Examples (SK)": "čerpacia nádrž, čerpacie zariadenie, čerpadlo"
+    },
+    {
+      "Level 2": "KG",
+      "Term (EN)": "Pressure and expansion system",
+      "Definition (EN)": "treatment system for stabilizing pressure and volume in liquid or in gas flow",
+      "Examples (EN)": "pressure vessel system, expansion system",
+      "Term (SK)": "Tlakový a expanzný systém",
+      "Definition (SK)": "systém úpravy na stabilizáciu tlaku a objemu v prúde kvapaliny alebo plynu",
+      "Examples (SK)": "systém tlakových nádob, expanzný systém"
+    },
+    {
+      "Level 2": "KH",
+      "Term (EN)": "Transformer system",
+      "Definition (EN)": "treatment system for transforming electrical energy",
+      "Examples (EN)": "converter system, inverter system",
+      "Term (SK)": "Transformačný systém",
+      "Definition (SK)": "systém úpravy na transformáciu elektrickej energie",
+      "Examples (SK)": "systém meničov, systém striedačov, systém transformácie napätia, kompenzačný systém, menič kmitočtu, prúdový menič"
+    },
+    {
+      "Level 2": "KJ",
+      "Term (EN)": "Antenna system",
+      "Definition (EN)": "treatment system for bidirectional transforming between radio waves and electrical signals",
+      "Examples (EN)": "antenna unit",
+      "Term (SK)": "Anténny systém",
+      "Definition (SK)": "systém úpravy na obojsmernú premenu medzi rádiovými vlnami a elektrickými signálmi",
+      "Examples (SK)": "anténna jednotka, vysielacia anténa, prijímacia anténa"
+    },
+    {
+      "Level 2": "KK",
+      "Term (EN)": "Weather station system",
+      "Definition (EN)": "treatment system for transforming weather-related information into electrical signals",
+      "Examples (EN)": "weather station",
+      "Term (SK)": "Systém meteorologickej stanice",
+      "Definition (SK)": "systém úpravy na premenu informácií o počasí na elektrické signály",
+      "Examples (SK)": "meteorologická stanica, systém varovania pred vetrom, systém varovania pred poľadovicou, systém merania podmienok vonkajšieho prostredia"
+    },
+    {
+      "Level 2": "KL",
+      "Term (EN)": "Access control system",
+      "Definition (EN)": "treatment system for physical separation of a flow of persons or items",
+      "Examples (EN)": "gate, speed lane, gate control, key management",
+      "Term (SK)": "Systém riadenia vstupu",
+      "Definition (SK)": "systém úpravy na fyzické oddelenie prúdu osôb alebo predmetov",
+      "Examples (SK)": "brána, rýchly priechod, ovládanie brány, správa kľúčov"
+    },
+    {
+      "Level 1": "L_",
+      "Term (EN)": "Monitoring and control system",
+      "Definition (EN)": "technical system which monitors and/or controls events and processes",
+      "Term (SK)": "Systém monitorovania a riadenia",
+      "Definition (SK)": "technický systém, ktorý monitoruje a/alebo riadi udalosti a procesy"
+    },
+    {
+      "Level 2": "LA",
+      "Term (EN)": "Gas alarm system",
+      "Definition (EN)": "monitoring system which raises an alarm on the occurrence of hazardous gases",
+      "Examples (EN)": "aspiration system",
+      "Term (SK)": "Systém signalizácie úniku plynu",
+      "Definition (SK)": "systém monitorovania a riadenia, ktorý vyhlasuje poplach pri výskyte nebezpečných plynov",
+      "Examples (SK)": "nasávací systém"
+    },
+    {
+      "Level 2": "LB",
+      "Term (EN)": "Fire alarm system",
+      "Definition (EN)": "monitoring system which raises an alarm in the presence of smoke or fire",
+      "Examples (EN)": "automatic fire alarm system",
+      "Term (SK)": "Systém elektrickej požiarnej signalizácie (EPS)",
+      "Definition (SK)": "systém monitorovania a riadenia, ktorý vyhlasuje poplach pri výskyte dymu alebo požiaru",
+      "Examples (SK)": "automatická elektrická požiarna signalizácia, požiarny alarm"
+    },
+    {
+      "Level 2": "LC",
+      "Term (EN)": "Automation system",
+      "Definition (EN)": "monitoring system which automates processes in buildings and process plants in a central unit",
+      "Examples (EN)": "BMS system, SCADA, ACMS, control system, room control, traffic control system",
+      "Term (SK)": "Automatizačný systém",
+      "Definition (SK)": "systém monitorovania a riadenia, ktorý automatizuje procesy v budovách a technologických zariadeniach v centrálnej jednotke",
+      "Examples (SK)": "systém riadenia budovy (BMS), SCADA, ACMS, riadiaci systém, riadenie miestností, systém riadenia dopravy"
+    },
+    {
+      "Level 2": "LD",
+      "Term (EN)": "Access monitor system",
+      "Definition (EN)": "monitoring system which ensures authorized access for persons to an area or a construction entity",
+      "Examples (EN)": "perimeter security",
+      "Term (SK)": "Systém sledovania vstupu a priechodu",
+      "Definition (SK)": "systém monitorovania a riadenia, ktorý zabezpečuje autorizovaný prístup osôb do priestoru alebo stavebnej entity",
+      "Examples (SK)": "perimetrická ochrana, systém kontroly dverí, systém kontroly vstupu"
+    },
+    {
+      "Level 2": "LE",
+      "Term (EN)": "Alarm system",
+      "Definition (EN)": "monitoring system which raises an alarm in the presence of dangerous or undesirable conditions",
+      "Examples (EN)": "burglar-proofing system, AIA system (Automatic Intruder Alarm), perimeter security",
+      "Term (SK)": "Poplachový systém",
+      "Definition (SK)": "systém monitorovania a riadenia, ktorý vyhlasuje poplach pri nebezpečných alebo nežiaducich podmienkach",
+      "Examples (SK)": "zabezpečenie proti vlámaniu, automatický systém signalizácie narušenia (AIA), perimetrická ochrana, systém hlásenia porúch, hlásenie úniku kvapalín, evakuačný alarm"
+    },
+    {
+      "Level 2": "LF",
+      "Term (EN)": "Video surveillance system",
+      "Definition (EN)": "monitoring system which provides remote visual monitoring",
+      "Examples (EN)": "perimeter security, CCTV system",
+      "Term (SK)": "Kamerový systém",
+      "Definition (SK)": "systém monitorovania a riadenia, ktorý zabezpečuje diaľkové vizuálne sledovanie",
+      "Examples (SK)": "perimetrická ochrana, kamerový systém CCTV"
+    },
+    {
+      "Level 1": "M_",
+      "Term (EN)": "Information presenting system",
+      "Definition (EN)": "technical system which presents information",
+      "Term (SK)": "Systém prezentácie informácií",
+      "Definition (SK)": "technický systém, ktorý prezentuje informácie"
+    },
+    {
+      "Level 2": "MA",
+      "Term (EN)": "Warning system",
+      "Definition (EN)": "information presenting system which produces a fixed sound or voice messages to warn of hazardous conditions",
+      "Examples (EN)": "patient warning signal, disabled alarm system",
+      "Term (SK)": "Varovný systém",
+      "Definition (SK)": "systém prezentácie informácií, ktorý vydáva stanovený zvuk alebo hlasové správy na varovanie pred nebezpečnými podmienkami",
+      "Examples (SK)": "signalizácia pacientov, poplachový systém pre osoby so zdravotným postihnutím, systém varovného zvuku a/alebo svetla, varovný systém s nahraným signálom"
+    },
+    {
+      "Level 2": "MB",
+      "Term (EN)": "Audio-video system",
+      "Definition (EN)": "information presenting system which produces images and/or sounds",
+      "Examples (EN)": "PA system, AV system",
+      "Term (SK)": "Audiovizuálny systém",
+      "Definition (SK)": "systém prezentácie informácií, ktorý vytvára obraz a/alebo zvuk",
+      "Examples (SK)": "ozvučovací systém (PA), audiovizuálny systém, zvukový systém, obrazový systém"
+    },
+    {
+      "Level 2": "MC",
+      "Term (EN)": "Traffic control system",
+      "Definition (EN)": "information presenting system which controls traffic",
+      "Term (SK)": "Systém riadenia dopravy",
+      "Definition (SK)": "systém prezentácie informácií, ktorý riadi dopravu",
+      "Examples (SK)": "systém s pevným svetelným značením, systém s variabilnými zvukovými signálmi, systém so zvukovými signálmi"
+    },
+    {
+      "Level 2": "MD",
+      "Term (EN)": "Time system",
+      "Definition (EN)": "information presenting system for time",
+      "Examples (EN)": "time recording, clock system, clock display, central clock system",
+      "Term (SK)": "Systém jednotného času",
+      "Definition (SK)": "systém prezentácie informácií o čase",
+      "Examples (SK)": "evidencia času, hodinový systém, zobrazenie času, centrálny hodinový systém"
+    },
+    {
+      "Level 2": "ME",
+      "Term (EN)": "Sign system",
+      "Definition (EN)": "information presenting system which provides instruction in a written or symbolic form",
+      "Term (SK)": "Systém značenia",
+      "Definition (SK)": "systém prezentácie informácií, ktorý poskytuje pokyny v písomnej alebo symbolickej podobe",
+      "Examples (SK)": "systém pevných značiek, systém variabilných značiek, značenie"
+    },
+    {
+      "Level 1": "P_",
+      "Term (EN)": "Protection system",
+      "Definition (EN)": "self-acting technical system which protects against danger or unwanted conditions",
+      "Term (SK)": "Ochranný systém",
+      "Definition (SK)": "samočinný technický systém, ktorý chráni pred nebezpečenstvom alebo nežiaducimi podmienkami"
+    },
+    {
+      "Level 2": "PA",
+      "Term (EN)": "Fire protection system",
+      "Definition (EN)": "protection system by opening or closing doors and windows in the event of a fire",
+      "Term (SK)": "Protipožiarny systém",
+      "Definition (SK)": "ochranný systém, ktorý otvára alebo zatvára dvere a okná pri požiari",
+      "Examples (SK)": "systém uzatvárania požiarnych dverí, systém kontroly výskytu dymu"
+    },
+    {
+      "Level 2": "PB",
+      "Term (EN)": "Firefighting system",
+      "Definition (EN)": "protection system against fire by extinguishing",
+      "Term (SK)": "Systém hasenia požiaru",
+      "Definition (SK)": "ochranný systém proti požiaru hasením",
+      "Examples (SK)": "systém požiarnej vody, systém pre penotvorné hasivo, systém pre plynové hasivo, systém pre práškové hasivo"
+    },
+    {
+      "Level 2": "PC",
+      "Term (EN)": "Earthing system",
+      "Definition (EN)": "protection system against dangerous electrical currents by earthing of electrical systems",
+      "Term (SK)": "Uzemňovacia sústava",
+      "Definition (SK)": "ochranný systém proti nebezpečným elektrickým prúdom pomocou uzemnenia elektrických systémov",
+      "Examples (SK)": "systém ochranného pospájania"
+    },
+    {
+      "Level 2": "PD",
+      "Term (EN)": "Lightning protection system",
+      "Definition (EN)": "protection system against lightning by earthing of electrical systems",
+      "Examples (EN)": "lightning system",
+      "Term (SK)": "Systém ochrany pred bleskom",
+      "Definition (SK)": "ochranný systém proti blesku uzemnením elektrických systémov",
+      "Examples (SK)": "bleskozvod"
+    },
+    {
+      "Level 2": "PE",
+      "Term (EN)": "Cathodic protection system",
+      "Definition (EN)": "protection system for metal constructions against corrosion by corrosion protection",
+      "Term (SK)": "Systém katódovej protikoróznej ochrany",
+      "Definition (SK)": "ochranný systém kovových konštrukcií proti korózii pomocou protikoróznej ochrany",
+      "Examples (SK)": "systém katódovej protikoróznej ochrany"
+    },
+    {
+      "Level 1": "Q_",
+      "Term (EN)": "Storage system",
+      "Definition (EN)": "technical system which stores information, energy or substances",
+      "Term (SK)": "Úložný systém",
+      "Definition (SK)": "technický systém, ktorý uchováva informácie, energiu alebo látky"
+    },
+    {
+      "Level 2": "QA",
+      "Term (EN)": "Meter system",
+      "Definition (EN)": "storage system for metered consumption information",
+      "Examples (EN)": "metering system, meter, energy measurement system",
+      "Term (SK)": "Merací systém",
+      "Definition (SK)": "úložný systém na informácie o nameranej spotrebe",
+      "Examples (SK)": "systém merania, merač, systém merania energie"
+    },
+    {
+      "Level 2": "QB",
+      "Term (EN)": "Gas and air storage system",
+      "Definition (EN)": "storage system for air and gases",
+      "Examples (EN)": "gas storage",
+      "Term (SK)": "Systém ukladania plynu a vzduchu",
+      "Definition (SK)": "úložný systém pre vzduch a plyny",
+      "Examples (SK)": "uskladnenie plynu"
+    },
+    {
+      "Level 2": "QC",
+      "Term (EN)": "Liquid storage system",
+      "Definition (EN)": "storage system for liquids",
+      "Examples (EN)": "buffer system, tank array, collection system",
+      "Term (SK)": "Systém ukladania kvapalín",
+      "Definition (SK)": "úložný systém pre kvapaliny",
+      "Examples (SK)": "vyrovnávací systém, sústava nádrží, zberný systém"
+    },
+    {
+      "Level 2": "QD",
+      "Term (EN)": "Energy storage system",
+      "Definition (EN)": "storage system for energy",
+      "Examples (EN)": "buffer system, energy storage",
+      "Term (SK)": "Systém ukladania energie",
+      "Definition (SK)": "úložný systém pre energiu",
+      "Examples (SK)": "vyrovnávací systém, uskladnenie energie"
+    },
+    {
+      "Level 1": "R_",
+      "Term (EN)": "Furnishing system",
+      "Definition (EN)": "technical system which fits out space or construction elements in a construction entity",
+      "Term (SK)": "Zariaďovací systém",
+      "Definition (SK)": "technický systém, ktorý vybavuje priestory alebo stavebné prvky v stavebnej entite"
+    },
+    {
+      "Level 2": "RA",
+      "Term (EN)": "Planting system",
+      "Definition (EN)": "furnishing system in the form of vegetation",
+      "Examples (EN)": "planting, tree, bush, plant",
+      "Term (SK)": "Výsadba",
+      "Definition (SK)": "zariaďovací systém v podobe vegetácie",
+      "Examples (SK)": "výsadba, strom, ker, rastlina"
+    },
+    {
+      "Level 2": "RB",
+      "Term (EN)": "Furniture system",
+      "Definition (EN)": "furnishing system in the form of fixed or moveable construction elements",
+      "Examples (EN)": "fixtures, furniture, effects, movable property",
+      "Term (SK)": "Nábytok",
+      "Definition (SK)": "zariaďovací systém v podobe pevných alebo premiestniteľných stavebných prvkov",
+      "Examples (SK)": "pevné zariadenie, nábytok, inventár, hnuteľný majetok, úložné jednotky, stoly, stoličky, textílie, postele, obrazy, obrazovky"
+    },
+    {
+      "Level 2": "RC",
+      "Term (EN)": "Equipment system",
+      "Definition (EN)": "furnishing system in the form of tools used in a particular situation",
+      "Examples (EN)": "equipment, technical equipment, apparatus, tool",
+      "Term (SK)": "Vybavenie",
+      "Definition (SK)": "zariaďovací systém v podobe nástrojov používaných v konkrétnej situácii",
+      "Examples (SK)": "vybavenie, technické vybavenie, prístroj, nástroj, kuchynské zariadenie, upratovacie vybavenie, športové vybavenie, hračky"
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "class_code": "CC",
+  "class_desc": "Construction complex",
+  "items": [
+    {
+      "Level 1": "A",
+      "Term (EN)": "Residential complex",
+      "Definition (EN)": "construction complex for dwelling",
+      "Examples (EN)": "apartment building area, apartment building area with common facilities, camp site, caravan park, hostel complex, hotel complex, housing estate, military camp, mixed housing area, monastery, refugee camp, religious retreat, single family housing area",
+      "Term (SK)": "Obytný komplex",
+      "Definition (SK)": "stavebný komplex na bývanie",
+      "Examples (SK)": "zóna bytových domov, zóna bytových domov so spoločnými zariadeniami, táborisko, kemping pre karavany, komplex ubytovní, hotelový komplex, sídlisko, vojenský tábor, obytná zóna so zmiešanou zástavbou, kláštor, utečenecký tábor, duchovné centrum, zóna rodinných domov"
+    },
+    {
+      "Level 1": "B",
+      "Term (EN)": "Health and care complex",
+      "Definition (EN)": "construction complex for promotion of wellness and/or treatment of illness",
+      "Examples (EN)": "clinical complex, fitness and detox complex, group housing complex, hospice, hospital complex, kennel complex, nursing home, quarantine station, spa complex, veterinary hospital, welfare complex",
+      "Term (SK)": "Zdravotnícky a opatrovateľský komplex",
+      "Definition (SK)": "stavebný komplex na podporu zdravia a/alebo liečbu chorôb",
+      "Examples (SK)": "klinický komplex, fitnes a detoxikačný komplex, komplex skupinového bývania, hospic, nemocničný komplex, komplex útulkov a chovných staníc pre psov, zariadenie pre seniorov, karanténna stanica, kúpeľný komplex, veterinárna nemocnica, komplex sociálnych služieb"
+    },
+    {
+      "Level 1": "C",
+      "Term (EN)": "Administration, trading, or service complex",
+      "Definition (EN)": "construction complex for immaterial production",
+      "Examples (EN)": "administrative complex, auction complex, business park, cleaning and maintenance complex, commercial complex, embassy complex, exhibition complex, governmental complex, legislative complex, local government complex, marine and water maintenance complex, market complex, mixed use complex, motor vehicle fuelling and charging stations, motor vehicle maintenance and fuelling complex, motor vehicle servicing complex, national government complex, office complex, parade of shops, postal communications complex, postal complex, regional government complex, retail parks, secular representative complex, shopping complex, shopping mall, square, vehicle cleaning complex, vehicle sales complex, warehousing and distribution complex, workshop and service depot",
+      "Term (SK)": "Komplex administratívy, obchodu alebo služieb",
+      "Definition (SK)": "stavebný komplex na nehmotnú výrobu",
+      "Examples (SK)": "administratívny komplex, aukčný komplex, podnikateľský park, komplex čistenia a údržby, obchodný komplex, komplex veľvyslanectva, výstavný komplex, vládny komplex, legislatívny komplex, komplex miestnej samosprávy, komplex námornej a vodnej údržby, komplex trhoviska, polyfunkčný komplex, čerpacie a nabíjacie stanice pre motorové vozidlá, komplex údržby motorových vozidiel a čerpania pohonných látok, komplex servisu motorových vozidiel, komplex štátnej správy, kancelársky komplex, radové obchody, komplex poštových komunikácií, poštový komplex, komplex regionálnej samosprávy, nákupné zóny, svetský reprezentačný komplex, nákupný komplex, nákupné centrum, námestie, komplex umývania vozidiel, komplex predaja vozidiel, komplex skladovania a distribúcie, dielňa a servisné stredisko"
+    },
+    {
+      "Level 1": "D",
+      "Term (EN)": "Education or science complex",
+      "Definition (EN)": "construction complex for knowledge production and/or transfer",
+      "Examples (EN)": "astronomical observatory complex, botanical garden, campus, course facility, education and nurturing facility, educational complex, exhibition complex, folk high school, further education colleges, gardens and arboretums, kindergarten, laboratory complex, memorial complex, monument complex, multi-purpose exhibition complex, preschool, primary school, professional high school, research and laboratory complex, research complex, school complex, scientific complex, secondary school, tertiary colleges, university, zoo",
+      "Term (SK)": "Vzdelávací alebo vedecký komplex",
+      "Definition (SK)": "stavebný komplex na tvorbu a/alebo prenos poznatkov",
+      "Examples (SK)": "komplex astronomického observatória, botanická záhrada, kampus, školiace stredisko, vzdelávacie a výchovné zariadenie, vzdelávací komplex, výstavný komplex, ľudová škola, zariadenia ďalšieho vzdelávania, záhrady a arboréta, materská škola, laboratórny komplex, pamätný komplex, pamiatkový komplex, viacúčelový výstavný komplex, predškolské zariadenie, základná škola, stredná odborná škola, výskumný a laboratórny komplex, výskumný komplex, školský komplex, vedecký komplex, stredná škola, vysoké školy, univerzita, zoologická záhrada"
+    },
+    {
+      "Level 1": "E",
+      "Term (EN)": "Protection or defence complex",
+      "Definition (EN)": "construction complex for protection and defence",
+      "Examples (EN)": "air and sea rescue complex, air force complex, army complex, artillery firing range complex, coast guard stations, court complex, detention complex, fire brigade complex, immigrant detention complex, incident support complex, judicial complex, law enforcement agency complex, law enforcement complex, lifeboat stations, mountain rescue complex, navy complex, prison complex, probation complex, small arms firing range complex, weapons training complex",
+      "Term (SK)": "Komplex ochrany alebo obrany",
+      "Definition (SK)": "stavebný komplex na ochranu a obranu",
+      "Examples (SK)": "komplex leteckej a námornej záchrannej služby, komplex vzdušných síl, komplex pozemných síl, komplex delostreleckej strelnice, stanice pobrežnej stráže, súdny komplex, komplex ústavu na výkon väzby, hasičský komplex, komplex na zaistenie cudzincov, komplex podpory pri mimoriadnych udalostiach, justičný komplex, komplex orgánov presadzovania práva, komplex presadzovania práva, stanice záchranných člnov, komplex horskej záchrannej služby, komplex námorných síl, väzenský komplex, probačný komplex, komplex strelnice pre ručné zbrane, komplex výcviku so zbraňami"
+    },
+    {
+      "Level 1": "F",
+      "Term (EN)": "Culture complex",
+      "Definition (EN)": "construction complex for cultural activities",
+      "Examples (EN)": "cinema complex, concert hall complex, conference complex, document archives, film and television studio complex, historic site, information centre, information complex, library complex, museum complex, open air museum, open air sculpture park, theatre complex, worship complex",
+      "Term (SK)": "Kultúrny komplex",
+      "Definition (SK)": "stavebný komplex na kultúrne aktivity",
+      "Examples (SK)": "komplex kín, komplex koncertnej sály, konferenčný komplex, archív dokumentov, komplex filmových a televíznych štúdií, historické miesto, informačné centrum, informačný komplex, knižničný komplex, múzejný komplex, skanzen, park sochárskych diel pod holým nebom, divadelný komplex, sakrálny komplex"
+    },
+    {
+      "Level 1": "G",
+      "Term (EN)": "Recreational and sports complex",
+      "Definition (EN)": "construction complex for social and physical activities and/or mental stimulation",
+      "Examples (EN)": "allotment area, amusement park, athletics stadium, battle site, camping ground, car racing complex, community centre, fairground complex, golf course, horse racing complex, indoor athletics stadium, indoor sports complex, indoor swimming pool complex, national park, outdoor life complex, outdoor sports complex, outdoor swimming pool complex, park, playgrounds, pleasure piers, public park, race horse track, recreation grounds, sports facility, stable complex, theme park, water park, winter sports complex",
+      "Term (SK)": "Rekreačný a športový komplex",
+      "Definition (SK)": "stavebný komplex na spoločenské a fyzické aktivity a/alebo duševnú stimuláciu",
+      "Examples (SK)": "záhradkárska osada, zábavný park, atletický štadión, bojisko, kemping, komplex automobilových pretekov, komunitné centrum, areál lunaparku, golfové ihrisko, dostihový komplex, atletická hala, krytý športový komplex, komplex krytej plavárne, národný park, komplex na pobyt v prírode, komplex vonkajších športovísk, komplex kúpaliska, park, detské ihriská, rekreačné móla, verejný park, dostihová dráha, rekreačný areál, športové zariadenie, komplex stajní, tematický park, vodný park, komplex zimných športov"
+    },
+    {
+      "Level 1": "L",
+      "Term (EN)": "Energy supply complex",
+      "Definition (EN)": "construction complex for conversion of energy",
+      "Examples (EN)": "biomass power generation complex, coal power generation complex, combined heat and power generation complex, district cooling complex, district heating and cooling complex, district heating complex, electrical power generation complex, gas power generation complex, geothermal power generation complex, hydroelectric power generation complex, nuclear power generation complex, offshore wind power generation complex, oil-fired power generation complex, onshore wind power generation complex, photovoltaic power generation complex, power plant, solar reflector power generation complex, tidal power generation complex, wave power generation complex",
+      "Term (SK)": "Komplex zásobovania energiou",
+      "Definition (SK)": "stavebný komplex na premenu energie",
+      "Examples (SK)": "komplex na výrobu elektrickej energie z biomasy, komplex na výrobu elektrickej energie z uhlia, komplex na kombinovanú výrobu elektriny a tepla, komplex na diaľkové chladenie, komplex na diaľkové vykurovanie a chladenie, komplex na diaľkové vykurovanie, komplex na výrobu elektrickej energie, komplex na výrobu elektrickej energie z plynu, komplex na výrobu elektrickej energie z geotermálnej energie, komplex na výrobu elektrickej energie z vodnej energie, komplex na výrobu elektrickej energie z jadrovej energie, komplex na výrobu elektrickej energie z veternej energie na mori, komplex na výrobu elektrickej energie z vykurovacieho oleja, komplex na výrobu elektrickej energie z veternej energie na pevnine, komplex na výrobu elektrickej energie z fotovoltaických článkov, elektráreň, komplex na výrobu elektrickej energie z koncentrovaného slnečného žiarenia, komplex na výrobu elektrickej energie z prílivu a odlivu, komplex na výrobu elektrickej energie z energie vĺn"
+    },
+    {
+      "Level 1": "M",
+      "Term (EN)": "Distribution complex",
+      "Definition (EN)": "construction complex for continuous transport of matter, electricity or signals",
+      "Examples (EN)": "district cooling distribution network, district heating distribution network, drainage collection and distribution networks, dry waste collection and distribution complex, dry waste collection and distribution complex, electrical power distribution network, electrical power treatment complex, gas distribution complex, gas distribution network, liquid fuel distribution complex, liquid fuel distribution networks, signal distribution network, wastewater collection and distribution network, water distribution network",
+      "Term (SK)": "Distribučný komplex",
+      "Definition (SK)": "stavebný komplex na spojitú dopravu hmoty, elektriny alebo signálov",
+      "Examples (SK)": "distribučná sieť diaľkového chladenia, distribučná sieť diaľkového vykurovania, kanalizačné zberné a distribučné siete, komplex zberu a distribúcie tuhého odpadu, distribučná sieť elektrickej energie, komplex úpravy elektrickej energie, komplex distribúcie plynu, distribučná sieť plynu, komplex distribúcie kvapalných palív, distribučné siete kvapalných palív, distribučná sieť signálov, sieť zberu a distribúcie odpadových vôd, distribučná sieť vody"
+    },
+    {
+      "Level 1": "N",
+      "Term (EN)": "Production complex",
+      "Definition (EN)": "construction complex for raw materials extraction or manufacturing",
+      "Examples (EN)": "deep mine complex, drift mine complex, gas extraction complex, gas supply complex, heavy manufacturing complex, industrial complex, industrial park, kinetic power generation complex, light manufacturing complex, liquid fuel supply complex, manufacturing complex, marine and water maintenance complex, mechanical power generation complex, methane hydrates extraction complex, mineral extraction complex, oil extraction complex, open-cast mine, quarry, shale gas extraction complex, shale oil extraction complex, ship and boat building yards, warehousing and distribution complex, water extraction complex, water supply complex",
+      "Term (SK)": "Výrobný komplex",
+      "Definition (SK)": "stavebný komplex na ťažbu surovín alebo výrobu",
+      "Examples (SK)": "komplex hlbinných baní, komplex štôlňových baní, komplex ťažby plynu, komplex zásobovania plynom, komplex ťažkého priemyslu, priemyselný komplex, priemyselný park, komplex výroby kinetickej energie, komplex ľahkého priemyslu, komplex zásobovania kvapalnými palivami, výrobný komplex, komplex námornej a vodnej údržby, komplex výroby mechanickej energie, komplex ťažby metánových hydrátov, komplex ťažby nerastných surovín, komplex ťažby ropy, povrchová baňa, lom, komplex ťažby bridlicového plynu, komplex ťažby bridlicovej ropy, lodenice na stavbu lodí a člnov, komplex skladovania a distribúcie, komplex odberu vody, komplex zásobovania vodou"
+    },
+    {
+      "Level 1": "P",
+      "Term (EN)": "Processing complex",
+      "Definition (EN)": "construction complex for treating matter or electricity",
+      "Examples (EN)": "abattoir complex, animal and plant products processing complex, animal product processing complex, arable crop processing complex, bakery complex, brewery complex, cannery complex, cleaning and maintenance complex, day water treatment complex, distillery complex, dry waste disposal complex, dry waste treatment complex, electrical energy treatment complex, fish processing complex, gas processing complex, gas treatment complex, horticultural crop processing complex, laundry complex, livestock processing complex, mills complex, mineral processing complex, nuclear and chemical management complex, nuclear waste treatment complex, oil processing complex, oil refinery, oil treatment complex, ore processing complex, slaughterhouse complex, surface radioactive waste management complex, timber processing complex, underground radioactive waste management complex, vehicle cleaning complex, wastewater treatment complex, water treatment complex, winery complex",
+      "Term (SK)": "Spracovateľský komplex",
+      "Definition (SK)": "stavebný komplex na spracovanie hmoty alebo elektriny",
+      "Examples (SK)": "bitúnkový komplex, komplex spracovania živočíšnych a rastlinných produktov, komplex spracovania živočíšnych produktov, komplex spracovania poľných plodín, pekárenský komplex, pivovarský komplex, konzervárenský komplex, komplex čistenia a údržby, komplex čistenia dažďových vôd, liehovarnícky komplex, komplex zneškodňovania tuhého odpadu, komplex spracovania tuhého odpadu, komplex úpravy elektrickej energie, komplex spracovania rýb, komplex spracovania plynu, komplex úpravy plynu, komplex spracovania záhradníckych plodín, komplex práčovní, komplex spracovania hospodárskych zvierat, komplex mlynov, komplex spracovania nerastných surovín, komplex nakladania s jadrovými a chemickými látkami, komplex spracovania jadrového odpadu, komplex spracovania ropy, rafinéria ropy, komplex úpravy ropy, komplex spracovania rudy, komplex bitúnkov, komplex nakladania s rádioaktívnym odpadom na povrchu, komplex spracovania dreva, komplex nakladania s rádioaktívnym odpadom v podzemí, komplex umývania vozidiel, komplex čistenia odpadových vôd, komplex úpravy vody, vinársky komplex"
+    },
+    {
+      "Level 1": "Q",
+      "Term (EN)": "Storage complex",
+      "Definition (EN)": "construction complex for accumulations of matter or electricity",
+      "Examples (EN)": "ambient food storage complex, arms storage complex, cemetery complex, circulation and storage complex, cold storage complex, dry waste storage complex, gas storage complex, liquid fuel storage complex, military arsenals complex, mineral storage complex, refrigerated food storage complex, secure storage complex, self-storage complex, solid fuel storage complex, storage complex, warehouse complex, wastewater storage complex, water storage complex",
+      "Term (SK)": "Skladovací komplex",
+      "Definition (SK)": "stavebný komplex na akumuláciu hmoty alebo elektriny",
+      "Examples (SK)": "komplex skladovania potravín pri okolitej teplote, komplex skladovania zbraní, cintorínsky komplex, komplex cirkulácie a skladovania, komplex chladiarenských skladov, komplex skladovania tuhého odpadu, komplex skladovania plynu, komplex skladovania kvapalných palív, komplex vojenských arzenálov, komplex skladovania nerastných surovín, komplex skladovania chladených potravín, komplex zabezpečeného skladovania, komplex samoobslužného skladovania, komplex skladovania pevných palív, skladovací komplex, komplex skladov, komplex akumulácie odpadových vôd, komplex akumulácie vody"
+    },
+    {
+      "Level 1": "R",
+      "Term (EN)": "Traffic complex",
+      "Definition (EN)": "construction complex for discrete transport of people and/or matter",
+      "Examples (EN)": "aerial tramway complex, aerospace complex, airport complex, cable railway complex, cable transport complex, canal complex, chairlift way complex, container harbour, dry bulk harbour, ferry terminal complex, fishing harbour, funicular railway complex, gondola lift way complex, harbour complex, heavy rail complex, heliport complex, high-speed rail complex, light rail transit complex, liquid bulk harbour, magnetic levitation ways, marine and waterways transport complex, monorail complex, narrow-gauge rail complex, rack rail complex, railway complex, rapid transit complex, river ferry complex, road complex, road network, road-based light rail complex, roll-on roll-off harbour, sea cruise harbour, sea ferry harbour, spacecraft complex, subway network, surface lift way complex, tram network, transport complex, transport interchange complex, transport terminal, zip line way complex",
+      "Term (SK)": "Dopravný komplex",
+      "Definition (SK)": "stavebný komplex na nespojitú dopravu osôb a/alebo hmoty",
+      "Examples (SK)": "komplex kyvadlovej lanovky, letecký a kozmický komplex, letiskový komplex, komplex lanovej dráhy, komplex lanovej dopravy, komplex prieplavu, komplex sedačkovej lanovky, kontajnerový prístav, prístav pre suchý hromadný náklad, komplex trajektových terminálov, rybársky prístav, komplex pozemnej lanovej dráhy, komplex kabínkovej lanovky, prístavný komplex, komplex konvenčnej železnice, heliportový komplex, komplex vysokorýchlostnej železnice, komplex ľahkej koľajovej dopravy, prístav pre kvapalný hromadný náklad, dráhy s magnetickou levitáciou, komplex námornej a vnútrozemskej vodnej dopravy, komplex jednokoľajnicovej dráhy, komplex úzkorozchodnej železnice, komplex ozubnicovej železnice, železničný komplex, komplex rýchlej mestskej koľajovej dopravy, komplex riečneho prievozu, cestný komplex, cestná sieť, komplex ľahkej koľajovej dopravy na pozemných komunikáciách, prístav typu roll-on roll-off, prístav pre námorné výletné lode, prístav pre námorné trajekty, komplex pre kozmické lode, sieť metra, komplex lyžiarskych vlekov, električková sieť, dopravný komplex, komplex prestupného dopravného uzla, dopravný terminál, komplex lanového zjazdu (zipline)"
+    },
+    {
+      "Level 1": "T",
+      "Term (EN)": "Land use complex",
+      "Definition (EN)": "construction complex for land-based production or management",
+      "Examples (EN)": "agricultural farm, horticultural nursery, livestock farm, managed forest, national park, nature reserve, orchard, vineyard",
+      "Term (SK)": "Komplex využitia pôdy",
+      "Definition (SK)": "stavebný komplex na výrobu alebo hospodárenie viazané na pôdu",
+      "Examples (SK)": "poľnohospodárska farma, záhradnícka škôlka, farma hospodárskych zvierat, obhospodarovaný les, národný park, prírodná rezervácia, ovocný sad, vinica"
+    },
+    {
+      "Level 1": "U",
+      "Term (EN)": "Water use complex",
+      "Definition (EN)": "construction complex for water-based production or management",
+      "Examples (EN)": "fish farm, fish hatchery, reservoir, tidal barrier, water control and retaining complex, water control complex, water level and flow monitoring complex, water pumping complex",
+      "Term (SK)": "Komplex využitia vody",
+      "Definition (SK)": "stavebný komplex na výrobu alebo hospodárenie viazané na vodu",
+      "Examples (SK)": "rybia farma, rybia liaheň, vodná nádrž, prílivová bariéra, komplex na reguláciu a zadržiavanie vody, komplex na reguláciu vody, komplex na monitorovanie vodnej hladiny a prietoku, komplex na čerpanie vody"
+    },
+    {
+      "Level 1": "X",
+      "Term (EN)": "Ruins complex",
+      "Definition (EN)": "construction complex being remains",
+      "Examples (EN)": "archaeological site",
+      "Term (SK)": "Komplex zrúcanín",
+      "Definition (SK)": "stavebný komplex, ktorý tvoria pozostatky",
+      "Examples (SK)": "archeologická lokalita"
+    }
+  ]
+}

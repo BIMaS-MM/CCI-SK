@@ -1,0 +1,1450 @@
+{
+  "class_code": "CE",
+  "class_desc": "Construction entity",
+  "items": [
+    {
+      "Level 1": "A_",
+      "Term (EN)": "Residential building",
+      "Definition (EN)": "construction entity for human living",
+      "Term (SK)": "Obytná budova",
+      "Definition (SK)": "stavebná entita na bývanie ľudí"
+    },
+    {
+      "Level 2": "AA",
+      "Term (EN)": "Single-dwelling house",
+      "Definition (EN)": "residential building for one household",
+      "Examples (EN)": "row house, summer house",
+      "Term (SK)": "Jednobytový dom",
+      "Definition (SK)": "obytná budova pre jednu domácnosť",
+      "Examples (SK)": "radový dom, rekreačná chata, rodinný dom"
+    },
+    {
+      "Level 2": "AB",
+      "Term (EN)": "Dual-dwelling building",
+      "Definition (EN)": "residential building for two households",
+      "Examples (EN)": "duplex",
+      "Term (SK)": "Dvojbytová budova",
+      "Definition (SK)": "obytná budova pre dve domácnosti",
+      "Examples (SK)": "dvojdom"
+    },
+    {
+      "Level 2": "AC",
+      "Term (EN)": "Multi-dwelling building",
+      "Definition (EN)": "residential building for three or more households",
+      "Examples (EN)": "community dwelling building",
+      "Term (SK)": "Viacbytová budova",
+      "Definition (SK)": "obytná budova pre tri alebo viac domácností",
+      "Examples (SK)": "budova komunitného bývania, bytový dom"
+    },
+    {
+      "Level 2": "AD",
+      "Term (EN)": "Lodging building",
+      "Definition (EN)": "residential building for temporary living",
+      "Examples (EN)": "barracks, dormitory, hostel building, hotel building, military barracks, motel building, prison, prison barracks, residential hotel, shelter, vacation bungalow",
+      "Term (SK)": "Ubytovacia budova",
+      "Definition (SK)": "obytná budova na dočasné bývanie",
+      "Examples (SK)": "ubikácie, internát, budova ubytovne, budova hotela, vojenské kasárne, budova motela, väznica, väzenské ubikácie, hotel na dlhodobé ubytovanie, útulok, rekreačný bungalov"
+    },
+    {
+      "Level 1": "B_",
+      "Term (EN)": "Physical needs building",
+      "Definition (EN)": "construction entity for human or animal wellbeing",
+      "Term (SK)": "Budova pre fyzické potreby",
+      "Definition (SK)": "stavebná entita pre pohodu ľudí alebo zvierat"
+    },
+    {
+      "Level 2": "BA",
+      "Term (EN)": "Care building",
+      "Definition (EN)": "physical needs building for treatment of persons",
+      "Examples (EN)": "health centre, hospital building, polyclinic, sanatorium",
+      "Term (SK)": "Zdravotnícka budova",
+      "Definition (SK)": "budova pre fyzické potreby na liečbu osôb",
+      "Examples (SK)": "zdravotné stredisko, budova nemocnice, poliklinika, sanatórium"
+    },
+    {
+      "Level 2": "BB",
+      "Term (EN)": "Care home building",
+      "Definition (EN)": "physical needs building for long-term care",
+      "Examples (EN)": "child and adolescent care home, home for the elderly",
+      "Term (SK)": "Budova zariadenia sociálnych služieb",
+      "Definition (SK)": "budova pre fyzické potreby na dlhodobú starostlivosť",
+      "Examples (SK)": "domov pre deti a mládež, zariadenie pre seniorov"
+    },
+    {
+      "Level 2": "BD",
+      "Term (EN)": "Animal hospital",
+      "Definition (EN)": "physical needs building for treatment of animals",
+      "Term (SK)": "Veterinárna nemocnica",
+      "Definition (SK)": "budova pre fyzické potreby na liečbu zvierat"
+    },
+    {
+      "Level 2": "BE",
+      "Term (EN)": "Toilet building",
+      "Definition (EN)": "physical needs building for persons to relieve themselves",
+      "Term (SK)": "Budova s toaletami",
+      "Definition (SK)": "budova pre fyzické potreby, v ktorej môžu osoby vykonať telesnú potrebu"
+    },
+    {
+      "Level 2": "BF",
+      "Term (EN)": "Baths building",
+      "Definition (EN)": "physical needs building for persons to wash themselves",
+      "Examples (EN)": "bath building, sauna, spa",
+      "Term (SK)": "Budova kúpeľov",
+      "Definition (SK)": "budova pre fyzické potreby, v ktorej sa môžu osoby umyť",
+      "Examples (SK)": "kúpeľný dom, sauna, kúpele"
+    },
+    {
+      "Level 1": "C_",
+      "Term (EN)": "Administration, trading, or service building",
+      "Definition (EN)": "construction entity for immaterial production",
+      "Term (SK)": "Budova administratívy, obchodu alebo služieb",
+      "Definition (SK)": "stavebná entita na nehmotnú výrobu"
+    },
+    {
+      "Level 2": "CA",
+      "Term (EN)": "Office building",
+      "Definition (EN)": "administration building for production or interpretation of information",
+      "Examples (EN)": "city hall, courthouse, governmental building, law court building, town hall",
+      "Term (SK)": "Administratívna budova",
+      "Definition (SK)": "budova administratívy na tvorbu alebo interpretáciu informácií",
+      "Examples (SK)": "budova magistrátu, budova súdu, vládna budova, justičná budova, radnica"
+    },
+    {
+      "Level 2": "CB",
+      "Term (EN)": "Service building",
+      "Definition (EN)": "service building for providing non-acute assistance or advice",
+      "Examples (EN)": "bank, car wash, gas station, post office",
+      "Term (SK)": "Budova služieb",
+      "Definition (SK)": "budova služieb na poskytovanie neakútnej pomoci alebo poradenstva",
+      "Examples (SK)": "banka, autoumyváreň, čerpacia stanica pohonných látok, pošta, pumpa"
+    },
+    {
+      "Level 2": "CC",
+      "Term (EN)": "Emergency service building",
+      "Definition (EN)": "service building for providing acute assistance or advice",
+      "Examples (EN)": "coastal guard station, fire station, forest ranger station, police station, rescue station",
+      "Term (SK)": "Budova záchranných služieb",
+      "Definition (SK)": "budova služieb na poskytovanie akútnej pomoci alebo poradenstva",
+      "Examples (SK)": "stanica pobrežnej stráže, hasičská stanica, stanica lesnej stráže, policajná stanica, záchranná stanica"
+    },
+    {
+      "Level 2": "CD",
+      "Term (EN)": "Shop building",
+      "Definition (EN)": "service building for sale of goods",
+      "Examples (EN)": "boutique, department store, grocery store, mall, shopping centre",
+      "Term (SK)": "Budova obchodu",
+      "Definition (SK)": "budova služieb na predaj tovaru",
+      "Examples (SK)": "butik, obchodný dom, obchod s potravinami, nákupné stredisko, nákupné centrum"
+    },
+    {
+      "Level 2": "CE",
+      "Term (EN)": "Exhibition hall",
+      "Definition (EN)": "trading building for display of goods and for assemblies",
+      "Examples (EN)": "conference centre, congress building, convention centre, visitor centre",
+      "Term (SK)": "Výstavná hala",
+      "Definition (SK)": "budova obchodu na vystavovanie tovaru a na zhromaždenia",
+      "Examples (SK)": "konferenčné centrum, kongresová budova, kongresové centrum, návštevnícke centrum"
+    },
+    {
+      "Level 2": "CF",
+      "Term (EN)": "Restaurant building",
+      "Definition (EN)": "service building for serving food and/or beverages",
+      "Term (SK)": "Budova reštaurácie",
+      "Definition (SK)": "budova služieb na podávanie jedál a/alebo nápojov"
+    },
+    {
+      "Level 2": "CG",
+      "Term (EN)": "Operations building",
+      "Definition (EN)": "service building for monitoring and controlling of processes",
+      "Examples (EN)": "dispatch building, central control and monitoring building",
+      "Term (SK)": "Prevádzková budova",
+      "Definition (SK)": "budova služieb na monitorovanie a riadenie procesov",
+      "Examples (SK)": "budova dispečingu, centrálna riadiaca a monitorovacia budova"
+    },
+    {
+      "Level 1": "D_",
+      "Term (EN)": "Education or research building",
+      "Definition (EN)": "construction entity for knowledge production and transfer",
+      "Term (SK)": "Budova na vzdelávanie alebo výskum",
+      "Definition (SK)": "stavebná entita na tvorbu a prenos poznatkov"
+    },
+    {
+      "Level 2": "DA",
+      "Term (EN)": "Preschool building",
+      "Definition (EN)": "education building for small children",
+      "Examples (EN)": "kindergarten",
+      "Term (SK)": "Budova predškolského zariadenia",
+      "Definition (SK)": "vzdelávacia budova pre malé deti",
+      "Examples (SK)": "materská škola"
+    },
+    {
+      "Level 2": "DB",
+      "Term (EN)": "School building",
+      "Definition (EN)": "education building for basic education",
+      "Term (SK)": "Budova školy",
+      "Definition (SK)": "vzdelávacia budova na základné vzdelávanie"
+    },
+    {
+      "Level 2": "DC",
+      "Term (EN)": "Course centre building",
+      "Definition (EN)": "education building for series of lectures or lessons in a particular subject",
+      "Term (SK)": "Budova školiaceho strediska",
+      "Definition (SK)": "vzdelávacia budova na sériu prednášok alebo lekcií z určitého predmetu"
+    },
+    {
+      "Level 2": "DD",
+      "Term (EN)": "University building",
+      "Definition (EN)": "education building for further education",
+      "Examples (EN)": "agricultural school, art school, business school, college",
+      "Term (SK)": "Budova univerzity",
+      "Definition (SK)": "vzdelávacia budova na vyššie vzdelávanie",
+      "Examples (SK)": "poľnohospodárska škola, umelecká škola, obchodná škola, vysoká škola"
+    },
+    {
+      "Level 2": "DE",
+      "Term (EN)": "Laboratory building",
+      "Definition (EN)": "research building for experiments",
+      "Examples (EN)": "chemical laboratory, research facility, test lab",
+      "Term (SK)": "Budova laboratória",
+      "Definition (SK)": "výskumná budova na experimenty",
+      "Examples (SK)": "chemické laboratórium, výskumné zariadenie, skúšobné laboratórium"
+    },
+    {
+      "Level 1": "F_",
+      "Term (EN)": "Cultural building",
+      "Definition (EN)": "construction entity for artistic activities",
+      "Term (SK)": "Kultúrna budova",
+      "Definition (SK)": "stavebná entita na umeleckú činnosť"
+    },
+    {
+      "Level 2": "FA",
+      "Term (EN)": "Theatre building",
+      "Definition (EN)": "cultural building for oral performances",
+      "Term (SK)": "Budova divadla",
+      "Definition (SK)": "kultúrna budova na predstavenia hovoreného slova"
+    },
+    {
+      "Level 2": "FB",
+      "Term (EN)": "Concert building",
+      "Definition (EN)": "cultural building for musical performances",
+      "Examples (EN)": "concert hall, opera",
+      "Term (SK)": "Koncertná budova",
+      "Definition (SK)": "kultúrna budova na hudobné vystúpenia",
+      "Examples (SK)": "koncertná sieň, operný dom"
+    },
+    {
+      "Level 2": "FC",
+      "Term (EN)": "Exhibition building",
+      "Definition (EN)": "cultural building for display of art",
+      "Examples (EN)": "gallery building, museum building",
+      "Term (SK)": "Výstavná budova",
+      "Definition (SK)": "kultúrna budova na vystavovanie umenia",
+      "Examples (SK)": "budova galérie, budova múzea"
+    },
+    {
+      "Level 2": "FD",
+      "Term (EN)": "Planetarium",
+      "Definition (EN)": "cultural building for displaying the night sky",
+      "Term (SK)": "Planetárium",
+      "Definition (SK)": "kultúrna budova na prezentáciu nočnej oblohy"
+    },
+    {
+      "Level 2": "FE",
+      "Term (EN)": "Cinema building",
+      "Definition (EN)": "cultural building for displaying films",
+      "Term (SK)": "Budova kina",
+      "Definition (SK)": "kultúrna budova na premietanie filmov"
+    },
+    {
+      "Level 2": "FF",
+      "Term (EN)": "Library building",
+      "Definition (EN)": "cultural building providing books and other media",
+      "Term (SK)": "Budova knižnice",
+      "Definition (SK)": "kultúrna budova poskytujúca knihy a iné médiá"
+    },
+    {
+      "Level 2": "FG",
+      "Term (EN)": "Cultural center",
+      "Definition (EN)": "cultural building for multiple use",
+      "Term (SK)": "Kultúrne centrum",
+      "Definition (SK)": "kultúrna budova na viacúčelové využitie"
+    },
+    {
+      "Level 2": "FH",
+      "Term (EN)": "Casino",
+      "Definition (EN)": "cultural building for gambling",
+      "Term (SK)": "Kasíno",
+      "Definition (SK)": "kultúrna budova na hranie hazardných hier"
+    },
+    {
+      "Level 2": "FJ",
+      "Term (EN)": "Studio",
+      "Definition (EN)": "cultural building for production of art and entertainment",
+      "Term (SK)": "Štúdio",
+      "Definition (SK)": "kultúrna budova na produkciu umenia a zábavy"
+    },
+    {
+      "Level 1": "G_",
+      "Term (EN)": "Recreational facility",
+      "Definition (EN)": "construction entity for social activities and/or mental stimulation",
+      "Term (SK)": "Rekreačné zariadenie",
+      "Definition (SK)": "stavebná entita na spoločenské aktivity a/alebo duševnú stimuláciu"
+    },
+    {
+      "Level 2": "GA",
+      "Term (EN)": "Allotment building",
+      "Definition (EN)": "recreational facility for gardening tools",
+      "Term (SK)": "Záhradkárska chatka",
+      "Definition (SK)": "rekreačné zariadenie na uloženie záhradného náradia"
+    },
+    {
+      "Level 2": "GB",
+      "Term (EN)": "Gazebo",
+      "Definition (EN)": "recreational facility for garden retreat",
+      "Term (SK)": "Altánok",
+      "Definition (SK)": "rekreačné zariadenie na záhradné oddychové aktivity"
+    },
+    {
+      "Level 2": "GC",
+      "Term (EN)": "Cantilever roof",
+      "Definition (EN)": "recreational facility for protection from sun and precipitation",
+      "Term (SK)": "Konzolová strecha",
+      "Definition (SK)": "rekreačné zariadenie na ochranu pred slnkom a zrážkami"
+    },
+    {
+      "Level 2": "GD",
+      "Term (EN)": "Playhouse",
+      "Definition (EN)": "recreational facility for child play",
+      "Term (SK)": "Domček na hranie",
+      "Definition (SK)": "rekreačné zariadenie na hru detí"
+    },
+    {
+      "Level 2": "GE",
+      "Term (EN)": "Wind shelter",
+      "Definition (EN)": "recreational facility for protection from wind",
+      "Term (SK)": "Prístrešok proti vetru",
+      "Definition (SK)": "rekreačné zariadenie na ochranu pred vetrom"
+    },
+    {
+      "Level 2": "GF",
+      "Term (EN)": "Observation tower",
+      "Definition (EN)": "recreational facility for raised viewing position",
+      "Examples (EN)": "bird tower",
+      "Term (SK)": "Pozorovacia veža",
+      "Definition (SK)": "rekreačné zariadenie poskytujúce vyvýšené miesto na pozorovanie",
+      "Examples (SK)": "veža na pozorovanie vtákov"
+    },
+    {
+      "Level 2": "GG",
+      "Term (EN)": "Hunting tower",
+      "Definition (EN)": "recreational facility for raised shooting position",
+      "Term (SK)": "Poľovnícky posed",
+      "Definition (SK)": "rekreačné zariadenie poskytujúce vyvýšené strelecké stanovište"
+    },
+    {
+      "Level 2": "GH",
+      "Term (EN)": "Amusement facility",
+      "Definition (EN)": "recreational facility for physical exaltation",
+      "Examples (EN)": "merry-go-round, roller coaster",
+      "Term (SK)": "Zábavné zariadenie",
+      "Definition (SK)": "rekreačné zariadenie na fyzicky vzrušujúce zážitky",
+      "Examples (SK)": "kolotoč, horská dráha"
+    },
+    {
+      "Level 2": "GJ",
+      "Term (EN)": "Garden",
+      "Definition (EN)": "recreational facility for private outdoor activities",
+      "Term (SK)": "Záhrada",
+      "Definition (SK)": "rekreačné zariadenie na súkromné aktivity vonku"
+    },
+    {
+      "Level 2": "GK",
+      "Term (EN)": "Park",
+      "Definition (EN)": "recreational facility for public outdoor activities",
+      "Term (SK)": "Park",
+      "Definition (SK)": "rekreačné zariadenie na verejné aktivity vonku"
+    },
+    {
+      "Level 2": "GL",
+      "Term (EN)": "Playground",
+      "Definition (EN)": "recreational facility for children's activities for enjoyment and recreation",
+      "Term (SK)": "Detské ihrisko",
+      "Definition (SK)": "rekreačné zariadenie na aktivity detí pre radosť a oddych"
+    },
+    {
+      "Level 2": "GM",
+      "Term (EN)": "Campsite",
+      "Definition (EN)": "recreational facility for tents and recreational vehicles",
+      "Term (SK)": "Kemping",
+      "Definition (SK)": "rekreačné zariadenie pre stany a obytné vozidlá"
+    },
+    {
+      "Level 2": "GN",
+      "Term (EN)": "Bathing site",
+      "Definition (EN)": "recreational facility for outdoor water activities",
+      "Term (SK)": "Kúpalisko",
+      "Definition (SK)": "rekreačné zariadenie na vodné aktivity vonku"
+    },
+    {
+      "Level 2": "GP",
+      "Term (EN)": "Changing building",
+      "Definition (EN)": "recreational facility for persons to change clothing",
+      "Term (SK)": "Budova na prezliekanie",
+      "Definition (SK)": "rekreačné zariadenie na prezliekanie osôb"
+    },
+    {
+      "Level 1": "H_",
+      "Term (EN)": "Sports facility",
+      "Definition (EN)": "construction entity for physical activities",
+      "Term (SK)": "Športové zariadenie",
+      "Definition (SK)": "stavebná entita na fyzické aktivity"
+    },
+    {
+      "Level 2": "HA",
+      "Term (EN)": "Multi-purpose sports building",
+      "Definition (EN)": "sports facility for multiple activities",
+      "Examples (EN)": "fitness and training facility, gymnastics facility",
+      "Term (SK)": "Viacúčelová športová budova",
+      "Definition (SK)": "športové zariadenie na viaceré aktivity",
+      "Examples (SK)": "fitnes a tréningové zariadenie, gymnastické zariadenie"
+    },
+    {
+      "Level 2": "HB",
+      "Term (EN)": "Swimming hall",
+      "Definition (EN)": "sports facility for indoor water activities",
+      "Examples (EN)": "indoor swimming pool, indoor water park",
+      "Term (SK)": "Plavecká hala",
+      "Definition (SK)": "športové zariadenie na vodné aktivity v interiéri",
+      "Examples (SK)": "krytý plavecký bazén, krytý aquapark"
+    },
+    {
+      "Level 2": "HC",
+      "Term (EN)": "Riding school",
+      "Definition (EN)": "sports facility for equestrian activities",
+      "Examples (EN)": "paddock",
+      "Term (SK)": "Jazdecká škola",
+      "Definition (SK)": "športové zariadenie na jazdecké aktivity",
+      "Examples (SK)": "výbeh"
+    },
+    {
+      "Level 2": "HD",
+      "Term (EN)": "Diving tower",
+      "Definition (EN)": "sports facility for diving",
+      "Term (SK)": "Skokanská veža",
+      "Definition (SK)": "športové zariadenie na skoky do vody"
+    },
+    {
+      "Level 2": "HE",
+      "Term (EN)": "Bowling hall",
+      "Definition (EN)": "sports facility for bowling",
+      "Term (SK)": "Bowlingová hala",
+      "Definition (SK)": "športové zariadenie na bowling"
+    },
+    {
+      "Level 2": "HF",
+      "Term (EN)": "Skating rink",
+      "Definition (EN)": "sports facility for ice skating",
+      "Term (SK)": "Klzisko",
+      "Definition (SK)": "športové zariadenie na korčuľovanie"
+    },
+    {
+      "Level 2": "HG",
+      "Term (EN)": "Ball sport building",
+      "Definition (EN)": "sports facility for boll sports",
+      "Examples (EN)": "badminton hall, soccer hall, tennis hall",
+      "Term (SK)": "Budova pre loptové športy",
+      "Definition (SK)": "športové zariadenie na loptové športy",
+      "Examples (SK)": "bedmintonová hala, futbalová hala, tenisová hala"
+    },
+    {
+      "Level 2": "HH",
+      "Term (EN)": "Stadium",
+      "Definition (EN)": "sports facility with spectator facilities",
+      "Examples (EN)": "arena",
+      "Term (SK)": "Štadión",
+      "Definition (SK)": "športové zariadenie so zázemím pre divákov",
+      "Examples (SK)": "aréna"
+    },
+    {
+      "Level 2": "HJ",
+      "Term (EN)": "Playing field",
+      "Definition (EN)": "sports facility for ball games",
+      "Examples (EN)": "baseball field, football field, padel court, soccer field, tennis court",
+      "Term (SK)": "Ihrisko",
+      "Definition (SK)": "športové zariadenie na loptové hry",
+      "Examples (SK)": "bejzbalové ihrisko, ihrisko na americký futbal, padelový kurt, futbalové ihrisko, tenisový kurt"
+    },
+    {
+      "Level 2": "HK",
+      "Term (EN)": "Racetrack",
+      "Definition (EN)": "sports facility for racing competitions",
+      "Examples (EN)": "automobile racetrack, horse racetrack",
+      "Term (SK)": "Pretekárska dráha",
+      "Definition (SK)": "športové zariadenie na preteky",
+      "Examples (SK)": "automobilová pretekárska dráha, dostihová dráha"
+    },
+    {
+      "Level 2": "HL",
+      "Term (EN)": "Track and field area",
+      "Definition (EN)": "sports facility for track and field",
+      "Term (SK)": "Atletický areál",
+      "Definition (SK)": "športové zariadenie na atletiku"
+    },
+    {
+      "Level 2": "HM",
+      "Term (EN)": "Activity park",
+      "Definition (EN)": "sports facility for multiple or specific outdoor activity(ies)",
+      "Examples (EN)": "parkour facility, skateboard park",
+      "Term (SK)": "Park aktivít",
+      "Definition (SK)": "športové zariadenie na viaceré alebo špecifické aktivity vonku",
+      "Examples (SK)": "parkourové ihrisko, skateboardový park"
+    },
+    {
+      "Level 2": "HN",
+      "Term (EN)": "Downhill skiing slope",
+      "Definition (EN)": "sports facility for downhill skiing",
+      "Term (SK)": "Zjazdová trať",
+      "Definition (SK)": "športové zariadenie na zjazdové lyžovanie"
+    },
+    {
+      "Level 2": "HP",
+      "Term (EN)": "Exercise track",
+      "Definition (EN)": "sports facility for running",
+      "Examples (EN)": "jogging track",
+      "Term (SK)": "Cvičebná dráha",
+      "Definition (SK)": "športové zariadenie na beh",
+      "Examples (SK)": "bežecký okruh"
+    },
+    {
+      "Level 2": "HQ",
+      "Term (EN)": "Foot path",
+      "Definition (EN)": "sports facility for walking",
+      "Term (SK)": "Vychádzkový chodník",
+      "Definition (SK)": "športové zariadenie na chôdzu"
+    },
+    {
+      "Level 2": "HR",
+      "Term (EN)": "Golf course",
+      "Definition (EN)": "sports facility for golf",
+      "Examples (EN)": "driving range, miniature golf course",
+      "Term (SK)": "Golfové ihrisko",
+      "Definition (SK)": "športové zariadenie na golf",
+      "Examples (SK)": "cvičné odpalisko, minigolfové ihrisko"
+    },
+    {
+      "Level 1": "J_",
+      "Term (EN)": "Assembly facility",
+      "Definition (EN)": "construction entity for groups of people",
+      "Term (SK)": "Zhromažďovacie zariadenie",
+      "Definition (SK)": "stavebná entita pre skupiny ľudí"
+    },
+    {
+      "Level 2": "JA",
+      "Term (EN)": "Activity centre",
+      "Definition (EN)": "assembly facility for common activities",
+      "Term (SK)": "Centrum aktivít",
+      "Definition (SK)": "zhromažďovacie zariadenie na spoločné aktivity"
+    },
+    {
+      "Level 2": "JB",
+      "Term (EN)": "Community hall",
+      "Definition (EN)": "assembly facility for an association",
+      "Examples (EN)": "clubhouse, local hall",
+      "Term (SK)": "Spolkový dom",
+      "Definition (SK)": "zhromažďovacie zariadenie pre združenie",
+      "Examples (SK)": "klubovňa, miestna sála"
+    },
+    {
+      "Level 2": "JC",
+      "Term (EN)": "Ceremonial building",
+      "Definition (EN)": "assembly facility for a religious community",
+      "Examples (EN)": "cathedral, church, mosque, synagogue, temple",
+      "Term (SK)": "Sakrálna budova",
+      "Definition (SK)": "zhromažďovacie zariadenie pre náboženskú komunitu",
+      "Examples (SK)": "katedrála, kostol, mešita, synagóga, chrám"
+    },
+    {
+      "Level 2": "JD",
+      "Term (EN)": "Stand",
+      "Definition (EN)": "assembly facility for an audience",
+      "Examples (EN)": "spectator stand",
+      "Term (SK)": "Tribúna",
+      "Definition (SK)": "zhromažďovacie zariadenie pre publikum",
+      "Examples (SK)": "divácka tribúna"
+    },
+    {
+      "Level 2": "JE",
+      "Term (EN)": "Personnel building",
+      "Definition (EN)": "assembly facility for staff",
+      "Examples (EN)": "mess building",
+      "Term (SK)": "Budova zázemia pre zamestnancov",
+      "Definition (SK)": "zhromažďovacie zariadenie pre zamestnancov",
+      "Examples (SK)": "budova jedálne"
+    },
+    {
+      "Level 2": "JF",
+      "Term (EN)": "Square",
+      "Definition (EN)": "assembly facility for outdoors urban activities",
+      "Examples (EN)": "market",
+      "Term (SK)": "Námestie",
+      "Definition (SK)": "zhromažďovacie zariadenie na mestské aktivity vonku",
+      "Examples (SK)": "trhovisko"
+    },
+    {
+      "Level 2": "JG",
+      "Term (EN)": "Training site",
+      "Definition (EN)": "assembly facility for practicing competencies",
+      "Term (SK)": "Cvičisko",
+      "Definition (SK)": "zhromažďovacie zariadenie na nácvik zručností"
+    },
+    {
+      "Level 2": "JH",
+      "Term (EN)": "School yard",
+      "Definition (EN)": "assembly facility for school persons",
+      "Term (SK)": "Školský dvor",
+      "Definition (SK)": "zhromažďovacie zariadenie pre žiakov a zamestnancov školy"
+    },
+    {
+      "Level 1": "K_",
+      "Term (EN)": "Access or barrier facility",
+      "Definition (EN)": "construction entity for allowing or preventing movement",
+      "Term (SK)": "Prístupové alebo bariérové zariadenie",
+      "Definition (SK)": "stavebná entita na umožnenie alebo zabránenie pohybu"
+    },
+    {
+      "Level 2": "KA",
+      "Term (EN)": "Passageway",
+      "Definition (EN)": "access facility for horizontal movement between two or more buildings",
+      "Term (SK)": "Spojovací priechod",
+      "Definition (SK)": "prístupové zariadenie na horizontálny pohyb medzi dvoma alebo viacerými budovami"
+    },
+    {
+      "Level 2": "KB",
+      "Term (EN)": "Staircase tower",
+      "Definition (EN)": "access facility for non-automated vertical movement between two or more storeys",
+      "Term (SK)": "Schodisková veža",
+      "Definition (SK)": "prístupové zariadenie na vertikálny pohyb bez strojného pohonu medzi dvoma alebo viacerými podlažiami"
+    },
+    {
+      "Level 2": "KC",
+      "Term (EN)": "Lift tower",
+      "Definition (EN)": "access facility for automated vertical movement between two or more levels",
+      "Term (SK)": "Výťahová veža",
+      "Definition (SK)": "prístupové zariadenie na vertikálny pohyb so strojným pohonom medzi dvoma alebo viacerými úrovňami"
+    },
+    {
+      "Level 2": "KD",
+      "Term (EN)": "Gatehouse",
+      "Definition (EN)": "access facility to an open area",
+      "Term (SK)": "Vrátnica",
+      "Definition (SK)": "prístupové zariadenie do otvoreného priestranstva"
+    },
+    {
+      "Level 2": "KE",
+      "Term (EN)": "Tollgate",
+      "Definition (EN)": "access facility to a road",
+      "Term (SK)": "Mýtna brána",
+      "Definition (SK)": "prístupové zariadenie k ceste"
+    },
+    {
+      "Level 2": "KF",
+      "Term (EN)": "Barrier",
+      "Definition (EN)": "barrier facility",
+      "Examples (EN)": "fence, noise barrier, wall",
+      "Term (SK)": "Bariéra",
+      "Definition (SK)": "bariérové zariadenie",
+      "Examples (SK)": "plot, protihluková stena, múr"
+    },
+    {
+      "Level 1": "L_",
+      "Term (EN)": "Energy supply facility",
+      "Definition (EN)": "construction entity for conversion of energy",
+      "Term (SK)": "Zariadenie na zásobovanie energiou",
+      "Definition (SK)": "stavebná entita na premenu energie"
+    },
+    {
+      "Level 2": "LA",
+      "Term (EN)": "Power station",
+      "Definition (EN)": "energy supply facility for electrical power",
+      "Examples (EN)": "hydropower station, nuclear power station, solar cell array, wind turbine",
+      "Term (SK)": "Elektráreň",
+      "Definition (SK)": "zariadenie na zásobovanie energiou, ktoré dodáva elektrickú energiu",
+      "Examples (SK)": "vodná elektráreň, jadrová elektráreň, fotovoltické pole, veterná turbína, solárna elektráreň, veterná elektráreň, tepelná elektráreň"
+    },
+    {
+      "Level 2": "LB",
+      "Term (EN)": "Heating plant",
+      "Definition (EN)": "energy supply facility for hot liquid",
+      "Term (SK)": "Tepláreň",
+      "Definition (SK)": "zariadenie na zásobovanie energiou, ktoré dodáva horúcu kvapalinu"
+    },
+    {
+      "Level 2": "LC",
+      "Term (EN)": "Combined heat and power station",
+      "Definition (EN)": "energy supply facility for hot liquid and electrical power",
+      "Term (SK)": "Zariadenie na kombinovanú výrobu elektriny a tepla",
+      "Definition (SK)": "zariadenie na zásobovanie energiou, ktoré dodáva horúcu kvapalinu a elektrickú energiu"
+    },
+    {
+      "Level 2": "LD",
+      "Term (EN)": "Cooling plant",
+      "Definition (EN)": "energy supply facility for cold liquid",
+      "Term (SK)": "Chladiaca stanica",
+      "Definition (SK)": "zariadenie na zásobovanie energiou, ktoré dodáva studenú kvapalinu"
+    },
+    {
+      "Level 1": "M_",
+      "Term (EN)": "Distribution facility",
+      "Definition (EN)": "construction entity for distribution and communication between persons or systems",
+      "Term (SK)": "Distribučné zariadenie",
+      "Definition (SK)": "stavebná entita na distribúciu a komunikáciu medzi osobami alebo systémami"
+    },
+    {
+      "Level 2": "MA",
+      "Term (EN)": "Control tower",
+      "Definition (EN)": "distribution facility for control, regulation, and monitoring",
+      "Term (SK)": "Riadiaca veža",
+      "Definition (SK)": "distribučné zariadenie na riadenie, reguláciu a monitorovanie"
+    },
+    {
+      "Level 2": "MB",
+      "Term (EN)": "Aerial mast",
+      "Definition (EN)": "distribution facility for electromagnetic waves",
+      "Examples (EN)": "radio/TV mast, signal mast, transmission mast",
+      "Term (SK)": "Anténny stožiar",
+      "Definition (SK)": "distribučné zariadenie pre elektromagnetické vlny",
+      "Examples (SK)": "rozhlasový/televízny stožiar, signálny stožiar, vysielací stožiar"
+    },
+    {
+      "Level 2": "MC",
+      "Term (EN)": "Lighthouse",
+      "Definition (EN)": "distribution facility for optical signals",
+      "Term (SK)": "Maják",
+      "Definition (SK)": "distribučné zariadenie pre optické signály"
+    },
+    {
+      "Level 2": "MD",
+      "Term (EN)": "Bell tower",
+      "Definition (EN)": "distribution facility for audio signals",
+      "Term (SK)": "Zvonica",
+      "Definition (SK)": "distribučné zariadenie pre zvukové signály"
+    },
+    {
+      "Level 2": "ME",
+      "Term (EN)": "Overhead power line",
+      "Definition (EN)": "distribution facility for electrical power above ground",
+      "Term (SK)": "Nadzemné elektrické vedenie",
+      "Definition (SK)": "distribučné zariadenie pre elektrickú energiu nad zemou"
+    },
+    {
+      "Level 2": "MF",
+      "Term (EN)": "Power cabling",
+      "Definition (EN)": "distribution facility for electrical power in ground",
+      "Examples (EN)": "distribution line, power cable, power transmission",
+      "Term (SK)": "Silové káblové vedenie",
+      "Definition (SK)": "distribučné zariadenie pre elektrickú energiu v zemi",
+      "Examples (SK)": "distribučné vedenie, silový kábel, prenos elektrickej energie"
+    },
+    {
+      "Level 2": "MG",
+      "Term (EN)": "Overhead signal line",
+      "Definition (EN)": "distribution facility for signals above ground",
+      "Term (SK)": "Nadzemné vedenie signálov",
+      "Definition (SK)": "distribučné zariadenie pre signály nad zemou"
+    },
+    {
+      "Level 2": "MH",
+      "Term (EN)": "Signal cabling",
+      "Definition (EN)": "distribution facility for signals in ground",
+      "Term (SK)": "Signálne káblové vedenie",
+      "Definition (SK)": "distribučné zariadenie pre signály v zemi"
+    },
+    {
+      "Level 2": "MJ",
+      "Term (EN)": "Piping",
+      "Definition (EN)": "distribution facility for fluids in a closed environment",
+      "Examples (EN)": "day water piping, distribution network tunnel, fuel piping, wastewater piping, water supply piping, water tunnel",
+      "Term (SK)": "Potrubie",
+      "Definition (SK)": "distribučné zariadenie pre tekutiny v uzavretom prostredí",
+      "Examples (SK)": "potrubie dažďovej vody, tunel rozvodnej siete, palivové potrubie, potrubie odpadovej vody, vodovodné potrubie, vodný tunel"
+    },
+    {
+      "Level 2": "MK",
+      "Term (EN)": "Canal",
+      "Definition (EN)": "distribution facility for fluids in an open environment",
+      "Examples (EN)": "channel, ditch, drainage channel, irrigation channel",
+      "Term (SK)": "Kanál",
+      "Definition (SK)": "distribučné zariadenie pre tekutiny v otvorenom prostredí",
+      "Examples (SK)": "kanál, priekopa, odvodňovací kanál, zavlažovací kanál"
+    },
+    {
+      "Level 2": "ML",
+      "Term (EN)": "Heating piping",
+      "Definition (EN)": "distribution facility for heating fluid",
+      "Term (SK)": "Vykurovacie potrubie",
+      "Definition (SK)": "distribučné zariadenie pre teplonosnú látku"
+    },
+    {
+      "Level 2": "MM",
+      "Term (EN)": "Cooling piping",
+      "Definition (EN)": "distribution facility for cooling fluid",
+      "Term (SK)": "Chladiace potrubie",
+      "Definition (SK)": "distribučné zariadenie pre chladiacu látku"
+    },
+    {
+      "Level 2": "MN",
+      "Term (EN)": "Distribution node facility",
+      "Definition (EN)": "distribution facility for connecting parts of the network",
+      "Term (SK)": "Zariadenie distribučného uzla",
+      "Definition (SK)": "distribučné zariadenie na prepojenie častí siete"
+    },
+    {
+      "Level 2": "MP",
+      "Term (EN)": "Conveyor",
+      "Definition (EN)": "distribution facility for moving matter over larger distances",
+      "Examples (EN)": "belt conveyor",
+      "Term (SK)": "Dopravník",
+      "Definition (SK)": "distribučné zariadenie na premiestňovanie hmoty na väčšie vzdialenosti",
+      "Examples (SK)": "pásový dopravník"
+    },
+    {
+      "Level 2": "MQ",
+      "Term (EN)": "Cable car",
+      "Definition (EN)": "distribution facility for moving people over larger distances",
+      "Examples (EN)": "aerial lift, aerial tramway, gondola, ropeway, ski lift",
+      "Term (SK)": "Lanovka",
+      "Definition (SK)": "distribučné zariadenie na prepravu osôb na väčšie vzdialenosti",
+      "Examples (SK)": "visutá lanovka, kyvadlová lanovka, kabínková lanovka, lanová dráha, lyžiarsky vlek"
+    },
+    {
+      "Level 2": "MR",
+      "Term (EN)": "Garbage suction facility",
+      "Definition (EN)": "distribution facility for solid waste",
+      "Term (SK)": "Zariadenie na odsávanie odpadu",
+      "Definition (SK)": "distribučné zariadenie na tuhý odpad"
+    },
+    {
+      "Level 1": "N_",
+      "Term (EN)": "Production facility",
+      "Definition (EN)": "construction entity for raw materials extraction or for manufacturing",
+      "Term (SK)": "Výrobné zariadenie",
+      "Definition (SK)": "stavebná entita na ťažbu surovín alebo na výrobu"
+    },
+    {
+      "Term (EN)": "Mine",
+      "Definition (EN)": "production facility for solid matter used for further refinement",
+      "Examples (EN)": "open-pit mine, quarry, raw materials facility",
+      "Term (SK)": "Baňa",
+      "Definition (SK)": "výrobné zariadenie na pevné látky používané na ďalšie zušľachťovanie",
+      "Examples (SK)": "povrchová baňa, lom, zariadenie na ťažbu surovín"
+    },
+    {
+      "Level 2": "NB",
+      "Term (EN)": "Gas or liquid extraction facility",
+      "Definition (EN)": "production facility for fluid matter used for further refinement",
+      "Examples (EN)": "gas extraction site, oil extraction site",
+      "Term (SK)": "Zariadenie na ťažbu plynu alebo kvapaliny",
+      "Definition (SK)": "výrobné zariadenie na tekuté látky používané na ďalšie zušľachťovanie",
+      "Examples (SK)": "miesto ťažby plynu, miesto ťažby ropy"
+    },
+    {
+      "Level 2": "NC",
+      "Term (EN)": "Refinement facility",
+      "Definition (EN)": "production facility for matter refinement",
+      "Examples (EN)": "demineralisation plant, gas decarbonisation plant, refinery, slaughterhouse, waste reclamation facility",
+      "Term (SK)": "Zariadenie na zušľachťovanie",
+      "Definition (SK)": "výrobné zariadenie na zušľachťovanie látok",
+      "Examples (SK)": "demineralizačné zariadenie, zariadenie na dekarbonizáciu plynu, rafinéria, bitúnok, zariadenie na zhodnocovanie odpadu"
+    },
+    {
+      "Level 2": "ND",
+      "Term (EN)": "Workshop",
+      "Definition (EN)": "production facility for fabrication or repair of products",
+      "Examples (EN)": "craft production facility, fabrication building, factory, manufacturing facility, shipyard",
+      "Term (SK)": "Dielňa",
+      "Definition (SK)": "výrobné zariadenie na výrobu alebo opravu výrobkov",
+      "Examples (SK)": "zariadenie na remeselnú výrobu, výrobná budova, továreň, výrobný závod, lodenica na stavbu lodí"
+    },
+    {
+      "Level 2": "NE",
+      "Term (EN)": "Greenhouse",
+      "Definition (EN)": "production facility for indoor plant production",
+      "Term (SK)": "Skleník",
+      "Definition (SK)": "výrobné zariadenie na pestovanie rastlín v interiéri"
+    },
+    {
+      "Level 1": "P_",
+      "Term (EN)": "Processing facility",
+      "Definition (EN)": "construction entity for treating matter or electricity",
+      "Term (SK)": "Spracovateľské zariadenie",
+      "Definition (SK)": "stavebná entita na spracovanie hmoty alebo elektriny"
+    },
+    {
+      "Level 2": "PA",
+      "Term (EN)": "Pumping station",
+      "Definition (EN)": "processing facility to increase pressure",
+      "Term (SK)": "Čerpacia stanica",
+      "Definition (SK)": "spracovateľské zariadenie na zvýšenie tlaku"
+    },
+    {
+      "Level 2": "PB",
+      "Term (EN)": "Treatment facility",
+      "Definition (EN)": "processing facility for treating matter",
+      "Examples (EN)": "sewage cleaning facility, water treatment facility",
+      "Term (SK)": "Úpravňa",
+      "Definition (SK)": "spracovateľské zariadenie na úpravu hmoty",
+      "Examples (SK)": "čistiareň odpadových vôd, úpravňa vody"
+    },
+    {
+      "Level 2": "PC",
+      "Term (EN)": "Incinerator facility",
+      "Definition (EN)": "processing facility for destruction by burning",
+      "Term (SK)": "Spaľovňa odpadov",
+      "Definition (SK)": "spracovateľské zariadenie na ničenie spaľovaním"
+    },
+    {
+      "Level 2": "PD",
+      "Term (EN)": "Washing facility",
+      "Definition (EN)": "processing facility for cleaning objects",
+      "Term (SK)": "Umývacie zariadenie",
+      "Definition (SK)": "spracovateľské zariadenie na čistenie predmetov"
+    },
+    {
+      "Level 2": "PE",
+      "Term (EN)": "Print shop",
+      "Definition (EN)": "processing facility for printing",
+      "Term (SK)": "Tlačiareň",
+      "Definition (SK)": "spracovateľské zariadenie na tlač"
+    },
+    {
+      "Level 2": "PF",
+      "Term (EN)": "Mail sorting terminal",
+      "Definition (EN)": "processing facility for mail sorting",
+      "Term (SK)": "Terminál na triedenie pošty",
+      "Definition (SK)": "spracovateľské zariadenie na triedenie pošty"
+    },
+    {
+      "Level 2": "PG",
+      "Term (EN)": "Measuring station",
+      "Definition (EN)": "processing facility for surveillance and/or data capture",
+      "Examples (EN)": "testing station, weather station",
+      "Term (SK)": "Meracia stanica",
+      "Definition (SK)": "spracovateľské zariadenie na sledovanie a/alebo zber údajov",
+      "Examples (SK)": "testovacia stanica, meteorologická stanica"
+    },
+    {
+      "Level 2": "PH",
+      "Term (EN)": "Electrical power treatment facility",
+      "Definition (EN)": "processing facility for treating electrical power",
+      "Examples (EN)": "electrical substation, electrical transformer, switching station",
+      "Term (SK)": "Zariadenie na úpravu elektrickej energie",
+      "Definition (SK)": "spracovateľské zariadenie na úpravu elektrickej energie",
+      "Examples (SK)": "transformovňa, elektrický transformátor, spínacia stanica, rozvodňa"
+    },
+    {
+      "Level 1": "Q_",
+      "Term (EN)": "Storage facility",
+      "Definition (EN)": "construction entity for accumulations of matter or energy",
+      "Term (SK)": "Skladovacie zariadenie",
+      "Definition (SK)": "stavebná entita na akumuláciu hmoty alebo energie"
+    },
+    {
+      "Level 2": "QA",
+      "Term (EN)": "Raw materials depot",
+      "Definition (EN)": "storage facility for matter used for further refinement",
+      "Examples (EN)": "storage yard",
+      "Term (SK)": "Sklad surovín",
+      "Definition (SK)": "skladovacie zariadenie na látky používané na ďalšie zušľachťovanie",
+      "Examples (SK)": "otvorená skladová plocha"
+    },
+    {
+      "Level 2": "QB",
+      "Term (EN)": "Products storage",
+      "Definition (EN)": "storage facility for products",
+      "Examples (EN)": "cold storage facility, freezer storage facility, recycling centre, self-storage facility, storehouse, warehouse",
+      "Term (SK)": "Sklad výrobkov",
+      "Definition (SK)": "skladovacie zariadenie na výrobky",
+      "Examples (SK)": "chladiarenský sklad, mraziarenský sklad, recyklačné centrum, samoobslužný sklad, skladisko, sklad"
+    },
+    {
+      "Level 2": "QC",
+      "Term (EN)": "Equipment building",
+      "Definition (EN)": "storage facility for moveable technical equipment",
+      "Term (SK)": "Sklad vybavenia",
+      "Definition (SK)": "skladovacie zariadenie na premiestniteľné technické vybavenie"
+    },
+    {
+      "Level 2": "QD",
+      "Term (EN)": "Garage",
+      "Definition (EN)": "storage facility for four-wheeled or larger road vehicles",
+      "Examples (EN)": "car park, carport",
+      "Term (SK)": "Garáž",
+      "Definition (SK)": "skladovacie zariadenie pre štvorkolesové alebo väčšie cestné vozidlá",
+      "Examples (SK)": "parkovisko, prístrešok pre auto"
+    },
+    {
+      "Level 2": "QE",
+      "Term (EN)": "Bicycle parking",
+      "Definition (EN)": "storage facility for two-wheeled road vehicles",
+      "Term (SK)": "Parkovisko pre bicykle",
+      "Definition (SK)": "skladovacie zariadenie pre dvojkolesové cestné vozidlá"
+    },
+    {
+      "Level 2": "QF",
+      "Term (EN)": "Train garage",
+      "Definition (EN)": "storage facility for railway vehicles",
+      "Examples (EN)": "siding",
+      "Term (SK)": "Depo železničných vozidiel",
+      "Definition (SK)": "skladovacie zariadenie pre železničné vozidlá",
+      "Examples (SK)": "odstavná koľaj"
+    },
+    {
+      "Level 2": "QG",
+      "Term (EN)": "Hangar",
+      "Definition (EN)": "storage facility for aircraft",
+      "Examples (EN)": "apron",
+      "Term (SK)": "Hangár",
+      "Definition (SK)": "skladovacie zariadenie pre lietadlá",
+      "Examples (SK)": "odbavovacia plocha"
+    },
+    {
+      "Level 2": "QH",
+      "Term (EN)": "Boathouse",
+      "Definition (EN)": "storage facility for watercraft",
+      "Examples (EN)": "dolphin, marina, quay",
+      "Term (SK)": "Lodenica",
+      "Definition (SK)": "skladovacie zariadenie pre plavidlá",
+      "Examples (SK)": "dalba, marína, prístavné nábrežie"
+    },
+    {
+      "Level 2": "QJ",
+      "Term (EN)": "Container space",
+      "Definition (EN)": "storage facility for containers",
+      "Term (SK)": "Kontajnerové skladisko",
+      "Definition (SK)": "skladovacie zariadenie pre kontajnery"
+    },
+    {
+      "Level 2": "QK",
+      "Term (EN)": "Tank",
+      "Definition (EN)": "storage facility for liquid, gas or other masses in sealed units",
+      "Examples (EN)": "cistern, gas tank, oil tank, petrol tank, pool, silo",
+      "Term (SK)": "Nádrž",
+      "Definition (SK)": "skladovacie zariadenie na kvapaliny, plyny alebo iné hmoty v uzavretých jednotkách",
+      "Examples (SK)": "cisterna, nádrž na plyn, nádrž na olej, nádrž na benzín, bazén, silo"
+    },
+    {
+      "Level 2": "QL",
+      "Term (EN)": "Landfill site",
+      "Definition (EN)": "storage facility for loosened earth material",
+      "Term (SK)": "Skládka",
+      "Definition (SK)": "skladovacie zariadenie na uvoľnený zemný materiál"
+    },
+    {
+      "Level 2": "QM",
+      "Term (EN)": "Geological repository",
+      "Definition (EN)": "storage facility for hazardous material underground",
+      "Term (SK)": "Geologické úložisko",
+      "Definition (SK)": "skladovacie zariadenie na nebezpečný materiál v podzemí"
+    },
+    {
+      "Level 2": "QN",
+      "Term (EN)": "Animal house",
+      "Definition (EN)": "storage facility for animals",
+      "Examples (EN)": "animal stall, cow barn, poultry farm, stables",
+      "Term (SK)": "Budova na ustajnenie zvierat",
+      "Definition (SK)": "skladovacie zariadenie pre zvieratá",
+      "Examples (SK)": "maštaľ, kravín, hydinová farma, stajňa"
+    },
+    {
+      "Level 2": "QP",
+      "Term (EN)": "Data storage",
+      "Definition (EN)": "storage facility for data",
+      "Examples (EN)": "server building",
+      "Term (SK)": "Úložisko údajov",
+      "Definition (SK)": "skladovacie zariadenie pre údaje",
+      "Examples (SK)": "budova serverovne"
+    },
+    {
+      "Level 2": "QQ",
+      "Term (EN)": "Energy storage",
+      "Definition (EN)": "storage facility for energy",
+      "Examples (EN)": "battery energy storage systems (BESS), compressed air energy storage, flow batteries energy storage, mechanical gravity energy storage",
+      "Term (SK)": "Úložisko energie",
+      "Definition (SK)": "skladovacie zariadenie pre energiu",
+      "Examples (SK)": "batériové úložisko energie (BESS), úložisko energie stlačeného vzduchu, úložisko energie s prietokovými batériami, mechanické gravitačné úložisko energie"
+    },
+    {
+      "Level 2": "QZ",
+      "Term (EN)": "Burial site",
+      "Definition (EN)": "storage facility for the deceased",
+      "Examples (EN)": "cemetery, churchyard, graveyard, mausoleum, mortuary",
+      "Term (SK)": "Pohrebisko",
+      "Definition (SK)": "skladovacie zariadenie na uloženie zosnulých",
+      "Examples (SK)": "cintorín, prikostolný cintorín, hrobové pole, mauzóleum, márnica"
+    },
+    {
+      "Level 1": "R_",
+      "Term (EN)": "Traffic facility",
+      "Definition (EN)": "construction entity for discrete transport of people and/or matter",
+      "Term (SK)": "Dopravné zariadenie",
+      "Definition (SK)": "stavebná entita na nespojitú dopravu osôb a/alebo hmoty"
+    },
+    {
+      "Level 2": "RA",
+      "Term (EN)": "Road",
+      "Definition (EN)": "traffic facility on land for non-track bound vehicles",
+      "Examples (EN)": "alley, avenue, beltway, highway, motorway, ring road, street",
+      "Term (SK)": "Pozemná komunikácia",
+      "Definition (SK)": "dopravné zariadenie na súši pre vozidlá neviazané na koľaj",
+      "Examples (SK)": "ulička, trieda, diaľničný okruh, rýchlostná cesta, diaľnica, okružná cesta, ulica, aleja"
+    },
+    {
+      "Level 2": "RB",
+      "Term (EN)": "Railroad",
+      "Definition (EN)": "traffic facility for long distance transport with rail bound vehicles, with level crossings with other traffic",
+      "Examples (EN)": "light railway, heavy railway",
+      "Term (SK)": "Železnica",
+      "Definition (SK)": "dopravné zariadenie na diaľkovú dopravu koľajovými vozidlami s úrovňovým krížením s inou dopravou",
+      "Examples (SK)": "lokálna železnica, konvenčná železnica"
+    },
+    {
+      "Level 2": "RC",
+      "Term (EN)": "Light rail transit (LRT)",
+      "Definition (EN)": "traffic facility for urban transport with rail bound vehicles, with level crossings with other traffic",
+      "Examples (EN)": "streetcar, tramway, trolley",
+      "Term (SK)": "Ľahká koľajová doprava (LRT)",
+      "Definition (SK)": "dopravné zariadenie na mestskú dopravu koľajovými vozidlami s úrovňovým krížením s inou dopravou",
+      "Examples (SK)": "električka, električková trať, električková doprava"
+    },
+    {
+      "Level 2": "RD",
+      "Term (EN)": "Rapid transit",
+      "Definition (EN)": "traffic facility for urban transport with rail bound vehicles, without level crossings with other traffic",
+      "Examples (EN)": "elevated railway, elevated train, mass rapid transit (MRT), metro, medium-capacity rail system (MCS), monorail, subway, suspension railway, tube, underground",
+      "Term (SK)": "Rýchla mestská koľajová doprava",
+      "Definition (SK)": "dopravné zariadenie na mestskú dopravu koľajovými vozidlami bez úrovňového kríženia s inou dopravou",
+      "Examples (SK)": "nadzemná železnica, nadzemný vlak, vysokokapacitná rýchla doprava (MRT), metro, stredokapacitný koľajový systém (MCS), jednokoľajnicová dráha, podzemná dráha, visutá dráha, hlbinné metro, podzemná železnica"
+    },
+    {
+      "Level 2": "RE",
+      "Term (EN)": "Funicular",
+      "Definition (EN)": "traffic facility for hillside railway traffic",
+      "Term (SK)": "Pozemná lanová dráha",
+      "Definition (SK)": "dopravné zariadenie pre železničnú dopravu na svahu"
+    },
+    {
+      "Level 2": "RF",
+      "Term (EN)": "Footpath",
+      "Definition (EN)": "traffic facility for pedestrian traffic",
+      "Examples (EN)": "pavement, sidewalk",
+      "Term (SK)": "Chodník",
+      "Definition (SK)": "dopravné zariadenie pre pešiu dopravu",
+      "Examples (SK)": "chodník pri ulici, chodník"
+    },
+    {
+      "Level 2": "RG",
+      "Term (EN)": "Foot and bicycle path",
+      "Definition (EN)": "traffic facility for bicycle and pedestrian traffic",
+      "Term (SK)": "Chodník pre chodcov a cyklistov",
+      "Definition (SK)": "dopravné zariadenie pre cyklistickú a pešiu dopravu"
+    },
+    {
+      "Level 2": "RH",
+      "Term (EN)": "Bicycle path",
+      "Definition (EN)": "traffic facility for bicycle traffic",
+      "Term (SK)": "Cyklistický chodník",
+      "Definition (SK)": "dopravné zariadenie pre cyklistickú dopravu"
+    },
+    {
+      "Level 2": "RJ",
+      "Term (EN)": "Airport way",
+      "Definition (EN)": "traffic facility for air traffic starting, landing and ground movements",
+      "Examples (EN)": "helidrome, heliport, rotor station",
+      "Term (SK)": "Letisková dráha",
+      "Definition (SK)": "dopravné zariadenie na vzlet, pristátie a pohyb lietadiel po zemi",
+      "Examples (SK)": "letisko pre vrtuľníky, heliport, stanovište vrtuľníkov"
+    },
+    {
+      "Level 2": "RK",
+      "Term (EN)": "Bridge",
+      "Definition (EN)": "traffic facility to cross over an obstacle",
+      "Examples (EN)": "viaduct",
+      "Term (SK)": "Most",
+      "Definition (SK)": "dopravné zariadenie na prekonanie prekážky ponad ňu",
+      "Examples (SK)": "viadukt"
+    },
+    {
+      "Level 2": "RL",
+      "Term (EN)": "Transport tunnel",
+      "Definition (EN)": "traffic facility to cross under or through an obstacle",
+      "Term (SK)": "Dopravný tunel",
+      "Definition (SK)": "dopravné zariadenie na prekonanie prekážky pod ňou alebo cez ňu"
+    },
+    {
+      "Level 2": "RM",
+      "Term (EN)": "Transport canal",
+      "Definition (EN)": "traffic facility for water-borne traffic in ground",
+      "Term (SK)": "Prieplav",
+      "Definition (SK)": "dopravné zariadenie pre vodnú dopravu v teréne"
+    },
+    {
+      "Level 2": "RN",
+      "Term (EN)": "Aqueduct",
+      "Definition (EN)": "traffic facility for water-borne traffic above ground",
+      "Term (SK)": "Plavebný most",
+      "Definition (SK)": "dopravné zariadenie pre vodnú dopravu nad terénom"
+    },
+    {
+      "Level 2": "RP",
+      "Term (EN)": "Bridleway",
+      "Definition (EN)": "traffic facility for equestrian traffic",
+      "Term (SK)": "Jazdecký chodník",
+      "Definition (SK)": "dopravné zariadenie pre jazdeckú dopravu"
+    },
+    {
+      "Level 2": "RQ",
+      "Term (EN)": "Wildlife crossing",
+      "Definition (EN)": "traffic facility for wildlife bypassing man-made entities",
+      "Examples (EN)": "amphibian tunnel, animal bypass, ecoduct, fish ladder, green bridge, small mammals tunnel, wildlife bridge, wildlife viaduct",
+      "Term (SK)": "Prechod pre voľne žijúce živočíchy",
+      "Definition (SK)": "dopravné zariadenie, ktoré umožňuje voľne žijúcim živočíchom obísť umelé stavby",
+      "Examples (SK)": "tunel pre obojživelníky, migračný obchvat pre zvieratá, ekodukt, rybovod, zelený most, tunel pre drobné cicavce, most pre zver, viadukt pre zver"
+    },
+    {
+      "Level 1": "S_",
+      "Term (EN)": "Traffic transfer facility",
+      "Definition (EN)": "construction entity for connecting traffic facilities",
+      "Term (SK)": "Prestupné dopravné zariadenie",
+      "Definition (SK)": "stavebná entita na prepojenie dopravných zariadení"
+    },
+    {
+      "Level 2": "SA",
+      "Term (EN)": "Train station",
+      "Definition (EN)": "traffic transfer facility between rail transport and other traffic",
+      "Term (SK)": "Železničná stanica",
+      "Definition (SK)": "prestupné dopravné zariadenie medzi železničnou a inou dopravou"
+    },
+    {
+      "Level 2": "SB",
+      "Term (EN)": "Railway platform",
+      "Definition (EN)": "traffic transfer facility for embarking a rail bound vehicle",
+      "Term (SK)": "Železničné nástupište",
+      "Definition (SK)": "prestupné dopravné zariadenie na nastupovanie do koľajových vozidiel"
+    },
+    {
+      "Level 2": "SC",
+      "Term (EN)": "Level crossing",
+      "Definition (EN)": "traffic transfer facility between railroads and roads or paths",
+      "Examples (EN)": "railway crossing",
+      "Term (SK)": "Úrovňové priecestie",
+      "Definition (SK)": "prestupné dopravné zariadenie medzi železnicou a cestami alebo chodníkmi",
+      "Examples (SK)": "železničné priecestie"
+    },
+    {
+      "Level 2": "SD",
+      "Term (EN)": "Travel centre",
+      "Definition (EN)": "traffic transfer facility between multiple means of transport",
+      "Term (SK)": "Integrovaný dopravný terminál",
+      "Definition (SK)": "prestupné dopravné zariadenie medzi viacerými druhmi dopravy"
+    },
+    {
+      "Level 2": "SE",
+      "Term (EN)": "Airport terminal",
+      "Definition (EN)": "traffic transfer facility between air transport and other traffic",
+      "Term (SK)": "Letiskový terminál",
+      "Definition (SK)": "prestupné dopravné zariadenie medzi leteckou a inou dopravou"
+    },
+    {
+      "Level 2": "SF",
+      "Term (EN)": "Bus station",
+      "Definition (EN)": "traffic transfer facility between bus transport and other traffic",
+      "Term (SK)": "Autobusová stanica",
+      "Definition (SK)": "prestupné dopravné zariadenie medzi autobusovou a inou dopravou"
+    },
+    {
+      "Level 2": "SG",
+      "Term (EN)": "Truck terminal",
+      "Definition (EN)": "traffic transfer facility between truck transport and other traffic",
+      "Term (SK)": "Terminál pre nákladné vozidlá",
+      "Definition (SK)": "prestupné dopravné zariadenie medzi nákladnou cestnou a inou dopravou"
+    },
+    {
+      "Level 2": "SH",
+      "Term (EN)": "Taxi stand",
+      "Definition (EN)": "traffic transfer facility between taxi transport and other traffic",
+      "Term (SK)": "Stanovište taxíkov",
+      "Definition (SK)": "prestupné dopravné zariadenie medzi taxislužbou a inou dopravou"
+    },
+    {
+      "Level 2": "SJ",
+      "Term (EN)": "Sea terminal",
+      "Definition (EN)": "traffic transfer facility between water-borne and other traffic",
+      "Examples (EN)": "ferry terminal, harbour, quay, wharf",
+      "Term (SK)": "Námorný terminál",
+      "Definition (SK)": "prestupné dopravné zariadenie medzi vodnou a inou dopravou",
+      "Examples (SK)": "trajektový terminál, prístav, prístavné nábrežie, prístavisko"
+    },
+    {
+      "Level 1": "T_",
+      "Term (EN)": "Land use facility",
+      "Definition (EN)": "construction entity for land-based production",
+      "Term (SK)": "Zariadenie na využívanie pôdy",
+      "Definition (SK)": "stavebná entita na výrobu viazanú na pôdu"
+    },
+    {
+      "Level 2": "TA",
+      "Term (EN)": "Field",
+      "Definition (EN)": "land use facility for annual yield",
+      "Examples (EN)": "cropland, grazing land, pasture",
+      "Term (SK)": "Pole",
+      "Definition (SK)": "zariadenie na využívanie pôdy s ročným výnosom",
+      "Examples (SK)": "orná pôda, pastvina, pasienok"
+    },
+    {
+      "Level 2": "TB",
+      "Term (EN)": "Forest",
+      "Definition (EN)": "land use facility for long-term yield",
+      "Examples (EN)": "energy forest",
+      "Term (SK)": "Les",
+      "Definition (SK)": "zariadenie na využívanie pôdy s dlhodobým výnosom",
+      "Examples (SK)": "energetický porast"
+    },
+    {
+      "Level 1": "U_",
+      "Term (EN)": "Water control facility",
+      "Definition (EN)": "construction entity for water management",
+      "Term (SK)": "Vodohospodárske zariadenie",
+      "Definition (SK)": "stavebná entita na hospodárenie s vodou"
+    },
+    {
+      "Level 2": "UA",
+      "Term (EN)": "Dam",
+      "Definition (EN)": "water control facility to retain a water level",
+      "Term (SK)": "Priehrada",
+      "Definition (SK)": "vodohospodárske zariadenie na udržiavanie vodnej hladiny"
+    },
+    {
+      "Level 2": "UB",
+      "Term (EN)": "Barrage",
+      "Definition (EN)": "water control facility to retain a water level with an overflow",
+      "Term (SK)": "Jez",
+      "Definition (SK)": "vodohospodárske zariadenie na zadržiavanie vodnej hladiny s prepadom"
+    },
+    {
+      "Level 2": "UC",
+      "Term (EN)": "Sluice",
+      "Definition (EN)": "water control facility to adjust water level",
+      "Term (SK)": "Stavidlo",
+      "Definition (SK)": "vodohospodárske zariadenie na úpravu hladiny vody"
+    },
+    {
+      "Level 2": "UD",
+      "Term (EN)": "Mole",
+      "Definition (EN)": "water control facility to dampen wave movements",
+      "Examples (EN)": "breakwater, causeway, pier",
+      "Term (SK)": "Mólo",
+      "Definition (SK)": "vodohospodárske zariadenie na tlmenie pohybu vĺn",
+      "Examples (SK)": "vlnolam, hrádzová cesta, mólo"
+    },
+    {
+      "Level 2": "UF",
+      "Term (EN)": "Dry dock",
+      "Definition (EN)": "water control facility to lower the water level to zero",
+      "Term (SK)": "Suchý dok",
+      "Definition (SK)": "vodohospodárske zariadenie na zníženie hladiny vody na nulu"
+    },
+    {
+      "Level 2": "UG",
+      "Term (EN)": "Dyke",
+      "Definition (EN)": "water control facility to prevent overflow",
+      "Examples (EN)": "dike, levee",
+      "Term (SK)": "Hrádza",
+      "Definition (SK)": "vodohospodárske zariadenie na zabránenie vybreženiu",
+      "Examples (SK)": "ochranná hrádza, protipovodňový val"
+    },
+    {
+      "Level 2": "UH",
+      "Term (EN)": "Gate",
+      "Definition (EN)": "water control facility to control a water flow",
+      "Term (SK)": "Uzáver",
+      "Definition (SK)": "vodohospodárske zariadenie na reguláciu prietoku vody"
+    },
+    {
+      "Level 1": "X_",
+      "Term (EN)": "Ruins",
+      "Definition (EN)": "construction entity permanently lacking original use",
+      "Term (SK)": "Zrúcaniny",
+      "Definition (SK)": "stavebná entita, ktorá trvalo stratila pôvodné využitie"
+    },
+    {
+      "Level 2": "XA",
+      "Term (EN)": "Contemporary building ruins",
+      "Definition (EN)": "ruins lacking cultural and historic value",
+      "Term (SK)": "Zrúcaniny súčasných budov",
+      "Definition (SK)": "zrúcaniny bez kultúrnej a historickej hodnoty"
+    },
+    {
+      "Level 2": "XB",
+      "Term (EN)": "Cultural heritage building ruins",
+      "Definition (EN)": "ruins of cultural and historic value of a building",
+      "Term (SK)": "Zrúcaniny budov kultúrneho dedičstva",
+      "Definition (SK)": "zrúcaniny budovy s kultúrnou a historickou hodnotou"
+    },
+    {
+      "Level 2": "XC",
+      "Term (EN)": "Cultural heritage site ruins",
+      "Definition (EN)": "ruins of cultural and historic value of a site",
+      "Term (SK)": "Zrúcaniny lokalít kultúrneho dedičstva",
+      "Definition (SK)": "zrúcaniny lokality s kultúrnou a historickou hodnotou"
+    },
+    {
+      "Level 2": "XD",
+      "Term (EN)": "Cultural heritage grave ruins",
+      "Definition (EN)": "ruins of cultural and historic value of a grave or grave site",
+      "Term (SK)": "Zrúcaniny hrobov kultúrneho dedičstva",
+      "Definition (SK)": "zrúcaniny hrobu alebo hrobového miesta s kultúrnou a historickou hodnotou"
+    },
+    {
+      "Level 1": "Y_",
+      "Term (EN)": "Ornamental entity",
+      "Definition (EN)": "construction entity with symbolic or artistic meaning",
+      "Term (SK)": "Okrasná entita",
+      "Definition (SK)": "stavebná entita so symbolickým alebo umeleckým významom"
+    },
+    {
+      "Level 2": "YA",
+      "Term (EN)": "Monument",
+      "Definition (EN)": "ornamental entity for remembrance of person or event",
+      "Term (SK)": "Pamätník",
+      "Definition (SK)": "okrasná entita na pamiatku osoby alebo udalosti"
+    },
+    {
+      "Level 2": "YB",
+      "Term (EN)": "Fountain",
+      "Definition (EN)": "ornamental entity with water",
+      "Term (SK)": "Fontána",
+      "Definition (SK)": "okrasná entita s vodou"
+    },
+    {
+      "Level 2": "YC",
+      "Term (EN)": "Statue",
+      "Definition (EN)": "ornamental entity in freestanding sculptural form",
+      "Term (SK)": "Socha",
+      "Definition (SK)": "okrasná entita vo forme voľne stojacej sochy"
+    },
+    {
+      "Level 1": "Z_",
+      "Term (EN)": "Unknown construction entity",
+      "Definition (EN)": "construction entity with unknown use",
+      "Term (SK)": "Neznáma stavebná entita",
+      "Definition (SK)": "stavebná entita s neznámym využitím"
+    },
+    {
+      "Level 2": "ZZ",
+      "Term (EN)": "Unknown construction entity",
+      "Definition (EN)": "unknown construction entity",
+      "Term (SK)": "Neznáma stavebná entita",
+      "Definition (SK)": "neznáma stavebná entita"
+    }
+  ]
+}
